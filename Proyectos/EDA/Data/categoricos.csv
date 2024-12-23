@@ -1,0 +1,1679 @@
+,attrition,businesstravel,department,educationfield,gender,jobrole,maritalstatus,over18,overtime,standardhours,roledepartament,remotework
+0,No,,,,0, resEArch DIREcToR ,,Y,No,Full Time,,Yes
+1,No,,,Life Sciences,0, ManAGeR ,,,,,,1
+2,No,travel_rarely, Research & Development ,Technical Degree,0, ManaGER ,Married,,No,, ManaGER  -  Research & Development ,1
+3,No,travel_rarely,,Medical,1, ReseArCH DIrECtOr ,Married,Y,,Full Time,,False
+4,No,,,Technical Degree,1, sAleS EXECUtIve ,Divorced,Y,No,,,0
+5,No,, Research & Development ,Medical,1, MANAger ,,,No,, MANAger  -  Research & Development ,Yes
+6,No,,,Life Sciences,1, Sales ExeCutIVe ,,Y,,Part Time,,True
+7,No,travel_rarely,,,0, Sales eXEcUTiVe ,Married,,No,Part Time,,0
+8,No,,,,1, mANAGEr ,Married,,No,Full Time,,True
+9,No,travel_frequently,,,0, reSEaRCH DIrectoR ,,,No,,,0
+10,No,non-travel,,,1, RESeArcH DIrEctoR ,,Y,No,Full Time,,0
+11,No,travel_rarely,,Life Sciences,0, MANUfACturing DIReCtOr ,Married,,Yes,Full Time,,False
+12,No,,,Medical,1, REseaRCh dirEcToR ,Married,Y,No,Full Time,,1
+13,Yes,travel_rarely,,,1, reseARCh DIrEctoR ,Married,,No,Full Time,,False
+14,No,,,Medical,0, RESeaRCH dirEctor ,Single,,No,,,True
+15,No,travel_rarely,,,1, MAnAgeR ,,,No,Full Time,,0
+16,Yes,travel_rarely,,,0, reSeARCh DIrEcToR ,Single,Y,Yes,Full Time,,0
+17,No,travel_rarely,,,1, MAnaGER ,,,,,,False
+18,No,,,Life Sciences,0, REseArcH sciENtiST ,Married,,,,,False
+19,No,travel_rarely,,Life Sciences,1, MAnUFaCtUring dIRecTOr ,,Y,,,,True
+20,No,non-travel, Research & Development ,,0, heaLtHcArE repResENtATiVe ,,Y,,Full Time, heaLtHcArE repResENtATiVe  -  Research & Development ,False
+21,No,,,Life Sciences,1, RESEARCH dIrECtor ,Single,,Yes,Part Time,,True
+22,No,,,,1, hEaltHCarE ReprESENTAtIvE ,Divorced,Y,,,,1
+23,No,,,Other,1, maNagEr ,Married,,,Full Time,,False
+24,No,travel_rarely,,Life Sciences,0, SALEs exeCUtIVe ,,Y,,Full Time,,True
+25,No,,,Life Sciences,1, manUfACtURing dirEctOR ,Married,Y,Yes,Part Time,,False
+26,Yes,,,,1, mAnageR ,Married,Y,No,Full Time,,1
+27,No,,,Life Sciences,1, MaNufActURing dIrecTOr ,Single,Y,Yes,,,0
+28,No,travel_rarely,,Life Sciences,0, laBoratOry tecHNiCiaN ,Married,Y,,Part Time,,Yes
+29,No,non-travel, Sales ,Life Sciences,0, saLEs exEcutIVe ,,Y,Yes,Part Time, saLEs exEcutIVe  -  Sales ,1
+30,No,, Sales ,,1, Sales ExECuTIVe ,Divorced,,,Full Time, Sales ExECuTIVe  -  Sales ,Yes
+31,No,, Research & Development ,Medical,0, heALthCArE RePResEntaTIVe ,,,,, heALthCArE RePResEntaTIVe  -  Research & Development ,Yes
+32,No,travel_rarely,,,1, ManAgER ,,,,Full Time,,Yes
+33,No,,,Marketing,0, salEs EXeCUtIvE ,Single,Y,No,Part Time,,0
+34,No,travel_rarely,,Other,1, rEsEARcH SCIeNTist ,Single,Y,,,,True
+35,No,travel_rarely,,,1, SALEs eXECuTive ,Divorced,,No,Part Time,,Yes
+36,No,,,,1, ManagEr ,Married,,,Full Time,,1
+37,No,, Research & Development ,Life Sciences,0, lABORAtOry tECHnIcIan ,Married,,,Full Time, lABORAtOry tECHnIcIan  -  Research & Development ,True
+38,No,travel_frequently,,,1, Sales exEcUtiVe ,Married,Y,No,Full Time,,1
+39,No,travel_frequently,,,0, saLes eXEcUTIVE ,Married,,Yes,Full Time,,0
+40,No,travel_rarely,,,1, maNufactUring DIrEcToR ,Married,Y,No,Full Time,,0
+41,No,travel_rarely,,,0, LaboRAtorY TecHNiCiAn ,Single,,Yes,Full Time,,1
+42,No,,,Medical,0, ManageR ,Divorced,,No,Full Time,,False
+43,Yes,travel_rarely,,,1, LABorAToRY tECHnIciAN ,Single,Y,,Part Time,,Yes
+44,No,,,Life Sciences,1, RESEarch SCIenTisT ,Divorced,,Yes,Part Time,,0
+45,No,travel_rarely,,,0, SalES exECUTIve ,Married,,No,,,1
+46,No,,,,1, heAltHCare rEPrESEntaTIvE ,Single,,,Part Time,,True
+47,No,,,,0, maNaGeR ,Married,,Yes,Full Time,,1
+48,No,,,Life Sciences,1, ResEARCh SciENTist ,Single,,No,Part Time,,Yes
+49,No,travel_rarely,,Technical Degree,1, salES ExecuTIve ,Married,,Yes,Part Time,,True
+50,No,,,,1, ReSeaRch directOR ,Married,,,Part Time,,False
+51,No,,,Life Sciences,1, mAnAgER ,,,No,Full Time,,Yes
+52,Yes,travel_rarely,,Medical,0, sAles EXecuTive ,Married,,,,,0
+53,No,,,Medical,1, MaNAGEr ,Married,,No,,,Yes
+54,No,non-travel,,Life Sciences,0, hEALThcArE REPrESeNTATive ,Divorced,Y,No,,,Yes
+55,No,non-travel,,Marketing,0, SAlES ExECuTIVe ,divorced,Y,No,Full Time,,1
+56,No,,,Medical,1, rEseARch SCieNtIsT ,,Y,,Part Time,,Yes
+57,No,,,Medical,1, maNufActUrInG DIrECtOr ,,,No,Part Time,,0
+58,No,travel_rarely,,Life Sciences,1, sALEs eXeCuTIvE ,Married,,,Full Time,,Yes
+59,No,,,,0, SALES eXECUtiVE ,Married,Y,No,Full Time,,Yes
+60,No,,,,0, lAboratORy TeChNiCiaN ,Single,Y,No,Full Time,,1
+61,No,,,,1, RESEaRCh sCIENtIst ,Married,Y,Yes,,,0
+62,No,,,,0, REsEarcH sCieNTISt ,,Y,,Full Time,,Yes
+63,No,travel_frequently,,Life Sciences,0, heaLthCaRE ReprEseNtaTiVe ,Divorced,,No,Part Time,,False
+64,No,travel_rarely, Research & Development ,,0, ManufactUrINg DiReCTOr ,Married,,Yes,Full Time, ManufactUrINg DiReCTOr  -  Research & Development ,False
+65,No,travel_rarely,,,0, HEaLthcAre REPrEsEntaTIvE ,Single,,,Part Time,,Yes
+66,No,travel_rarely, Sales ,,1, SaleS eXEcUtIVE ,Married,,,, SaleS eXEcUtIVE  -  Sales ,1
+67,No,travel_rarely,,,0, reseaRCH ScIEntIst ,Single,Y,,Part Time,,Yes
+68,No,,,,1, HEAlTHcaRe ReprESeNtatIVe ,,,No,Part Time,,True
+69,No,travel_rarely,,,1, HeaLthCare repRESeNTaTIVE ,Single,,,Full Time,,True
+70,No,non-travel, Research & Development ,,1, HEaLthcaRe rEprEsEnTAtiVe ,,,,Part Time, HEaLthcaRe rEprEsEnTAtiVe  -  Research & Development ,True
+71,No,,,Life Sciences,1, ReseArcH diReCtOr ,,,No,Part Time,,0
+72,No,,,Life Sciences,1, healthcArE repReSEnTaTive ,,,,Full Time,,Yes
+73,No,travel_frequently,,Life Sciences,0, reSeARch sCientIst ,,Y,No,Part Time,,True
+74,No,,,,0, lAbOrAtory tecHnIciaN ,,,No,Part Time,,True
+75,No,travel_rarely,,Life Sciences,1, maNufACTURING DIREctOr ,Divorced,,Yes,Part Time,,Yes
+76,No,, Research & Development ,,1, rESeArCH sCientIST ,Divorced,,,, rESeArCH sCientIST  -  Research & Development ,0
+77,No,travel_rarely,,Life Sciences,1, ResEarCh dIReCtOr ,,,Yes,Part Time,,Yes
+78,No,,,,0, hEALtHcare REpREsenTAtiVe ,Married,,No,Part Time,,Yes
+79,No,travel_rarely,,,0, saLes ExECutiVE ,Single,,,Full Time,,1
+80,No,travel_rarely,,,1, mAnagER ,Single,,,,,0
+81,Yes,travel_rarely,,Medical,1, hEaLtHCARE ReprESENTATivE ,Married,,,Part Time,,Yes
+82,No,,,Life Sciences,0, Sales exECuTIVE ,Divorced,Y,,,,1
+83,No,travel_frequently,,,1, SalEs eXecUTIVe ,Married,Y,,Part Time,,True
+84,No,travel_rarely,,Medical,0, manAger ,Single,Y,,Full Time,,1
+85,No,,,,0, MAnager ,,,,,,Yes
+86,No,travel_rarely, Research & Development ,,0, healTHCAre rePREseNtATiVE ,,,No,Part Time, healTHCAre rePREseNtATiVE  -  Research & Development ,0
+87,No,,,Life Sciences,0, rESEaRCh DirEcToR ,,,,Full Time,,1
+88,No,,,,0, researCH DIrECtoR ,,,No,Full Time,,True
+89,No,,,,1, MaNufactuRINg dIrecTor ,Married,,No,,,Yes
+90,No,travel_rarely, Research & Development ,Life Sciences,0, mANaGer ,Marreid,Y,No,Full Time, mANaGer  -  Research & Development ,True
+91,No,,,Technical Degree,0, MaNUFACTuRing dirECTOr ,Married,Y,No,Part Time,,0
+92,No,,,,0, manufaCtURiNG DirecToR ,,,Yes,,,Yes
+93,No,, Research & Development ,,1, HEAltHCaRe REPreseNTatIve ,Divorced,,Yes,Part Time, HEAltHCaRe REPreseNTatIve  -  Research & Development ,1
+94,No,travel_rarely,,,0, hEaLtHCaRe reprEsenTaTive ,Married,Y,,Part Time,,1
+95,No,, Sales ,Life Sciences,1, SaLeS eXECUTivE ,Married,Y,,Part Time, SaLeS eXECUTivE  -  Sales ,0
+96,No,, Research & Development ,Medical,0, reSeARCH SCIEnTiST ,Married,Y,,, reSeARCH SCIEnTiST  -  Research & Development ,False
+97,No,travel_frequently,,,0, ResEArCH sCIEntisT ,Married,Y,No,Full Time,,False
+98,Yes,,,Marketing,1, maNAger ,,,Yes,Full Time,,True
+99,No,travel_frequently,,,0, ManAgeR ,,,Yes,Full Time,,0
+100,No,travel_rarely,,Technical Degree,0, SaLes rEPREsENtAtivE ,,,Yes,Part Time,,0
+101,No,travel_rarely, Research & Development ,,0, ReSearch DiRecTOR ,,,No,Full Time, ReSearch DiRecTOR  -  Research & Development ,1
+102,No,,,Medical,0, LABoRATOry teChnicIan ,,Y,No,Part Time,,0
+103,No,,,,0, huMan RESOURcEs ,Divorced,,No,Part Time,,1
+104,No,,,,0, ResearcH DiReCtOR ,,Y,No,Full Time,,0
+105,No,, Research & Development ,Other,0, resEaRCh SciEnTist ,Married,,Yes,Full Time, resEaRCh SciEnTist  -  Research & Development ,False
+106,No,travel_rarely,,,1, SAleS eXEcUtIve ,,Y,No,Full Time,,Yes
+107,No,travel_rarely,,Life Sciences,1, maNufaCturing direcTOr ,Divorced,Y,No,,,0
+108,No,,,Medical,0, HEalThCare REPreseNTAtive ,Married,,Yes,,,False
+109,No,, Human Resources ,,0, hUmaN REsoUrCes ,Married,,Yes,Full Time, hUmaN REsoUrCes  -  Human Resources ,0
+110,No,,,Life Sciences,0, LaboRaTORY TechnICiAn ,,Y,No,Part Time,,Yes
+111,No,travel_rarely,,,1, SalES ExeCuTIVe ,,Y,No,Part Time,,True
+112,No,,,,0, lABOrAtorY tEcHNICian ,,Y,No,Part Time,,Yes
+113,No,travel_frequently,,,0, manUFACTuRiNg dIrECToR ,Married,,,,,False
+114,No,travel_rarely,,Life Sciences,0, RESEArCh dIRECTOR ,Married,,No,Full Time,,0
+115,No,,,Life Sciences,0, MAnufACturiNg dIReCtOR ,,,,Part Time,,1
+116,No,travel_rarely,,,0, Sales ExEcUTIvE ,Married,Y,,Part Time,,1
+117,No,travel_frequently,,Life Sciences,0, LaboRaTOrY techNiciaN ,,Y,,Part Time,,Yes
+118,No,,,,0, ManageR ,Married,,,Full Time,,Yes
+119,No,,,,1, MANufacTUrinG diREcTor ,Married,,No,Part Time,,False
+120,No,, Research & Development ,,0, manAgER ,Married,Y,,Full Time, manAgER  -  Research & Development ,True
+121,No,travel_rarely,,,0, RESearCH scienTIST ,,Y,No,Part Time,,True
+122,No,travel_rarely, Sales ,Marketing,1, SaLES eXeCUtIVE ,,,,, SaLES eXeCUtIVE  -  Sales ,Yes
+123,No,,,Medical,1, maNUfActuRinG diRectOR ,,Y,,Part Time,,False
+124,No,,,Medical,0, SAles exEcUtivE ,Married,Y,No,Part Time,,True
+125,No,travel_rarely,,,0, saLes eXECUTIVE ,Married,,,Part Time,,True
+126,No,travel_rarely,,,1, MAnAgER ,Single,Y,No,Full Time,,1
+127,No,,,,0, SAles exEcutiVE ,,Y,,Part Time,,1
+128,No,travel_rarely,,Medical,0, MANufactURINg DirEctOR ,Married,,,Part Time,,False
+129,No,travel_rarely,,,0, RESEarCh sCiENTIst ,Divorced,Y,Yes,Full Time,,Yes
+130,No,,,Life Sciences,0, reseArcH DIRectOr ,,,Yes,Full Time,,1
+131,No,travel_rarely, Research & Development ,,0, reSEarCH scIentISt ,Married,,No,Part Time, reSEarCH scIentISt  -  Research & Development ,Yes
+132,Yes,travel_rarely,,Other,0, rESearCh SCiEnTIST ,Single,Y,,Part Time,,0
+133,No,, Research & Development ,Medical,0, ReSeARCh DiRECtor ,Married,,No,, ReSeARCh DiRECtor  -  Research & Development ,True
+134,No,travel_rarely,,,1, RESEARcH DirecToR ,,Y,No,Full Time,,1
+135,No,travel_rarely,,Other,1, LAboRatORY TeCHNicIAn ,Married,,,Part Time,,0
+136,No,,,,0, SaLeS exEcuTIVE ,,Y,,Part Time,,0
+137,No,travel_rarely,,Life Sciences,1, heAlThCARE rEpreSentaTIVE ,Married,,,Part Time,,0
+138,No,, Sales ,Marketing,0, MaNAgeR ,Married,Y,No,Full Time, MaNAgeR  -  Sales ,0
+139,No,non-travel,,,0, MaNuFacTUriNG dIRectOr ,Single,Y,,Part Time,,False
+140,Yes,travel_frequently,,Life Sciences,0, salEs EXecuTIve ,Single,,,Full Time,,Yes
+141,No,travel_frequently,,,0, HEAlTHcaRe rEpreseNTatIvE ,Single,,No,,,1
+142,No,travel_rarely, Research & Development ,Medical,0, RESEArCH sCIenTIst ,,,Yes,, RESEArCH sCIenTIst  -  Research & Development ,1
+143,No,travel_rarely,,Life Sciences,0, rESeArCH dIrECtor ,Married,,No,Full Time,,1
+144,No,travel_rarely,,Medical,1, HeALThCARE rEPreSENTAtivE ,Single,,No,Part Time,,False
+145,No,,,,0, MANAGEr ,Married,,No,Full Time,,True
+146,No,non-travel,,,0, HeaLtHCARe rEPREsEnTATIVE ,Divorced,Y,Yes,Full Time,,False
+147,No,travel_rarely,,Life Sciences,0, manAger ,Divorced,Y,No,Full Time,,False
+148,No,travel_frequently, Human Resources ,Life Sciences,0, hUMAn reSoUrCES ,,Y,No,, hUMAn reSoUrCES  -  Human Resources ,1
+149,No,,,,1, mANaGeR ,Divorced,,Yes,Full Time,,0
+150,No,travel_rarely,,Medical,1, MANagER ,,Y,,Full Time,,True
+151,No,,,Life Sciences,0, manAGeR ,,Y,,Full Time,,True
+152,Yes,,,Medical,1, mAnUFACTURIng dIreCtOr ,Marreid,Y,,,,True
+153,No,,,Life Sciences,0, maNUfaCTUriNG dIreCtor ,Single,Y,No,Part Time,,1
+154,No,travel_rarely, Human Resources ,,0, HUmAN rESOuRceS ,Single,Y,,Part Time, HUmAN rESOuRceS  -  Human Resources ,False
+155,No,,,Other,0, sAles ExecUTiVE ,Single,,No,Part Time,,1
+156,No,travel_frequently,,,1, lABoRAtoRY TECHNicIAN ,,,,,,Yes
+157,No,travel_rarely,,Life Sciences,0, REsearCh ScienTIst ,Married,,No,Part Time,,True
+158,Yes,travel_rarely,,,1, sAles EXecutiVE ,Single,Y,Yes,Part Time,,0
+159,No,travel_frequently,,Medical,1, manaGeR ,,Y,No,,,1
+160,No,travel_rarely,,,0, saLEs exEcUTiVE ,,Y,,Part Time,,0
+161,No,,,Medical,0, lAboratorY tecHNIciAN ,Single,,,,,True
+162,No,travel_rarely,,Life Sciences,0, LAboraTORy TEcHNiCIAN ,,,,Part Time,,True
+163,Yes,,,Other,0, Sales ExecUtIVe ,,,,Part Time,,True
+164,No,travel_rarely,,Life Sciences,1, rEseaRcH SCienTist ,Married,,No,Full Time,,1
+165,No,,,,0, Sales eXEcUtIVE ,,Y,Yes,Part Time,,False
+166,No,non-travel,,Medical,0, maNaGer ,Divorced,,No,Full Time,,Yes
+167,No,travel_rarely, Sales ,,1, SaleS EXeCuTivE ,Marreid,,Yes,Part Time, SaleS EXeCuTivE  -  Sales ,False
+168,No,travel_rarely,,Life Sciences,0, hEALThcarE RepReSeNTAtIve ,Married,Y,,Part Time,,1
+169,No,,,Human Resources,0, MAnAgEr ,Married,,Yes,Full Time,,Yes
+170,No,, Research & Development ,,0, ReSeARch scIENTISt ,Single,Y,,, ReSeARch scIENTISt  -  Research & Development ,True
+171,No,,,Technical Degree,1, LABORaTorY TECHniciaN ,Married,,,,,True
+172,Yes,, Research & Development ,Technical Degree,0, LaBoRaTorY TeChNicIAn ,Married,Y,No,Part Time, LaBoRaTorY TeChNicIAn  -  Research & Development ,Yes
+173,No,travel_rarely,,Marketing,1, sAleS execuTiVE ,,Y,,Full Time,,Yes
+174,No,travel_rarely,,Life Sciences,1, mANAgER ,Married,,No,Full Time,,1
+175,No,travel_frequently,,,0, sALes exECuTiVE ,Single,Y,No,,,0
+176,No,travel_frequently,,,1, LABOrATorY TechNIcIaN ,,,,Part Time,,Yes
+177,No,,,Life Sciences,0, sAlES eXeCuTIVe ,Married,Y,,,,True
+178,No,travel_rarely, Research & Development ,Medical,0, ManUfaCTUriNg dIReCtor ,Married,,Yes,, ManUfaCTUriNg dIReCtor  -  Research & Development ,1
+179,No,travel_rarely,,Life Sciences,0, LaboraTOry TEcHniCiAN ,Married,,,Part Time,,0
+180,Yes,, Sales ,Medical,0, saLES ExECuTIVe ,,,No,Part Time, saLES ExECuTIVe  -  Sales ,False
+181,No,travel_rarely,,,1, sALeS execUTiVE ,,,Yes,Part Time,,False
+182,No,,,,0, saLEs executive ,Single,Y,No,,,1
+183,No,travel_rarely,,Marketing,0, SAles ExeCUTiVE ,Married,Y,,Part Time,,False
+184,No,,,Marketing,1, sAleS exeCUTiVe ,Single,Y,,Part Time,,1
+185,No,travel_rarely, Research & Development ,Life Sciences,0, RESEaRch SCIEntISt ,Divorced,Y,No,Part Time, RESEaRch SCIEntISt  -  Research & Development ,1
+186,No,travel_rarely,,Medical,1, manaGEr ,,,No,Full Time,,0
+187,No,,,,0, MAnagEr ,Married,Y,No,,,1
+188,Yes,travel_rarely,,,0, SALeS eXecUTiVe ,Married,,No,Full Time,,0
+189,No,non-travel, Research & Development ,Life Sciences,0, mAnUFaCtUrinG diReCtor ,,,No,Part Time, mAnUFaCtUrinG diReCtor  -  Research & Development ,1
+190,No,,,,0, REsEARcH dIreCTor ,,,,Part Time,,True
+191,No,,,,0, SAlEs repReSEnTaTiVE ,Divorced,,No,,,0
+192,No,,,Technical Degree,0, reSEARch scIeNTIST ,,Y,No,,,False
+193,No,non-travel,,,1, lAbORATorY teChnICiaN ,Married,,,Full Time,,True
+194,No,travel_rarely,,Life Sciences,0, SalEs eXEcuTIVE ,Married,Y,,Part Time,,True
+195,No,,,Life Sciences,1, rEseaRch DIRECTOr ,,Y,,Part Time,,1
+196,No,travel_rarely,,,1, resEarcH sCiEnTISt ,Married,,No,Part Time,,Yes
+197,No,,,,0, ManAger ,,,,Full Time,,True
+198,No,,,Life Sciences,1, MaNagEr ,,,No,Full Time,,True
+199,No,,,Other,1, SaLes ExecUtiVE ,,,,Part Time,,True
+200,No,travel_rarely, Research & Development ,,0, maNUFAcTURING direCTOr ,Divorced,Y,No,Part Time, maNUFAcTURING direCTOr  -  Research & Development ,Yes
+201,Yes,,,Life Sciences,0, RESeArCh sCIentIst ,Single,Y,Yes,Full Time,,False
+202,No,,,Medical,0, LAboRaTorY teChniCiaN ,Married,Y,Yes,,,Yes
+203,No,, Research & Development ,Life Sciences,0, labOraTORy techNicIan ,,,No,Part Time, labOraTORy techNicIan  -  Research & Development ,Yes
+204,No,,,,0, manuFACtuRiNg DIrEcTor ,,,,,,True
+205,Yes,, Sales ,Marketing,1, SAlEs ExeCUtive ,Married,,No,Part Time, SAlEs ExeCUtive  -  Sales ,0
+206,No,,,,0, REsEARCH dIReCTor ,Divorced,,,Full Time,,Yes
+207,No,travel_rarely,,Medical,0, sALES ExEcUTIvE ,Divorced,Y,,Part Time,,Yes
+208,No,, Research & Development ,,1, MANUFACturING DIRecToR ,Married,Y,No,Full Time, MANUFACturING DIRecToR  -  Research & Development ,False
+209,No,,,Life Sciences,0, saleS exECUtIve ,,,No,Part Time,,1
+210,No,,,Life Sciences,0, heAltHcArE rEprEseNtatIVE ,,Y,,Full Time,,0
+211,No,non-travel, Sales ,,1, Sales eXECuTIvE ,,,,, Sales eXECuTIvE  -  Sales ,False
+212,No,travel_rarely,,Medical,0, laBORATORy tECHNICIan ,Single,Y,No,Part Time,,True
+213,No,,,Life Sciences,0, MAnager ,Married,,,Full Time,,1
+214,No,non-travel,,,0, MaNagER ,Single,,,Full Time,,0
+215,No,non-travel,,Life Sciences,0, LaBoraTORy TeChNiCIAN ,,,Yes,Part Time,,1
+216,No,travel_rarely, Research & Development ,,1, mANUfaCTuRiNG DiRECtOr ,,Y,,Part Time, mANUfaCTuRiNG DiRECtOr  -  Research & Development ,1
+217,No,,,,0, sales ExecuTiVe ,,Y,,Full Time,,False
+218,Yes,,,,1, SALeS eXECUtivE ,,Y,,Part Time,,True
+219,No,,,,1, LABoRaTOrY teChNICiAn ,Married,,,,,False
+220,No,, Research & Development ,Life Sciences,1, ManUFACtURiNg DiRECTOr ,Married,Y,,Part Time, ManUFACtURiNg DiRECTOr  -  Research & Development ,1
+221,No,travel_rarely,,,0, salES eXECUtive ,,Y,,Part Time,,Yes
+222,No,travel_frequently,,Medical,1, laboRatoRy teCHNiCiaN ,Divorced,,No,Part Time,,True
+223,No,non-travel,,,1, lAbORAtORy tECHNiCian ,Married,,No,,,1
+224,No,non-travel,,,1, saLEs eXEcUTIvE ,,,Yes,Part Time,,True
+225,No,non-travel,,Life Sciences,0, manageR ,,,Yes,Full Time,,False
+226,No,travel_rarely,,Life Sciences,0, RESearCh SCieNTIst ,Single,,,Part Time,,True
+227,No,,,Medical,1, SALEs eXeCuTive ,Single,Y,,,,1
+228,No,travel_rarely,,,1, REsearCh dIRECTOr ,,Y,,Full Time,,False
+229,Yes,travel_frequently,,,1, MaNuFACTUriNG DIRector ,,Y,,,,1
+230,No,non-travel,,,0, ResEARcH DIrEcToR ,,,No,Full Time,,1
+231,No,,,Medical,0, resEArcH DIrEcTOR ,Single,,No,Full Time,,True
+232,No,, Research & Development ,,0, ResEARcH DiReCToR ,,Y,,Full Time, ResEARcH DiReCToR  -  Research & Development ,1
+233,No,travel_rarely,,Life Sciences,1, HeALthCARE rePRESeNtATiVE ,Single,,No,,,True
+234,No,,,,0, RESEarCH ScIENTIsT ,Married,,,Part Time,,Yes
+235,No,travel_frequently,,,0, HeaLthcARE RePreSeNtatiVe ,,,Yes,Full Time,,True
+236,No,,,,0, HeAlTHCare RePrEsenTatIve ,Divorced,,,Part Time,,1
+237,Yes,travel_rarely,,,0, SAleS eXecuTiVe ,Married,,No,Full Time,,Yes
+238,No,travel_rarely,,Life Sciences,0, saLes ExeCutivE ,Married,,,Full Time,,1
+239,No,,,Medical,0, hEaLthCare repResEntaTIVe ,,,,Full Time,,0
+240,No,travel_rarely,,,0, laboratORY TEcHnicIAN ,,,,,,True
+241,No,travel_rarely,,,1, RESeArCh SCIEntiSt ,,Y,No,Part Time,,True
+242,No,travel_rarely, Research & Development ,,1, MANAgER ,,Y,,Full Time, MANAgER  -  Research & Development ,Yes
+243,No,travel_rarely,,Marketing,0, SALes EXecUtIve ,,Y,No,Part Time,,False
+244,No,,,Life Sciences,0, LabOraTory TechNiCIAN ,Married,Y,,Full Time,,1
+245,No,travel_rarely,,,0, mAnaGeR ,,,No,Full Time,,0
+246,No,,,Technical Degree,0, ReSeARcH sciEnTiST ,,,No,Part Time,,Yes
+247,No,,,Life Sciences,0, heAltHCARE rePrESENTaTIve ,,Y,,Part Time,,False
+248,No,,,Life Sciences,0, RESEARCH sCiEntIST ,Married,Y,No,Full Time,,True
+249,No,travel_rarely,,,0, SAles EXecutiVE ,,,No,,,False
+250,No,travel_frequently, Research & Development ,Medical,0, labORATORY TechnIcIaN ,Married,Y,No,Part Time, labORATORY TechnIcIaN  -  Research & Development ,0
+251,No,travel_rarely,,Life Sciences,0, maNuFACTUrInG dIREcTor ,Divorced,,,Part Time,,Yes
+252,No,travel_rarely,,Medical,1, SaLeS REPRESentATive ,Married,Y,No,Part Time,,False
+253,No,,,Life Sciences,0, LABORAtoRY TeChnICian ,Divorced,Y,No,,,False
+254,No,travel_rarely, Research & Development ,Life Sciences,1, MaNUfacTurINg DiReCTor ,,Y,No,, MaNUfacTurINg DiReCTor  -  Research & Development ,1
+255,No,travel_rarely,,Marketing,0, SALES EXEcUTIvE ,,Y,No,Part Time,,False
+256,No,, Research & Development ,Life Sciences,0, ReSEaRcH sciENTIST ,Married,Y,,Part Time, ReSEaRcH sciENTIST  -  Research & Development ,1
+257,No,,,,1, sAles EXeCutive ,,Y,Yes,Part Time,,0
+258,No,travel_rarely,,Marketing,0, saLES ExECUTIve ,Single,Y,No,Full Time,,0
+259,No,travel_rarely,,Marketing,1, sAlES execUtIVE ,Married,,No,,,1
+260,No,travel_rarely,,Medical,0, LABOrAtORy TechnICiAN ,Married,,No,,,0
+261,No,, Research & Development ,,1, rESEARCh dIrEcTOr ,Married,Y,No,Part Time, rESEARCh dIrEcTOr  -  Research & Development ,1
+262,No,non-travel,,,0, SAlEs rEpreSeNTAtiVe ,Divorced,Y,,Part Time,,1
+263,No,travel_frequently,,,0, rEsEARCH ScIentisT ,Married,Y,No,Part Time,,True
+264,No,travel_frequently,,Life Sciences,1, ResEArCh ScIentiSt ,Marreid,,,Full Time,,Yes
+265,No,,,Life Sciences,0, laBoratoRY tECHNICiAN ,,,,Part Time,,1
+266,No,travel_frequently, Research & Development ,,0, MANUfACTuRinG diRecTOR ,,,No,Part Time, MANUfACTuRinG diRecTOR  -  Research & Development ,1
+267,No,travel_rarely, Research & Development ,Medical,0, HeaLThCArE REpRESENTAtIVe ,,Y,,Part Time, HeaLThCArE REpRESENTAtIVe  -  Research & Development ,Yes
+268,No,,,,0, Sales ExECutiVe ,,Y,,,,False
+269,No,, Research & Development ,Life Sciences,0, LABOraTory TecHnIciaN ,Divorced,Y,No,Part Time, LABOraTory TecHnIciaN  -  Research & Development ,False
+270,No,travel_rarely,,,1, MaNUFAcTUriNg DiRECTor ,Single,Y,No,Part Time,,0
+271,No,,,Marketing,0, sALEs eXEcuTIVe ,,Y,,,,True
+272,Yes,travel_frequently,,,0, labOrATory teCHnIcIAn ,,,Yes,Full Time,,True
+273,No,,,Technical Degree,1, sALES exeCUtIve ,,Y,No,Part Time,,False
+274,No,travel_frequently,,,0, ReseArcH SciEntIst ,Divorced,,No,Part Time,,False
+275,No,non-travel,,,0, salEs exeCutiVE ,Marreid,,,Full Time,,True
+276,Yes,,,Life Sciences,0, SAles EXecUTivE ,Married,Y,,Full Time,,False
+277,No,travel_rarely,,,0, SALEs ExecUTIvE ,Divorced,,Yes,Part Time,,False
+278,No,travel_rarely,,,1, HUmaN RESOURces ,,Y,,,,True
+279,No,,,,0, SaLEs ExEcUtiVe ,Divorced,Y,No,Part Time,,True
+280,No,travel_frequently,,,1, rESEARch SCIEnTISt ,Divorced,Y,No,Full Time,,False
+281,No,travel_rarely, Sales ,Marketing,0, sales rEprESEntAtIvE ,,Y,Yes,Part Time, sales rEprESEntAtIvE  -  Sales ,True
+282,No,non-travel, Research & Development ,Technical Degree,0, mANuFacTurinG DirECtoR ,Married,Y,,Part Time, mANuFacTurinG DirECtoR  -  Research & Development ,0
+283,No,travel_frequently, Research & Development ,,0, lABorATOrY TeChnICIan ,,Y,No,Part Time, lABorATOrY TeChnICIan  -  Research & Development ,True
+284,No,travel_rarely, Research & Development ,,1, RESEarCh SCIEnTiST ,,Y,,Part Time, RESEarCh SCIEnTiST  -  Research & Development ,True
+285,No,travel_rarely,,,1, hEalthCARE RepresenTaTivE ,Single,,,Full Time,,False
+286,No,travel_rarely,,Medical,1, rEsEarCH SCIeNtIsT ,Single,,No,Part Time,,0
+287,No,,,Life Sciences,0, rEsEARCH SciENtisT ,,Y,Yes,Full Time,,True
+288,No,,,,0, MAnuFaCtURING DirECTOr ,Married,Y,No,Full Time,,Yes
+289,No,non-travel,,,0, maNUfAcTURiNG dIRectoR ,Divorced,,Yes,Full Time,,0
+290,No,,,Life Sciences,1, SaLES eXeCUtIVE ,Single,,,Part Time,,False
+291,No,, Sales ,Medical,1, SALes exEcuTIVe ,Single,Y,,Part Time, SALes exEcuTIVe  -  Sales ,1
+292,No,,,,1, salES ExEcuTiVE ,Single,Y,No,Part Time,,1
+293,Yes,travel_rarely,,,1, LabOraTOry TEChniCIaN ,,,No,Part Time,,True
+294,No,,,Life Sciences,0, ManAGer ,,,Yes,Full Time,,1
+295,No,, Research & Development ,Medical,0, REseARCH DirectOr ,,,No,Full Time, REseARCH DirectOr  -  Research & Development ,True
+296,No,non-travel, Sales ,Life Sciences,0, sAlES EXEcUtIVe ,,,No,Part Time, sAlES EXEcUtIVe  -  Sales ,Yes
+297,No,,,,1, ManAgEr ,Marreid,,Yes,Full Time,,0
+298,No,travel_rarely,,Medical,0, HeAlThcare rePREsentatIVE ,Married,Y,Yes,,,1
+299,Yes,non-travel,,Life Sciences,0, maNaGeR ,Married,,,,,True
+300,No,,,Life Sciences,1, maNagER ,Divorced,Y,,Part Time,,0
+301,No,travel_frequently,,,0, SaLES EXEcUtIVE ,Single,Y,,Part Time,,True
+302,No,travel_rarely, Research & Development ,Technical Degree,0, lABoraToRY teCHnIcIaN ,Married,Y,,Part Time, lABoraToRY teCHnIcIaN  -  Research & Development ,True
+303,Yes,travel_rarely,,,0, sAlES eXEcuTivE ,Single,,,,,1
+304,No,travel_rarely,,Technical Degree,0, saLeS EXEcUTIVe ,,,,Part Time,,Yes
+305,No,travel_frequently,,Life Sciences,1, LabORAtorY TeChniCIAn ,,Y,No,Part Time,,Yes
+306,No,travel_rarely,,Marketing,0, sAles ExECUTive ,,Y,,Part Time,,True
+307,No,,,Medical,1, RESEarCH ScIENTisT ,Single,Y,,Part Time,,True
+308,No,,,,0, saLes ExecUtivE ,,,No,,,False
+309,No,travel_frequently, Research & Development ,Life Sciences,1, LaBorATORy tEChnICiaN ,Divorced,Y,No,Part Time, LaBorATORy tEChnICiaN  -  Research & Development ,0
+310,Yes,travel_rarely,,,0, LaborAtORY TechNIciaN ,,Y,,,,False
+311,No,, Sales ,,1, sales ExecutIvE ,,Y,No,Part Time, sales ExecutIvE  -  Sales ,False
+312,No,travel_rarely,,,1, saleS executIVE ,Divorced,Y,Yes,Part Time,,False
+313,No,,,Medical,0, rESEArCh Scientist ,Divorced,,,Full Time,,0
+314,No,travel_rarely,,,0, SalES EXecuTIvE ,,Y,,Part Time,,True
+315,No,travel_rarely,,Life Sciences,1, labORatORY TECHNIciAn ,Married,Y,Yes,,,True
+316,Yes,,,,0, Sales eXEcuTive ,,,No,Part Time,,False
+317,No,travel_rarely,,,1, SAlES eXECutIVe ,,,No,,,Yes
+318,No,,,,1, lABOraToRY TEcHNICIaN ,,,No,Full Time,,0
+319,No,,,Life Sciences,1, salEs ExECutiVE ,Married,Y,No,,,True
+320,No,travel_rarely, Sales ,Marketing,0, sAles exECUtiVe ,Married,,,Part Time, sAles exECUtiVe  -  Sales ,1
+321,No,,,Medical,1, MANUfaCTUrinG DireCtOr ,,Y,No,Part Time,,False
+322,No,non-travel,,,1, LABoRaTOrY tEcHnICian ,Single,Y,,Part Time,,False
+323,No,travel_rarely,,Life Sciences,0, heaLThcARe REpreSENTAtIVe ,,,Yes,Part Time,,False
+324,No,travel_rarely,,,1, sAleS eXecUTIVE ,Married,,No,Part Time,,True
+325,No,travel_rarely,,Other,0, SAles eXEcutiVE ,,,No,Part Time,,True
+326,Yes,travel_frequently,,Life Sciences,1, HuMAN ReSOuRCeS ,,Y,Yes,,,True
+327,No,,,Other,1, HEAlTHcARE REPrEsEnTATIVE ,Single,Y,Yes,Part Time,,1
+328,No,,,,0, sAlEs exECUTivE ,Single,,,Part Time,,True
+329,No,travel_rarely,,Medical,0, SALes EXEcUTiVe ,Divorced,Y,No,Part Time,,1
+330,No,travel_frequently,,,0, labOraTORY tEChnIciAn ,Divorced,Y,,Part Time,,0
+331,No,, Sales ,,1, SALEs eXecuTiVE ,Single,Y,,Part Time, SALEs eXecuTiVE  -  Sales ,False
+332,No,travel_rarely,,Other,0, MaNUfaCtURinG DiRectoR ,Married,,No,Part Time,,1
+333,No,,,,0, HuMAN rEsoUrCes ,,Y,,Part Time,,True
+334,No,travel_rarely, Sales ,Marketing,1, SaleS executIVE ,,,No,Part Time, SaleS executIVE  -  Sales ,1
+335,No,, Research & Development ,Life Sciences,0, rEsEArCH sCIeNTIST ,Divorced,Y,,Part Time, rEsEArCH sCIeNTIST  -  Research & Development ,Yes
+336,No,,,Medical,1, heALTHCARe rEpResentatIVE ,,,,Part Time,,0
+337,No,,,Technical Degree,1, hEALthCAre ReprEsentaTIvE ,Single,,No,Part Time,,0
+338,No,,,Marketing,0, salEs EXEcutIvE ,,,,Full Time,,Yes
+339,No,travel_rarely,,Life Sciences,1, HealThcARE ReprESEnTaTIve ,,Y,,Part Time,,1
+340,No,travel_rarely,,Life Sciences,1, mAnUfACTuRING DIreCtOR ,Married,,,Part Time,,False
+341,No,travel_rarely,,Life Sciences,1, ReSEARch dIrEcToR ,Single,,,Full Time,,False
+342,No,,,Marketing,0, SALES eXEcUTiVe ,Single,,,,,False
+343,No,travel_frequently,,,0, MaNufACtURiNg DirEctOr ,,Y,No,Part Time,,1
+344,No,,,,0, mAnAGer ,,Y,No,Full Time,,False
+345,Yes,, Research & Development ,,1, reSEArch SCIEntIsT ,,,Yes,Part Time, reSEArch SCIEntIsT  -  Research & Development ,1
+346,No,, Research & Development ,,1, rESeArCh DIrEctor ,Married,Y,,Full Time, rESeArCh DIrEctor  -  Research & Development ,False
+347,No,,,Marketing,0, SALEs eXecutIVE ,Divorced,Y,No,,,True
+348,No,travel_rarely,,,0, heALTHcaRE rEPresEnTAtIve ,Married,,No,Full Time,,False
+349,No,travel_rarely,,,0, SalES rEpRESeNtAtive ,Single,,No,Full Time,,1
+350,No,non-travel,,,0, SaLEs eXeCutiVE ,Single,Y,,Part Time,,False
+351,No,,,Medical,1, HEalTHcArE repREsENtaTIVE ,Married,,No,Part Time,,1
+352,No,,,Life Sciences,1, mAnUfactUrING DiReCToR ,Single,,,Full Time,,True
+353,No,,,Medical,1, HeALTHCARe rEpRESEnTaTIve ,,Y,No,,,1
+354,No,travel_frequently,,,0, MANAGER ,,,No,,,1
+355,No,travel_rarely,,Other,1, MANufacTuRInG DIReCtor ,,,,Part Time,,False
+356,No,travel_rarely,,,0, RESEARCh SciENTist ,Married,,,Part Time,,1
+357,Yes,,,Medical,0, SALes EXECutIVe ,Single,Y,,Part Time,,False
+358,No,, Sales ,,1, saLES ExECUtiVe ,,Y,,Part Time, saLES ExECUtiVe  -  Sales ,1
+359,Yes,,,Medical,1, reSeArch sCIenTIst ,Married,,,Part Time,,1
+360,No,,,,0, resEarch sCiEnTISt ,,,Yes,,,1
+361,Yes,, Research & Development ,Life Sciences,1, LaboRATory tEchNICIAn ,Divorced,,Yes,, LaboRATory tEchNICIAn  -  Research & Development ,True
+362,No,travel_rarely,,,0, saleS rePResENTatIVe ,,,,Part Time,,0
+363,No,travel_frequently, Sales ,Medical,0, SAlEs exECUtIVe ,,Y,,Part Time, SAlEs exECUtIVe  -  Sales ,Yes
+364,No,,,Medical,1, HeAlThCArE REpreSENTaTive ,,,,Part Time,,False
+365,No,,,Medical,1, ManUfActurINg DiRectoR ,Married,,,Full Time,,0
+366,Yes,travel_rarely,,Life Sciences,0, SALes EXECuTiVe ,Married,Y,,Full Time,,0
+367,No,non-travel,,,0, lABORaTory tecHNiCiAN ,,,,Part Time,,1
+368,No,travel_rarely,,,0, saLEs exEcUTIVe ,Single,,No,Part Time,,0
+369,No,non-travel,,Technical Degree,0, SaLes EXeCuTiVE ,Divorced,,No,Part Time,,Yes
+370,No,,,Medical,0, ManuFActurIng dIrEctOr ,,Y,,Full Time,,0
+371,No,travel_rarely,,Technical Degree,1, MaNUfaCtUrInG diRectOr ,,,,Part Time,,True
+372,No,travel_rarely,,,1, REseARCH DIrECTOr ,,Y,Yes,Part Time,,True
+373,No,,,Medical,0, MaNUFActURinG DIreCtoR ,Married,,,Full Time,,0
+374,No,travel_frequently,,Medical,0, HeAltHCarE rEpREsENtAtIVe ,Married,,,Full Time,,1
+375,No,non-travel, Sales ,Life Sciences,1, salEs eXECuTivE ,Married,Y,,Full Time, salEs eXECuTivE  -  Sales ,True
+376,No,non-travel,,,1, laBoratORy TeCHNicIan ,Single,,No,Part Time,,1
+377,No,travel_frequently,,Marketing,1, saLEs eXEcutivE ,,,,Part Time,,1
+378,No,travel_rarely,,,0, SAles ExECutiVE ,Married,,,Part Time,,0
+379,No,,,,0, maNAGER ,Single,,No,,,True
+380,Yes,non-travel,,,0, HeaLthcarE rEPrESeNtATIVE ,Single,Y,No,Part Time,,False
+381,No,travel_rarely,,Other,1, ReSeArCH ScIEntIsT ,Single,,No,,,Yes
+382,Yes,,,Technical Degree,0, SAlEs EXECUTIVE ,,Y,,Part Time,,Yes
+383,Yes,travel_frequently, Research & Development ,Medical,1, ReseaRch scIenTisT ,Single,,No,Part Time, ReseaRch scIenTisT  -  Research & Development ,1
+384,Yes,, Research & Development ,Technical Degree,0, LaBoraTORY teCHNiCIaN ,Married,Y,,Part Time, LaBoraTORY teCHNiCIaN  -  Research & Development ,Yes
+385,No,, Sales ,,0, sALEs ExeCuTive ,,,Yes,Part Time, sALEs ExeCuTive  -  Sales ,True
+386,No,,,,1, manUFactURiNG dIReCtoR ,,,,Part Time,,True
+387,No,travel_frequently,,Life Sciences,1, maNufactUrinG dIREctOr ,Married,,No,Part Time,,False
+388,Yes,travel_frequently, Research & Development ,Life Sciences,0, heALtHCARE rePResENtAtivE ,,,No,Full Time, heALtHCARE rePResENtAtivE  -  Research & Development ,0
+389,No,travel_rarely,,,0, rEsearch diRecTOR ,,Y,No,Full Time,,Yes
+390,No,travel_rarely,,Medical,0, maNUfaCTUrinG DIReCtOR ,Married,,,,,Yes
+391,No,,,,1, ResEaRCH dIReCtor ,,,No,Full Time,,0
+392,No,travel_rarely,,,0, lABORATorY TEchNIciAN ,,Y,,Part Time,,True
+393,No,travel_rarely,,,0, mAnuFAcTuRinG direCToR ,Divorced,,No,,,Yes
+394,No,, Research & Development ,Medical,1, ManAgEr ,Divorced,Y,No,Full Time, ManAgEr  -  Research & Development ,0
+395,No,,,Life Sciences,0, SALes ExeCUTIvE ,,Y,,Part Time,,1
+396,No,,,Medical,1, sAles exeCutive ,,,No,Part Time,,1
+397,No,, Research & Development ,Life Sciences,0, laboRAtORy TecHnICiAN ,Divorced,Y,No,Part Time, laboRAtORy TecHnICiAN  -  Research & Development ,1
+398,No,travel_rarely,,Life Sciences,0, lAbORATorY tECHnICIaN ,Divorced,,,Part Time,,True
+399,No,,,,0, SalEs ExeCutIVe ,Divorced,,,,,True
+400,No,,,Life Sciences,1, resEArch scIENTisT ,Single,Y,Yes,Part Time,,0
+401,No,,,Technical Degree,1, mANUFaCTuRing DirECtOR ,Divorced,,Yes,Full Time,,Yes
+402,No,travel_rarely,,,0, rEseARcH sciENTIST ,,,,,,Yes
+403,No,, Research & Development ,Life Sciences,0, ReSeARCH diRECtoR ,,Y,No,Full Time, ReSeARCH diRECtoR  -  Research & Development ,Yes
+404,No,travel_rarely,,,1, ReSeArCh dirECTOR ,Divorced,Y,No,Full Time,,True
+405,No,,,,0, MANufactUring Director ,Single,,No,Part Time,,False
+406,No,travel_rarely,,Marketing,1, salES ExECUTIVE ,Single,,No,Part Time,,Yes
+407,Yes,travel_rarely,,Medical,1, hEALtHcARE rePrESeNtATIve ,Married,Y,,Part Time,,Yes
+408,Yes,, Research & Development ,Technical Degree,1, LAborAtOry TEchniCIAn ,Divorced,,Yes,, LAborAtOry TEchniCIAn  -  Research & Development ,1
+409,No,travel_rarely,,,0, SalEs eXecUTive ,Married,,,Full Time,,False
+410,No,travel_rarely,,Technical Degree,1, HEalthCare REPresenTaTIve ,Married,Y,No,Part Time,,True
+411,Yes,, Sales ,,0, SaLeS eXECutiVE ,Single,Y,Yes,Part Time, SaLeS eXECutiVE  -  Sales ,Yes
+412,No,travel_rarely,,,0, mAnuFAcTuRiNG diRECtOR ,Single,,,,,True
+413,No,,,,0, HeAlthcarE rEPreSentATive ,,,,Part Time,,True
+414,No,,,Life Sciences,1, SALEs eXEcUtive ,,,,,,True
+415,No,travel_frequently, Sales ,Marketing,1, SalEs eXECuTive ,Marreid,Y,No,Part Time, SalEs eXECuTive  -  Sales ,1
+416,No,,,,1, labORATORY TecHnICian ,,Y,No,Part Time,,0
+417,Yes,,,,0, sAleS EXecUtiVE ,,Y,,Full Time,,True
+418,No,,,,0, lAborAtory TeChNiCIAN ,,Y,,Part Time,,0
+419,No,,,Medical,1, rEsEArCH SCiENtIsT ,Single,,Yes,Part Time,,False
+420,No,travel_rarely,,Human Resources,1, MANAGER ,Married,,,Full Time,,False
+421,No,travel_rarely,,,0, LaboratOry tEchNicIaN ,Single,,No,Full Time,,True
+422,Yes,,,Other,1, heaLtHCaRe REpResENtaTive ,Single,,Yes,Part Time,,1
+423,No,, Research & Development ,,1, rESeaRCH DIReCToR ,,,,Full Time, rESeaRCH DIReCToR  -  Research & Development ,0
+424,No,,,,0, reseaRCh dirEcTOr ,Divorced,Y,No,Full Time,,True
+425,No,non-travel,,Other,0, lABORAtoRy TecHNiCIan ,,Y,No,Part Time,,Yes
+426,No,,,,0, Sales eXEcUTive ,Divorced,,,Full Time,,True
+427,Yes,,,Marketing,0, SaLeS EXecUtiVe ,Divorced,,No,,,Yes
+428,No,travel_rarely,,Medical,0, healtHCARe RePresenTATiVE ,,Y,Yes,Full Time,,False
+429,No,travel_rarely,,Life Sciences,0, hEAltHcArE RepreSeNTATivE ,Divorced,Y,,Full Time,,0
+430,No,travel_rarely,,,0, SAlES eXeCuTIve ,,Y,,Part Time,,1
+431,Yes,,,Technical Degree,0, RESEarcH SCiENTiSt ,Single,Y,No,Part Time,,1
+432,No,,,Other,1, HealtHcaRe REpReSENTatIve ,,,No,Part Time,,1
+433,No,travel_rarely, Human Resources ,,0, mANAGeR ,Single,Y,Yes,Full Time, mANAGeR  -  Human Resources ,1
+434,No,, Sales ,Life Sciences,1, saLeS exECUtive ,Divorced,,No,Full Time, saLeS exECUtive  -  Sales ,1
+435,Yes,,,,1, maNUFaCTuRINg DiRECTOr ,Married,,,Part Time,,Yes
+436,No,,,Medical,1, REsearcH DiREcToR ,,,Yes,,,0
+437,No,,,,1, laBORATOrY TEchNICian ,,Y,,Full Time,,False
+438,No,non-travel,,Marketing,0, saLES ExeCutive ,,Y,,,,0
+439,No,travel_frequently,,,0, ManuFacTuRiNg DIrEcTOr ,,,,Part Time,,1
+440,No,, Research & Development ,Medical,0, maNuFAcTURInG DIReCtoR ,,Y,,, maNuFAcTURInG DIReCtoR  -  Research & Development ,0
+441,No,, Research & Development ,,0, LABORaTorY TEChNIcIAN ,Divorced,,No,Full Time, LABORaTorY TEChNIcIAN  -  Research & Development ,Yes
+442,No,travel_rarely,,,1, mANufacTuRiNG diReCTOr ,Divorced,,,,,1
+443,No,,,,0, HUmAn resOuRceS ,Married,,Yes,,,True
+444,No,,,Life Sciences,0, MaNuFACtuRInG dirECTOR ,Divorced,,,Part Time,,False
+445,No,,,,0, MANAgEr ,Single,Y,,Full Time,,True
+446,Yes,travel_frequently,,,1, SaLeS rEPRESENTATive ,,,,,,0
+447,No,,,Medical,0, lAboRAtORy TecHnIcIaN ,,,No,Part Time,,1
+448,No,travel_rarely,,Life Sciences,1, hEALThCare RepreseNtATIVE ,,,,Part Time,,1
+449,No,,,,1, SAles REpReSENtaTiVE ,Single,Y,,Part Time,,Yes
+450,No,, Research & Development ,,0, hEalTHcARe RePrEseNTATive ,Single,,No,Part Time, hEalTHcARe RePrEseNTATive  -  Research & Development ,True
+451,No,,,Life Sciences,0, MaNUFaCtuRiNG DirEctOr ,Married,Y,,Part Time,,Yes
+452,No,travel_frequently,,,1, REsEArCh scientiST ,,Y,,,,False
+453,No,,,Marketing,0, sALeS eXeCuTivE ,,,No,Part Time,,1
+454,No,non-travel,,Marketing,1, sALEs EXEcUtIvE ,,,No,Part Time,,True
+455,No,,,,0, REsEarCH SciENtIST ,Single,Y,No,Part Time,,1
+456,No,travel_rarely,,Life Sciences,0, HuMAN reSourcEs ,,Y,No,,,False
+457,No,travel_rarely,,Marketing,1, SALeS ExECUtIVE ,,,,Full Time,,1
+458,Yes,,,,0, SaLEs EXEcuTIVe ,,,,,,False
+459,No,non-travel, Research & Development ,Medical,0, mANuFActuring DireCtOR ,Divorced,,No,, mANuFActuring DireCtOR  -  Research & Development ,0
+460,No,,,Medical,1, MANufaCturiNg dIrECtOr ,Single,Y,No,Part Time,,False
+461,Yes,travel_rarely,,Medical,1, heALThcare RePreSeNtatIve ,Married,,No,,,0
+462,No,non-travel,,,1, sAlEs EXeCUTive ,Married,Y,,Part Time,,False
+463,No,travel_frequently,,Life Sciences,0, SALEs eXecuTIVE ,Married,,,Full Time,,0
+464,Yes,,,Life Sciences,1, saLES exeCuTIVe ,,Y,,Part Time,,1
+465,No,travel_rarely, Research & Development ,,0, MaNagEr ,,Y,,, MaNagEr  -  Research & Development ,True
+466,No,travel_rarely, Sales ,,1, SaLeS exeCuTIVe ,Single,Y,No,Part Time, SaLeS exeCuTIVe  -  Sales ,False
+467,No,,,Medical,0, rESEARCh diReCtoR ,Married,Y,No,,,1
+468,No,travel_frequently,,Other,0, LaBorAtoRY tEchNIciaN ,Married,,No,Part Time,,True
+469,No,travel_frequently,,Life Sciences,0, SaLeS ExECutiVe ,Married,,,Part Time,,True
+470,No,,,,0, ResEaRCh ScIENTiST ,Married,Y,,Part Time,,0
+471,No,travel_rarely,,Medical,0, SalES ExecutivE ,Divorced,,No,Part Time,,1
+472,No,, Research & Development ,Medical,0, lAboRaTory tECHNIciAN ,Single,Y,No,Part Time, lAboRaTory tECHNIciAN  -  Research & Development ,1
+473,No,travel_rarely,,,0, Sales eXeCUtIVE ,,,,Part Time,,0
+474,Yes,travel_frequently, Sales ,Marketing,0, saLes eXECUTIVe ,,Y,Yes,Part Time, saLes eXECUTIVe  -  Sales ,Yes
+475,No,travel_frequently,,Life Sciences,0, hEALTHcaRe rePrESentATIve ,Divorced,,,,,Yes
+476,No,,,,1, resEarch diReCtor ,Married,,No,Part Time,,1
+477,No,,,Medical,0, REseaRCH SCIENTIsT ,,,No,Part Time,,1
+478,No,travel_rarely,,,1, hEalthcarE ReprESeNTatiVe ,Married,,Yes,Part Time,,Yes
+479,No,travel_rarely,,Life Sciences,0, resEaRcH SCieNTiST ,Single,,No,,,False
+480,No,travel_rarely,,,1, salEs ExECutIvE ,Marreid,Y,No,Part Time,,Yes
+481,No,travel_rarely,,Life Sciences,1, maNUfaCtuRINg dIReCTor ,Married,Y,No,Full Time,,Yes
+482,No,, Sales ,Marketing,1, saLes EXEcuTiVe ,Married,Y,No,Full Time, saLes EXEcuTiVe  -  Sales ,False
+483,No,travel_rarely,,,1, SaLes exECutiVe ,Married,,No,,,1
+484,No,travel_rarely,,,0, hEALthcarE REPrESEnTATIve ,,,,Part Time,,1
+485,No,travel_rarely,,,1, reSeArch dIRectoR ,Single,,No,Part Time,,0
+486,No,travel_rarely,,Medical,1, HeAlthCArE RePReSeNtaTIVe ,Married,,,Full Time,,True
+487,No,,,,0, SAlES EXEcUtIve ,Single,Y,,Part Time,,Yes
+488,No,travel_frequently, Research & Development ,Life Sciences,0, mAnaGeR ,Divorced,Y,,Full Time, mAnaGeR  -  Research & Development ,0
+489,No,, Research & Development ,,1, HEALThCaRe rePResEnTaTivE ,Single,,No,, HEALThCaRe rePResEnTaTivE  -  Research & Development ,0
+490,No,travel_rarely,,Medical,1, labORAtOry tecHnICiAn ,Divorced,,Yes,Part Time,,True
+491,No,travel_frequently, Research & Development ,,1, mAnAgEr ,Married,Y,,, mAnAgEr  -  Research & Development ,True
+492,No,travel_rarely,,Technical Degree,0, manUfacTUriNg dirEctOr ,Single,,No,Part Time,,1
+493,Yes,travel_rarely,,Medical,0, MaNager ,Married,,,Part Time,,True
+494,No,travel_rarely,,Life Sciences,1, ManuFACTurInG dIreCToR ,Single,,No,Full Time,,False
+495,No,travel_rarely,,Human Resources,0, mANager ,Divorced,Y,No,Full Time,,0
+496,No,,,,1, heAlthCARE REPresentAtivE ,,,No,Part Time,,False
+497,No,travel_rarely,,Marketing,0, mANager ,,,,Full Time,,Yes
+498,No,travel_rarely,,Marketing,1, MaNaGer ,Married,,No,Full Time,,False
+499,No,travel_rarely,,Marketing,1, sAlEs ExECUtiVE ,,,,Part Time,,Yes
+500,No,non-travel, Research & Development ,,0, MaNageR ,Divorced,Y,,Full Time, MaNageR  -  Research & Development ,False
+501,No,travel_rarely, Research & Development ,Life Sciences,1, HeAlThCarE rEpreSentatiVe ,Married,,,Part Time, HeAlThCarE rEpreSentatiVe  -  Research & Development ,True
+502,No,travel_rarely,,,1, MANuFaCTURiNG DIrEctOr ,Married,,No,Full Time,,True
+503,No,travel_frequently,,Medical,1, MaNUFaCtURINg dIrEcToR ,Single,,,Part Time,,0
+504,No,,,,1, reseaRcH SCIEnTisT ,,,No,Full Time,,False
+505,Yes,, Human Resources ,Medical,0, HUMAN ResoURCeS ,Married,,No,Full Time, HUMAN ResoURCeS  -  Human Resources ,Yes
+506,No,,,Medical,0, MAnagER ,,,No,,,False
+507,No,travel_rarely,,Life Sciences,0, healThCaRE RepREsEntAtIve ,Single,Y,,Part Time,,Yes
+508,No,,,,0, hUmAN ReSouRCes ,,,No,Part Time,,1
+509,No,, Human Resources ,Life Sciences,1, huMAn ResOurces ,,,,Part Time, huMAn ResOurces  -  Human Resources ,True
+510,No,,,Life Sciences,0, rESEArCh sCIEnTiST ,Single,,,Part Time,,False
+511,No,travel_rarely, Research & Development ,Life Sciences,0, mANUfacTURiNG dIRectOR ,Married,,,, mANUfacTURiNG dIRectOR  -  Research & Development ,1
+512,No,,,Life Sciences,0, resEaRCh dIrEcTOR ,Married,,No,,,1
+513,No,,,,0, ReseaRCh directoR ,,,,,,0
+514,No,travel_rarely,,Marketing,0, MAnagER ,,Y,No,Full Time,,1
+515,No,, Sales ,,0, saLES eXEcUTiVE ,Married,Y,No,Part Time, saLES eXEcUTiVE  -  Sales ,True
+516,No,, Research & Development ,,1, labORaTORY teChNIcIaN ,,,,, labORaTORY teChNIcIaN  -  Research & Development ,True
+517,No,,,Technical Degree,1, rESeaRch DiREctor ,Single,,,,,False
+518,No,,,,0, saleS ExeCUTIVe ,,,,Part Time,,False
+519,No,,,,1, ResEarCh SCiEnTist ,Married,,No,Full Time,,0
+520,No,travel_rarely,,,0, ManagEr ,Married,,,,,1
+521,No,, Sales ,,0, saLes eXeCUTivE ,Married,,,Part Time, saLes eXeCUTivE  -  Sales ,True
+522,No,travel_rarely,,Life Sciences,1, laborAtOry tEChniCIAn ,Single,,Yes,Part Time,,True
+523,No,non-travel,,Marketing,0, SalES exECutIVe ,,Y,No,Part Time,,False
+524,No,,,,0, manUFACtURinG DIREcTOR ,Divorced,,No,,,False
+525,No,,,,0, ManUFaCtURInG dIReCToR ,Single,Y,No,Full Time,,True
+526,No,,,,0, rESEArch SciEntIST ,Single,,,Full Time,,1
+527,No,travel_rarely,,,0, reSearch sCienTiSt ,,,No,Part Time,,False
+528,No,,,,1, manUFaCTUriNg DIrectOR ,,,No,Full Time,,False
+529,No,,,Life Sciences,0, saLes exEcutiVE ,Single,Y,No,Part Time,,1
+530,No,travel_frequently,,Technical Degree,1, HeALthcare RePREsENTativE ,Married,Y,No,,,Yes
+531,No,travel_rarely, Sales ,Life Sciences,0, Sales exECutIVE ,,,Yes,Part Time, Sales exECutIVE  -  Sales ,True
+532,No,travel_rarely,,,1, MAnUfaCTUrINg dIrEctor ,Single,Y,,Part Time,,Yes
+533,No,non-travel,,,0, sALES ExEcUTiVE ,Divorced,Y,No,Part Time,,0
+534,No,travel_rarely,,Life Sciences,1, mANUfacTurING dirECtOr ,Married,,,Part Time,,0
+535,No,travel_rarely,,Medical,0, REseaRCH SCiEntIst ,,,,Part Time,,1
+536,No,,,,0, manaGer ,Married,,No,,,False
+537,No,,,Life Sciences,0, RESEarCh SCIeNtIst ,,,Yes,Full Time,,True
+538,No,travel_frequently,,Medical,1, saLES ExecUTIvE ,,,,,,0
+539,No,, Sales ,,1, saleS eXEcuTIvE ,Single,Y,No,Full Time, saleS eXEcuTIvE  -  Sales ,False
+540,No,, Sales ,Other,0, SALes ExeCUtive ,Single,Y,No,Full Time, SALes ExeCUtive  -  Sales ,Yes
+541,No,, Research & Development ,,1, reSearCH SCieNtIst ,,Y,,Full Time, reSearCH SCieNtIst  -  Research & Development ,1
+542,No,,,Other,0, MaNufaCtUrINg DirecTOr ,Single,Y,No,,,False
+543,No,,,Medical,1, RESeArcH SCIENtist ,,,,Part Time,,0
+544,No,, Research & Development ,,1, HEALThcaRe RePresENtaTiVE ,Married,Y,Yes,Full Time, HEALThcaRe RePresENtaTiVE  -  Research & Development ,True
+545,No,,,Life Sciences,1, ResEaRcH scIEnTIsT ,Divorced,Y,No,Part Time,,0
+546,No,travel_frequently, Research & Development ,,1, rEsEARch sCientIST ,divorced,,No,Part Time, rEsEARch sCientIST  -  Research & Development ,1
+547,No,,,Life Sciences,1, sAlEs Executive ,Married,,,Part Time,,0
+548,No,travel_rarely,,Medical,0, LAbOrATOry techNicIan ,Married,Y,,,,0
+549,No,,,Life Sciences,1, ReSearcH scIEntist ,Married,Y,,Part Time,,0
+550,No,travel_rarely, Research & Development ,,0, HealthcARE RePreSENtAtiVe ,Married,,Yes,Part Time, HealthcARE RePreSENtAtiVe  -  Research & Development ,False
+551,No,, Research & Development ,Life Sciences,0, ResEArch ScieNTiST ,,,Yes,Part Time, ResEArch ScieNTiST  -  Research & Development ,0
+552,No,travel_rarely,,,0, reSEarCh ScIeNTIST ,,Y,No,Full Time,,True
+553,No,, Research & Development ,,0, labORaTORy TecHniciAN ,Single,,No,Part Time, labORaTORy TecHniciAN  -  Research & Development ,0
+554,No,,,,0, ResEaRch ScieNTiSt ,Married,,,,,True
+555,No,,,Medical,0, ReseARch SciENTISt ,Divorced,Y,No,Part Time,,1
+556,No,non-travel,,Life Sciences,1, saLes eXeCutIvE ,,Y,Yes,Part Time,,0
+557,Yes,, Sales ,,0, SalEs exECUTIvE ,Married,,No,Full Time, SalEs exECUTIvE  -  Sales ,Yes
+558,Yes,,,,1, SaLEs ExEcUTIVE ,,,Yes,Part Time,,0
+559,No,travel_rarely, Research & Development ,Medical,0, LabOrATory TEChNICiaN ,Married,,,Part Time, LabOrATory TEChNICiaN  -  Research & Development ,0
+560,No,travel_rarely,,Life Sciences,0, REseaRCh SCiENTIst ,Married,Y,No,Part Time,,False
+561,No,travel_rarely,,Life Sciences,0, reseARCH sCIEntiST ,,Y,No,Part Time,,1
+562,No,travel_rarely,,Medical,0, RESeaRCh sCientIsT ,Single,,No,Part Time,,False
+563,No,,,,0, mAnUfactURing dIReCtOr ,,,No,,,1
+564,No,,,Medical,0, sales ExEcUtiVe ,,Y,,Part Time,,Yes
+565,Yes,travel_rarely,,,0, sALES eXeCutiVE ,Single,Y,Yes,,,Yes
+566,Yes,,,Life Sciences,1, reseARcH scieNtISt ,,Y,,Full Time,,Yes
+567,No,, Research & Development ,,1, reSeArcH scieNtist ,Married,,,Part Time, reSeArcH scieNtist  -  Research & Development ,False
+568,Yes,,,Medical,1, labORatOry technICiAn ,,,No,,,False
+569,No,travel_rarely,,Life Sciences,1, rEsEArch SCIeNtIsT ,Single,,No,Part Time,,True
+570,No,travel_rarely,,,1, mAnAGER ,,Y,,,,0
+571,No,,,Life Sciences,0, ReSEArcH sCiEntIST ,,Y,No,Part Time,,False
+572,No,travel_rarely,,,1, SalEs eXEcUTIVe ,,Y,,,,0
+573,No,,,,0, rEseARcH SCIENTIsT ,Divorced,,No,Part Time,,True
+574,Yes,,,Marketing,1, SalES EXEcUTIVE ,Married,,,Part Time,,Yes
+575,No,non-travel, Research & Development ,Medical,0, maNuFAcTUring DIrecToR ,,Y,,Part Time, maNuFAcTUring DIrecToR  -  Research & Development ,Yes
+576,Yes,,,,0, LaBoRatorY teCHNiciaN ,Married,,Yes,,,False
+577,Yes,,,,0, laboraTORy teChnICiaN ,,Y,No,Part Time,,Yes
+578,No,,,,0, sALes EXECUTiVE ,,,No,,,1
+579,No,, Research & Development ,,0, ResEARCh DIRECtoR ,Divorced,,No,, ResEARCh DIRECtoR  -  Research & Development ,False
+580,No,travel_frequently,,,1, SAlEs ExecuTIVE ,Married,,,Full Time,,True
+581,No,,,,0, saleS eXEcuTiVe ,,,Yes,,,1
+582,No,non-travel,,Marketing,0, sales exEcutIVe ,,Y,Yes,,,Yes
+583,No,travel_rarely,,,0, MAnUFacTuRING DIREctOR ,Single,,Yes,Part Time,,Yes
+584,No,travel_rarely,,Medical,1, lAboRaTOrY tEcHNiciaN ,,,No,Part Time,,True
+585,Yes,,,,0, sAles EXECUtIvE ,,Y,Yes,Full Time,,1
+586,No,,,,1, manaGER ,Single,Y,Yes,Full Time,,False
+587,Yes,travel_frequently,,,0, REsearCH SCiEntist ,,,,Full Time,,1
+588,No,travel_rarely,,Marketing,1, saLes eXeCuTIvE ,Divorced,Y,,Part Time,,1
+589,No,, Sales ,,1, SaLes exECutIVe ,Single,Y,Yes,Part Time, SaLes exECutIVe  -  Sales ,False
+590,No,,,,1, SalEs EXECuTIVe ,Single,,No,Part Time,,True
+591,No,travel_rarely,,,0, mAnuFActUriNG DIRECTOR ,Married,Y,,Part Time,,0
+592,No,travel_frequently,,,1, reSEaRch sCIeNtisT ,,,No,Part Time,,0
+593,No,travel_rarely,,Life Sciences,1, maNUfaCTURING DIrECToR ,,,No,,,1
+594,No,travel_rarely,,Life Sciences,0, lABOrAToRy tEchNicIAN ,Single,,No,Full Time,,0
+595,No,travel_rarely,,,0, mAnageR ,Divorced,Y,,Part Time,,Yes
+596,No,travel_rarely, Sales ,,1, SAleS eXecuTIVe ,Single,Y,,Part Time, SAleS eXecuTIVe  -  Sales ,1
+597,No,,,,0, SaLEs REpResENTATive ,,Y,,,,Yes
+598,No,travel_rarely,,,1, rEsEaRch scIenTist ,Married,Y,,Full Time,,0
+599,Yes,,,Life Sciences,1, sALeS eXECuTiVe ,,Y,Yes,Part Time,,False
+600,No,travel_frequently,,Life Sciences,0, ResEARcH ScIeNtISt ,Divorced,Y,No,Part Time,,True
+601,No,,,Marketing,0, SaLEs EXECuTIve ,Divorced,,Yes,Full Time,,False
+602,No,travel_rarely,,Life Sciences,0, HuMan reSOurces ,,,,,,1
+603,No,,,,0, research sCiENtIst ,,,,Part Time,,Yes
+604,No,travel_frequently,,Medical,1, saLEs REpReseNTative ,Married,,,Full Time,,False
+605,No,travel_rarely,,Life Sciences,1, HUmAN RESOURCeS ,,Y,No,Part Time,,False
+606,No,,,,1, sALEs EXecutIVE ,,,,Part Time,,1
+607,No,travel_rarely,,,0, SAles ExecutIve ,,,No,Part Time,,0
+608,No,,,Medical,0, rEseArCh DiREctOR ,Divorced,Y,No,Full Time,,1
+609,No,travel_rarely, Sales ,,0, manAGER ,,,Yes,, manAGER  -  Sales ,True
+610,No,,,Life Sciences,1, sALES ExeCutiVe ,Married,Y,No,Part Time,,Yes
+611,No,,,Medical,1, ReseARch ScIenTIST ,Married,,No,Part Time,,0
+612,No,,,,0, ManAGER ,Single,Y,No,Full Time,,1
+613,No,, Research & Development ,Life Sciences,0, LaBOrATORy teCHnIciaN ,Single,,No,Part Time, LaBOrATORy teCHnIciaN  -  Research & Development ,0
+614,No,travel_rarely,,Technical Degree,0, HUMaN RESoUrCES ,,Y,No,Full Time,,1
+615,No,travel_rarely, Sales ,Marketing,0, SAlES ExecuTIVe ,Single,,No,, SAlES ExecuTIVe  -  Sales ,False
+616,Yes,,,,0, RESEArCH scientiSt ,Single,,Yes,Full Time,,0
+617,No,travel_rarely,,,1, reSEARCH ScieNtisT ,Married,Y,Yes,Part Time,,0
+618,No,,,Human Resources,0, HUMaN ReSOUrCEs ,,Y,No,,,True
+619,No,travel_frequently,,,1, ManUFAcTURinG dIrEcTor ,,,No,Part Time,,False
+620,No,, Sales ,,1, MaNAgeR ,Married,Y,,, MaNAgeR  -  Sales ,1
+621,No,non-travel,,Medical,1, maNuFaCTuriNg dirECTor ,Single,,Yes,Part Time,,True
+622,Yes,travel_rarely,,Life Sciences,0, labORatoRY TeChNiCIAN ,,,,Part Time,,True
+623,Yes,,,,0, saleS EXecuTiVE ,Single,Y,Yes,Part Time,,1
+624,No,non-travel,,,1, reSEaRCH sCIentisT ,Divorced,Y,No,Part Time,,1
+625,No,travel_rarely, Sales ,,0, salES exEcUtiVE ,Married,Y,,Part Time, salES exEcUtiVE  -  Sales ,False
+626,No,,,,0, rESEaRCh sCIenTisT ,Married,,Yes,Full Time,,False
+627,No,, Sales ,Life Sciences,0, SAlEs ExECUTIVe ,Marreid,,,Part Time, SAlEs ExECUTIVe  -  Sales ,True
+628,No,non-travel, Research & Development ,,0, HEaLTHcaRE rePReseNtaTIvE ,,,No,Part Time, HEaLTHcaRE rePReseNtaTIvE  -  Research & Development ,0
+629,No,travel_rarely,,Other,1, lAboratorY TECHNIcian ,Married,,No,Part Time,,Yes
+630,No,,,,1, SaLeS ExEcUtiVe ,Single,Y,Yes,Full Time,,True
+631,No,,,Life Sciences,0, LabORAtORY TechNiciAN ,Single,Y,,Part Time,,True
+632,No,travel_rarely,,,1, SALes exeCUtiVE ,Married,Y,Yes,,,True
+633,No,travel_rarely,,Life Sciences,1, lAborAtoRy technIcIAN ,,Y,No,Part Time,,0
+634,No,, Sales ,,0, sAles eXEcUtIve ,Single,,,Part Time, sAles eXEcUtIve  -  Sales ,Yes
+635,No,travel_rarely, Research & Development ,Medical,1, laBoraTorY tEChnICiaN ,,,No,Part Time, laBoraTorY tEChnICiaN  -  Research & Development ,Yes
+636,No,travel_rarely,,Medical,1, SALes exEcUTivE ,Married,,,Part Time,,1
+637,Yes,,,Life Sciences,0, lAbORatorY TeChnIciAn ,Single,,,Part Time,,False
+638,No,travel_rarely,,Technical Degree,0, rEsEaRcH sCiENTIST ,Marreid,,No,Part Time,,True
+639,No,travel_rarely,,,0, sAleS exEcuTive ,,Y,,Part Time,,1
+640,No,,,Life Sciences,0, HealTHCaRE rEprEsENtatiVE ,,Y,,Full Time,,True
+641,No,,,Life Sciences,1, SAlES exEcUTIve ,Married,Y,No,Part Time,,1
+642,No,,,,0, LaBoRatorY tEcHnicIan ,Divorced,,,Full Time,,0
+643,No,,,,0, resEaRCH sCiENtiSt ,,,No,Part Time,,Yes
+644,No,, Research & Development ,,1, MANufacTURIng diREcTOr ,,,,, MANufacTURIng diREcTOr  -  Research & Development ,True
+645,No,travel_rarely, Research & Development ,,1, REsearch scIENtist ,Married,,,Full Time, REsearch scIENtist  -  Research & Development ,False
+646,No,travel_rarely,,Medical,0, maNufactURInG DireCTor ,,,No,Part Time,,Yes
+647,No,travel_rarely, Research & Development ,Life Sciences,0, heaLtHcARe RePReSENtaTIve ,Divorced,,No,Full Time, heaLtHcARe RePReSENtaTIve  -  Research & Development ,1
+648,Yes,travel_rarely,,Medical,0, lAbORaTORY techNiCIAn ,Single,Y,,Full Time,,Yes
+649,No,,,,0, REseArCH sciENTIst ,,,Yes,Full Time,,1
+650,No,travel_frequently,,Technical Degree,1, MANufAcTUrinG dIrEcToR ,Single,Y,,Part Time,,Yes
+651,No,travel_rarely, Research & Development ,Other,1, lAbOrAtorY techNiCiaN ,Married,Y,No,, lAbOrAtorY techNiCiaN  -  Research & Development ,True
+652,No,,,Medical,0, lABoRAtory technICiaN ,Married,Y,,Part Time,,1
+653,No,,,,1, HeAltHCARE rEpReSeNtative ,,,,Part Time,,Yes
+654,No,travel_frequently, Research & Development ,,1, laboRaTOrY TEchniCIaN ,Single,,Yes,Part Time, laboRaTOrY TEchniCIaN  -  Research & Development ,True
+655,No,,,,1, SALes eXECUtiVE ,,Y,No,,,Yes
+656,No,travel_rarely,,Marketing,0, SaLeS ExecuTIVE ,Single,Y,No,Full Time,,0
+657,No,,,Life Sciences,0, ReSeARCh DiRecTOR ,Married,,No,,,0
+658,No,non-travel,,,0, lABOraTory techniCiaN ,,,No,Part Time,,True
+659,No,,,Life Sciences,0, salES executiVE ,Divorced,Y,,Full Time,,False
+660,No,,,Medical,1, REseARch SciEntISt ,Single,Y,No,Part Time,,Yes
+661,No,non-travel,,Medical,0, mAnuFaCTUrING direCTor ,,Y,No,Full Time,,Yes
+662,Yes,travel_rarely,,Life Sciences,0, SALes RePREsEntAtivE ,Single,Y,No,Part Time,,False
+663,No,travel_rarely,,Medical,1, reSEARCh ScIEnTIsT ,,,No,Part Time,,0
+664,No,travel_frequently,,Life Sciences,1, SaLEs execUtive ,Marreid,,No,Part Time,,0
+665,No,, Sales ,Marketing,1, SAles ExECutIvE ,,,,Full Time, SAles ExECutIvE  -  Sales ,False
+666,No,,,Life Sciences,1, laboraTORY TeChnicIaN ,Single,,No,Part Time,,True
+667,No,,,Medical,1, REsEArCh dirEcTOr ,divorced,,,,,0
+668,No,travel_frequently,,,1, SalEs EXecuTiVE ,Single,Y,No,Full Time,,False
+669,No,travel_frequently,,Life Sciences,0, heaLThCaRE RepreSEntaTiVe ,Married,,No,Full Time,,False
+670,No,travel_rarely,,Technical Degree,1, REsEarcH DIRECtor ,,,No,Full Time,,False
+671,No,,,,1, reseaRCH DIrectOr ,,,Yes,Full Time,,True
+672,No,non-travel,,,1, MAnagEr ,Single,,,Full Time,,Yes
+673,No,,,Life Sciences,0, lABoRatORy TeCHNiCIAn ,Married,Y,No,Part Time,,True
+674,No,travel_rarely,,Life Sciences,0, Sales exEcutiVE ,,,No,Part Time,,True
+675,No,travel_rarely,,,0, LABOrATORy TEChNIciaN ,Single,,No,Part Time,,1
+676,No,travel_frequently,,,1, SalEs RePResEnTatIVe ,,,No,Part Time,,0
+677,No,travel_rarely, Research & Development ,,0, HeALtHCarE represEntAtIVe ,Divorced,,,Part Time, HeALtHCarE represEntAtIVe  -  Research & Development ,Yes
+678,No,travel_rarely,,Life Sciences,1, SALes eXEcUtIve ,Single,,,,,0
+679,Yes,travel_rarely,,Marketing,1, Sales RePreSENtATIve ,,,Yes,Part Time,,True
+680,No,,,,1, mANUfacTURINg DiREcTor ,Divorced,Y,,Part Time,,False
+681,No,,,,0, reseARCh SciEnTiST ,Divorced,Y,Yes,Full Time,,Yes
+682,Yes,,,,1, SALES eXECUTIve ,,,,Part Time,,Yes
+683,Yes,travel_rarely,,Medical,0, ReseaRCh sCIENTIst ,Single,,,Part Time,,1
+684,No,,,,1, SALes rePresEntaTiVE ,Married,,No,Part Time,,0
+685,No,,,Life Sciences,0, HeaLTHCArE rEPrESEntATIve ,,,No,,,1
+686,No,,,,0, ResEaRCH DIREcTOr ,Married,,Yes,Full Time,,1
+687,No,, Research & Development ,Medical,0, HEalThCaRe rEpReSENtatIVe ,Married,Y,,Part Time, HEalThCaRe rEpReSENtatIVe  -  Research & Development ,True
+688,No,,,,1, rEseaRcH scieNtisT ,,,No,,,1
+689,No,travel_rarely,,Medical,0, healTHCaRE ReprEsEntaTIVE ,Single,,,,,Yes
+690,No,, Research & Development ,Life Sciences,0, HEalTHCare REPrEsEntATiVE ,Divorced,,Yes,Part Time, HEalTHCare REPrEsEntATiVE  -  Research & Development ,True
+691,No,travel_rarely,,,1, rESeaRCH sCienTisT ,Single,Y,,Part Time,,Yes
+692,No,travel_frequently,,Life Sciences,1, reseaRCh SCIENtIst ,,Y,,,,0
+693,No,travel_rarely,,,0, saleS eXeCUTiVe ,Marreid,,,,,1
+694,No,non-travel,,Life Sciences,0, SALeS ExEcuTiVe ,,Y,,Part Time,,1
+695,No,travel_rarely,,,0, HeaLThCaRe rEPREsENTatiVE ,,,No,Full Time,,False
+696,Yes,travel_rarely,,Technical Degree,1, SaLes rEprESEntAtIvE ,Single,Y,Yes,Part Time,,True
+697,No,, Research & Development ,,0, LaBoRaToRY TEcHnIcian ,Marreid,,,Part Time, LaBoRaToRY TEcHnIcian  -  Research & Development ,0
+698,No,,,,0, reSearCH ScientIsT ,,Y,,Part Time,,Yes
+699,Yes,travel_rarely,,,0, lABorATORY TEcHNiCiaN ,Divorced,Y,No,Full Time,,0
+700,No,non-travel,,Medical,0, SAlEs EXEcuTIvE ,Single,Y,,Part Time,,True
+701,No,non-travel, Sales ,,0, SAlES ExecutIve ,Single,Y,No,Part Time, SAlES ExecutIve  -  Sales ,1
+702,No,travel_frequently,,,1, lABOrAToRY TEcHniCIan ,Married,Y,No,Full Time,,True
+703,No,travel_rarely,,Marketing,0, sAlES eXEcuTiVE ,Married,Y,,,,True
+704,Yes,travel_frequently, Research & Development ,,1, LaBOrAtory TECHNIciAN ,,,,Part Time, LaBOrAtory TECHNIciAN  -  Research & Development ,1
+705,No,, Research & Development ,,1, ReSeArch scIenTIsT ,Divorced,,No,Part Time, ReSeArch scIenTIsT  -  Research & Development ,Yes
+706,Yes,travel_rarely,,Marketing,0, saLEs rEpRESeNTAtive ,Divorced,,No,Part Time,,True
+707,Yes,, Sales ,Technical Degree,0, SaLEs EXECutIVe ,Married,,,Part Time, SaLEs EXECutIVe  -  Sales ,0
+708,No,travel_rarely,,,0, LABOrATORy TEchNICian ,,,No,Part Time,,True
+709,No,travel_rarely,,,1, huMaN RESOurcES ,,,,Part Time,,False
+710,No,non-travel,,Medical,0, REseARcH ScIENTiSt ,,Y,No,Full Time,,True
+711,Yes,,,,0, SalEs exeCuTiVE ,Single,Y,No,Part Time,,1
+712,No,,,,1, mAnUfaCTURINg DIRECTOr ,Divorced,,Yes,,,Yes
+713,No,travel_rarely,,Life Sciences,1, RESEARCH scIEnTisT ,Divorced,Y,Yes,Part Time,,0
+714,No,travel_rarely, Research & Development ,,0, rESEARch DiRector ,,Y,,Full Time, rESEARch DiRector  -  Research & Development ,0
+715,No,,,Life Sciences,1, manUfAcTurInG dIrEctOr ,Married,,,Full Time,,0
+716,No,travel_frequently, Research & Development ,,0, HEaltHcare rEPrEsEnTatIVe ,,,,, HEaltHcare rEPrEsEnTatIVe  -  Research & Development ,False
+717,No,travel_rarely,,Medical,0, rESeaRcH ScieNtisT ,Single,,No,Full Time,,0
+718,No,,,,1, ReSeArch sCIEnTist ,Married,Y,,Part Time,,Yes
+719,No,,,,0, sALEs ExeCuTiVE ,,,Yes,Part Time,,True
+720,No,,,,1, labORatoRY TecHNiCIaN ,Married,,Yes,,,True
+721,No,,,Human Resources,0, HumAn rESOUrCEs ,Divorced,Y,Yes,Part Time,,False
+722,No,travel_rarely,,Medical,1, lABoRaTory teCHNiCIan ,,,No,Part Time,,0
+723,No,non-travel,,,1, SalEs exeCUTivE ,,,Yes,Full Time,,1
+724,No,travel_rarely, Research & Development ,,1, lABORatORY TeChNiCiAN ,Divorced,Y,No,, lABORatORY TeChNiCiAN  -  Research & Development ,False
+725,No,travel_frequently,,,1, ManufActuRiNG DIrecTOr ,,,No,Part Time,,0
+726,No,, Research & Development ,Life Sciences,0, LaBOratory TeChnICiAn ,,Y,,, LaBOratory TeChnICiAn  -  Research & Development ,Yes
+727,No,travel_rarely,,,1, MANUFActUrING directoR ,,,,Full Time,,0
+728,No,, Sales ,,1, maNAGer ,Married,,No,, maNAGer  -  Sales ,0
+729,No,travel_rarely,,,0, HuMan resouRCeS ,,,No,Part Time,,Yes
+730,No,travel_rarely,,,1, healTHCaRe RePRESEntativE ,,Y,No,Part Time,,True
+731,No,,,Medical,1, rEseArch sCIeNTiST ,,Y,No,Part Time,,0
+732,No,,,Medical,0, lABORaToRY teCHnicIAn ,Married,,No,Part Time,,1
+733,No,,,,0, RESearcH SCieNtisT ,Marreid,,No,Part Time,,1
+734,No,,,Medical,0, LabORAtOry TecHniCiAN ,Single,,No,Full Time,,False
+735,No,travel_rarely,,Marketing,0, SaLeS exECUtiVe ,Married,,No,Part Time,,False
+736,Yes,,,,1, sALes EXECUtIVE ,Single,Y,No,Part Time,,True
+737,No,travel_rarely,,Life Sciences,0, saleS EXECUTiVE ,Divorced,Y,,Part Time,,0
+738,No,travel_rarely,,Technical Degree,0, MaNUFacTuRinG DiReCtor ,Divorced,Y,,Part Time,,Yes
+739,No,non-travel, Human Resources ,,0, hUMAn rEsOuRCES ,Married,,No,Full Time, hUMAn rEsOuRCES  -  Human Resources ,True
+740,No,,,Life Sciences,0, SALES exeCUTiVE ,Single,,No,Part Time,,False
+741,No,,,,0, ResEaRcH SciENTIst ,Divorced,Y,,Part Time,,Yes
+742,No,travel_rarely,,Life Sciences,0, maNaGEr ,Single,,No,Full Time,,0
+743,No,travel_frequently, Sales ,Marketing,1, sales ExeCUTiVE ,,,,Part Time, sales ExeCUTiVE  -  Sales ,1
+744,No,,,Life Sciences,0, saLes ExECuTive ,Married,Y,,Part Time,,1
+745,No,travel_frequently,,,1, mANUfaCtURing DIReCTOr ,Married,,,Full Time,,True
+746,No,travel_rarely,,Medical,0, rEsEarCh sCieNTisT ,Single,,No,Full Time,,True
+747,Yes,travel_frequently,,,0, laBoratOry TechNIcIaN ,,,No,Part Time,,1
+748,No,travel_frequently,,Other,0, ReseaRCH SciENtist ,,,,Part Time,,True
+749,No,,,Marketing,0, SalEs EXeCutiVe ,,,,Full Time,,Yes
+750,No,,,Medical,0, saLeS EXEcuTIVe ,,,No,Part Time,,False
+751,Yes,, Sales ,,1, saLEs exeCUtiVe ,Single,,No,, saLEs exeCUtiVe  -  Sales ,0
+752,No,,,Life Sciences,0, HuMan ReSOurCES ,,,,Part Time,,False
+753,No,, Research & Development ,Life Sciences,0, laBorAtORy TECHnicIaN ,Single,Y,No,Part Time, laBorAtORy TECHnicIaN  -  Research & Development ,0
+754,No,,,,0, MANuFaCtURIng DIRectoR ,,Y,No,Part Time,,True
+755,No,,,,1, salEs rePrEsENtatIvE ,Married,Y,,Part Time,,True
+756,No,travel_frequently,,,0, huMAN reSourcEs ,,,No,Part Time,,True
+757,No,,,,1, MAnUFAcTUrinG DiREcTor ,Divorced,Y,,Part Time,,1
+758,No,,,Life Sciences,0, MaNufAcTurInG DIReCtor ,,Y,No,Part Time,,0
+759,No,, Research & Development ,Technical Degree,1, ReSeaRch SCIEnTiSt ,,,,Full Time, ReSeaRch SCIEnTiSt  -  Research & Development ,0
+760,No,,,,0, LaBORatORY tEChnician ,,,,,,Yes
+761,No,travel_frequently,,,1, lAbOrAtOrY TEcHnICiAn ,,,,Part Time,,False
+762,No,travel_rarely,,Medical,0, hEaLthcARE repreSenTATIvE ,Married,Y,No,,,False
+763,No,travel_frequently,,,0, SaLes EXECUTivE ,,Y,,Part Time,,1
+764,No,, Research & Development ,Medical,0, rEsEArcH scIenTIst ,Married,,No,Part Time, rEsEArcH scIenTIst  -  Research & Development ,Yes
+765,No,travel_rarely,,Medical,1, LaBORATorY teCHniCian ,,Y,No,Full Time,,False
+766,No,travel_rarely,,,0, saLes ExEcUtiVE ,Married,Y,No,Part Time,,False
+767,No,travel_rarely,,Medical,0, LABoRaToRy TEChNician ,Divorced,,No,Part Time,,Yes
+768,No,,,Life Sciences,0, laBOraTORY TeCHNICiAN ,Divorced,,No,Part Time,,True
+769,Yes,,,,0, rEsEARcH ScIeNTisT ,,Y,Yes,Part Time,,1
+770,No,travel_rarely,,,0, ResEaRcH SCIentisT ,Married,,No,Part Time,,True
+771,No,, Research & Development ,Medical,0, RESeArch dIREcToR ,Single,,,Part Time, RESeArch dIREcToR  -  Research & Development ,Yes
+772,No,,,Life Sciences,1, LABorAtorY TecHnicIAN ,Married,,,Full Time,,1
+773,Yes,travel_rarely,,,0, MAnuFactUrIng dIReCtoR ,Single,,,Part Time,,Yes
+774,No,,,,1, healtHCaRe REPReSENtATIVE ,,,,Full Time,,1
+775,No,travel_rarely, Sales ,,0, saLes ExECutIVE ,,Y,No,, saLes ExECutIVE  -  Sales ,False
+776,No,,,Technical Degree,0, reseaRcH sCIEntISt ,Married,Y,No,Part Time,,0
+777,No,travel_rarely,,,0, SaLEs eXeCUTiVe ,Married,,Yes,Part Time,,1
+778,No,travel_rarely,,Medical,0, rEsEArch sCIenTIsT ,,,,Part Time,,1
+779,No,,,Technical Degree,0, ReSEARCH sCieNtISt ,,,No,Part Time,,0
+780,No,travel_rarely,,,0, sAles eXEcuTIVE ,,,,Full Time,,Yes
+781,No,non-travel,,Medical,0, reSeArch sCieNTiSt ,Single,,No,,,Yes
+782,No,,,Life Sciences,0, HeALthcarE RepReseNtatIVe ,Married,Y,No,Part Time,,False
+783,No,, Research & Development ,,1, REseARCh SCIenTIst ,Married,,No,Part Time, REseARCh SCIenTIst  -  Research & Development ,False
+784,No,travel_rarely,,Life Sciences,0, HEAlthcaRE REPrESentATIve ,Single,,No,,,1
+785,No,travel_frequently,,,0, mANUfAcTURING direCTor ,Married,Y,No,,,0
+786,No,,,,0, rEsEArcH sCIeNTisT ,,,,Full Time,,True
+787,No,,,Life Sciences,0, rESEarcH sCIeNTiST ,,,No,Part Time,,True
+788,No,travel_rarely,,,1, saLES ExeCUTIVE ,,,Yes,Part Time,,True
+789,No,,,Medical,0, reseaRch ScIeNTist ,Single,,Yes,Part Time,,Yes
+790,Yes,,,,0, SAlEs EXecutiVe ,,,No,Part Time,,Yes
+791,No,, Sales ,Marketing,1, sALEs exECuTiVe ,Married,,No,Part Time, sALEs exECuTiVe  -  Sales ,0
+792,No,,,,1, sAlEs EXECUtiVe ,,,No,Part Time,,1
+793,No,,,,1, reSearcH sCiENTist ,Married,Y,,,,Yes
+794,No,travel_rarely,,,1, ReSearcH sCieNTist ,Married,Y,No,Part Time,,1
+795,No,travel_rarely,,Other,0, LabOratoRY tEcHNiciAN ,,,,Part Time,,0
+796,No,,,,0, lABoRaToRy TEChnicIAN ,,Y,No,,,Yes
+797,No,travel_rarely,,,0, lAbOrAtorY tEChNicIan ,Married,,No,Part Time,,0
+798,No,, Research & Development ,,0, rEseArCh SCieNtiST ,Divorced,,,Part Time, rEseArCh SCieNtiST  -  Research & Development ,1
+799,No,travel_rarely,,,0, lAbORAtORy TECHNicIaN ,Divorced,,,,,True
+800,Yes,travel_rarely, Research & Development ,Life Sciences,0, lABoRAtoRY TecHnIcian ,Single,,Yes,Part Time, lABoRAtoRY TecHnIcian  -  Research & Development ,1
+801,No,travel_rarely,,,0, REseaRch sciEntiST ,Divorced,Y,Yes,Part Time,,True
+802,No,, Research & Development ,Life Sciences,0, researcH SciEntIST ,Single,Y,Yes,Full Time, researcH SciEntIST  -  Research & Development ,1
+803,No,,,,1, MANufAcTuRiNG dIrEcTOR ,,,No,Part Time,,1
+804,Yes,,,,0, ReSeARCh sCieNTiSt ,Single,,No,Full Time,,1
+805,Yes,travel_frequently, Research & Development ,,1, REseARCH ScIeNTIST ,,,,Part Time, REseARCH ScIeNTIST  -  Research & Development ,0
+806,No,travel_rarely,,Marketing,1, MAnAgeR ,Single,Y,,Full Time,,0
+807,No,,,Other,0, heAltHcAre REprESEnTATIVE ,Married,Y,,Full Time,,0
+808,Yes,travel_rarely,,,0, sALES rEPReSENTAtiVE ,Married,,,Part Time,,1
+809,No,,,Marketing,1, salEs REPrESENTaTIvE ,Married,Y,No,Part Time,,1
+810,Yes,,,,0, lAbORatoRY tEChNIciAn ,Single,,Yes,,,1
+811,No,,,,1, sAles ExeCUtIVE ,Marreid,,Yes,Part Time,,False
+812,No,travel_rarely,,,1, LAbORaToRy technIcIaN ,,,Yes,Part Time,,0
+813,No,,,Medical,0, reseArcH SCIEntiST ,Married,,No,,,1
+814,No,travel_rarely,,Medical,0, reSeaRcH DIRecToR ,,,,Full Time,,Yes
+815,No,travel_rarely,,Medical,0, HUMan REsourcEs ,Divorced,,Yes,Part Time,,Yes
+816,No,travel_rarely,,Medical,0, MaNuFaCTUrING dirECtoR ,Married,,No,Part Time,,True
+817,No,travel_rarely,,,0, lABORAtORY tEcHNiCIAn ,,,,Part Time,,True
+818,No,travel_rarely, Sales ,Other,1, sAles ExecUtive ,Married,,No,Part Time, sAles ExecUtive  -  Sales ,1
+819,No,,,,0, LabOrAtory TechNIcIan ,Married,,,Part Time,,True
+820,Yes,travel_rarely,,Human Resources,0, hUMan REsOurCEs ,Divorced,,,,,True
+821,No,non-travel,,Human Resources,1, MAnAGER ,,,No,Full Time,,0
+822,No,,,,0, ReSEarch SCIeNTISt ,Married,Y,No,Part Time,,True
+823,No,,,Medical,1, rESEaRcH SciEnTiST ,Single,,,,,Yes
+824,No,travel_frequently,,,1, SALES eXeCUtive ,Single,Y,No,Part Time,,False
+825,Yes,travel_rarely,,,1, sALEs exEcUtIve ,,Y,Yes,Part Time,,True
+826,No,, Research & Development ,Medical,0, mAnUfaCTuRing DiRecTor ,Divorced,,No,Part Time, mAnUfaCTuRing DiRecTor  -  Research & Development ,0
+827,Yes,travel_frequently,,,0, ManufACTuRING dIrEcTOr ,,Y,,Full Time,,False
+828,No,, Sales ,Life Sciences,0, SaLes exEcUtIvE ,,,,Part Time, SaLes exEcUtIvE  -  Sales ,False
+829,No,travel_rarely,,Technical Degree,1, rESearCH SCientIsT ,,Y,Yes,,,False
+830,No,travel_rarely, Research & Development ,Technical Degree,1, ReseArCH scIenTIst ,Divorced,,No,Part Time, ReseArCH scIenTIst  -  Research & Development ,1
+831,No,,,Medical,0, rESeaRCh SCienTISt ,Marreid,,No,,,1
+832,No,non-travel, Research & Development ,Medical,0, ReseArch sCienTiST ,,,,Part Time, ReseArch sCienTiST  -  Research & Development ,1
+833,No,, Research & Development ,Medical,0, ReSEarcH SCiEnTISt ,Married,,No,Part Time, ReSEarcH SCiEnTISt  -  Research & Development ,Yes
+834,No,,,,0, ReSeaRCH SciEntIst ,,Y,,Full Time,,True
+835,No,travel_rarely,,Life Sciences,1, REseaRcH scientist ,Divorced,,,Part Time,,1
+836,No,travel_rarely,,,1, lABORatOry teCHNICiAN ,Single,,,Part Time,,1
+837,No,travel_rarely,,Medical,1, ReseArcH ScIEnTIst ,,Y,,Full Time,,Yes
+838,No,travel_rarely,,Medical,1, RESEarcH sciEnTIsT ,,Y,No,,,True
+839,No,, Research & Development ,,0, laBORATORY tECHNiciAN ,,Y,,Part Time, laBORATORY tECHNiciAN  -  Research & Development ,0
+840,No,,,,1, mAnufACTuRInG dIReCtoR ,divorced,Y,No,,,False
+841,No,travel_frequently,,Medical,1, laborAToRy teCHnIcIAn ,Single,,,Part Time,,Yes
+842,No,travel_frequently,,,0, manuFactuRinG DIrECtor ,Married,,,Part Time,,0
+843,No,,,,0, lAborAToRY tEChnIciAN ,Married,,,Part Time,,True
+844,No,,,Life Sciences,0, researCH SCientist ,,,,Part Time,,0
+845,No,,,Life Sciences,0, hEaltHcare rEpREseNTatiVE ,,Y,No,Part Time,,Yes
+846,No,,,,0, HealThcARe repReSeNTAtivE ,,,No,,,1
+847,Yes,,,Technical Degree,1, ReSeArcH ScIenTIsT ,,,Yes,,,True
+848,Yes,,,,0, ResEARCh SCIENtIsT ,Single,,,Part Time,,False
+849,No,,,,1, SALEs eXecuTivE ,Married,,,Full Time,,0
+850,No,travel_rarely, Research & Development ,,1, rESeArCH sCIeNtISt ,Married,Y,,Part Time, rESeArCH sCIeNtISt  -  Research & Development ,1
+851,No,travel_rarely,,,1, LabOraTory teChnICiAN ,Single,,,Full Time,,True
+852,No,travel_rarely, Human Resources ,Medical,0, humAN resoURCEs ,Married,Y,,Part Time, humAN resoURCEs  -  Human Resources ,False
+853,Yes,,,,0, lABorATORy tEChnIcian ,Single,,,,,True
+854,No,,,Medical,1, LaBoRaTOrY teChNICiaN ,Divorced,,No,Part Time,,0
+855,No,non-travel,,Marketing,0, sALEs execUTiVE ,,,No,Part Time,,True
+856,No,,,Medical,0, REsearCH DirECtOR ,Divorced,,No,Part Time,,True
+857,No,travel_rarely,,Life Sciences,1, ResEaRch sciEnTIsT ,Married,,,Full Time,,Yes
+858,No,,,Life Sciences,0, mANuFActUrIng DireCTor ,,,,,,Yes
+859,No,, Research & Development ,,1, REseARCh scieNTIsT ,Single,,Yes,Part Time, REseARCh scieNTIsT  -  Research & Development ,True
+860,No,,,Marketing,0, sAleS ExeCUtIVe ,Divorced,,No,Full Time,,0
+861,No,travel_rarely,,,1, mAnUFacTuriNg dIRECTOR ,Married,Y,No,,,0
+862,No,,,,0, lABoratorY TEChniciAN ,,,No,Part Time,,0
+863,No,travel_rarely,,,0, rEsEarch ScIENTiSt ,Married,,No,,,1
+864,No,travel_rarely,,,0, reseArcH sciENTIst ,Single,Y,No,Full Time,,0
+865,No,non-travel,,Medical,1, RESEarCh DireCTor ,divorced,Y,Yes,Part Time,,0
+866,No,travel_rarely,,Life Sciences,0, HEaltHcARe REprEsEnTaTIVE ,,,,Part Time,,False
+867,Yes,travel_rarely,,Medical,0, lABOratOry teCHNiCIan ,Divorced,,Yes,Part Time,,False
+868,No,,,Life Sciences,1, ReSEaRCh DIrECTOr ,Single,Y,Yes,Full Time,,True
+869,No,travel_frequently, Sales ,,1, SaLeS REPRESENtATIvE ,Divorced,,,Part Time, SaLeS REPRESENtATIvE  -  Sales ,True
+870,No,travel_frequently,,Medical,0, REseARch sCIENtIst ,Married,Y,,Part Time,,0
+871,No,travel_rarely, Research & Development ,,0, ResEArch SciEntiST ,Marreid,,,Part Time, ResEArch SciEntiST  -  Research & Development ,1
+872,No,travel_rarely,,Human Resources,0, hUmAN rESOuRCEs ,,Y,No,Full Time,,False
+873,No,, Research & Development ,,0, ReSEaRCh SCIEnTist ,,Y,,Part Time, ReSEaRCh SCIEnTist  -  Research & Development ,True
+874,Yes,,,Medical,0, reSeARcH SCienTist ,,,No,Part Time,,False
+875,Yes,,,Medical,0, rESEARCH scieNTiST ,Married,Y,Yes,,,True
+876,No,travel_rarely,,,0, rEsEArcH dirECtoR ,Married,Y,,Full Time,,False
+877,No,,,Other,0, lAborATorY TecHNIciAN ,,,No,Full Time,,True
+878,No,,,Medical,0, ManUFaCTURing dIRectOR ,,Y,No,,,Yes
+879,No,,,,0, REsEaRch scIeNtIsT ,,Y,,Full Time,,0
+880,No,travel_rarely, Human Resources ,,0, hUmAn REsOurCES ,Divorced,Y,Yes,, hUmAn REsOurCES  -  Human Resources ,False
+881,No,, Sales ,,1, sALeS EXecuTIVe ,,,,, sALeS EXecuTIVe  -  Sales ,0
+882,Yes,,,,1, sALEs rEPrESENtaTIVE ,Single,,,Part Time,,Yes
+883,No,travel_rarely,,Medical,0, heaLtHcare REpRESEntAtIvE ,,,No,,,1
+884,No,,,,0, sALes rePrESenTaTiVe ,Single,,,,,1
+885,No,travel_rarely,,Life Sciences,0, resEaRCH SCieNtiSt ,,Y,,Part Time,,True
+886,No,, Research & Development ,,0, ReseArCh SciENTIsT ,,,No,Part Time, ReseArCh SciENTIsT  -  Research & Development ,0
+887,No,travel_rarely,,,0, LaBoRatORY TECHNiCian ,,,No,Part Time,,1
+888,No,travel_rarely,,Other,0, hEalTHcare ReprEseNtAtIve ,Single,Y,No,Full Time,,Yes
+889,No,travel_rarely,,,1, rESeaRCh ScIentISt ,Married,,No,Part Time,,Yes
+890,Yes,non-travel,,Marketing,0, sAleS EXeCUtiVe ,,,Yes,Part Time,,1
+891,No,,,Marketing,1, SALES exeCuTIve ,Divorced,,Yes,Part Time,,True
+892,No,,,,1, lABOrAToRY TECHnIciAN ,,Y,No,Part Time,,Yes
+893,No,,,Medical,0, REsEarCh DirECtOr ,Married,Y,,Full Time,,0
+894,No,,,,1, SaLes exEcUtiVE ,Married,Y,No,Full Time,,1
+895,No,,,,0, LABORATOry TecHNIciAN ,,Y,,,,True
+896,No,travel_rarely,,Other,1, hEAlTHCaRe ReprESEnTaTive ,,,Yes,Part Time,,1
+897,No,travel_rarely,,,0, LABOrAtORY teChNicIaN ,Married,Y,No,Part Time,,0
+898,Yes,travel_rarely,,Medical,0, LaBoRATorY tEChniCIAN ,Married,Y,No,Part Time,,Yes
+899,No,,,Life Sciences,0, reseARch scIEnTIst ,Married,,No,Part Time,,1
+900,No,travel_rarely,,Life Sciences,1, MAnAGeR ,Married,Y,No,Full Time,,False
+901,Yes,travel_frequently,,,1, saLES REPrEsentATivE ,,,No,Part Time,,True
+902,No,travel_rarely,,Life Sciences,1, REseARcH sCiENTist ,Divorced,,No,Part Time,,1
+903,No,,,,0, rEseArch DiRECTOr ,,,No,Full Time,,Yes
+904,Yes,,,Technical Degree,1, rEseARcH sCIENTIST ,Married,Y,No,Part Time,,0
+905,No,,,Life Sciences,0, RESEaRCh dIreCtOr ,Married,Y,No,Full Time,,0
+906,No,,,Marketing,1, Sales EXeCutIvE ,,Y,,,,0
+907,No,travel_rarely, Sales ,Marketing,0, sALes rEprESentAtIvE ,Single,Y,,Part Time, sALes rEprESentAtIvE  -  Sales ,True
+908,Yes,travel_frequently, Human Resources ,,1, humaN reSOUrcEs ,Divorced,,Yes,Part Time, humaN reSOUrcEs  -  Human Resources ,False
+909,No,,,Other,0, lAbOratOrY teCHnICiaN ,Married,,No,Part Time,,Yes
+910,Yes,, Research & Development ,Technical Degree,0, lAboRatOrY TechNiCiAn ,Single,Y,No,Full Time, lAboRatOrY TechNiCiAn  -  Research & Development ,1
+911,No,travel_rarely,,Technical Degree,0, MAnUfACturINg DIrecTOR ,Divorced,Y,No,Part Time,,Yes
+912,No,travel_frequently, Research & Development ,Medical,1, HeAlthcaRE rEPrEseNTaTIVE ,Married,,No,, HeAlthcaRE rEPrEseNTaTIVE  -  Research & Development ,1
+913,Yes,, Sales ,Other,0, sALeS eXecuTIvE ,,,,Part Time, sALeS eXecuTIvE  -  Sales ,1
+914,No,,,Medical,0, SALes REpResENTaTIVE ,,,No,,,0
+915,No,travel_rarely,,,0, LabOrAtOrY TechNIcIaN ,Single,Y,No,Part Time,,False
+916,No,,,Life Sciences,1, healTHCaRe rePreSenTAtiVE ,Married,Y,No,Part Time,,1
+917,No,travel_rarely,,,1, ManageR ,Married,,No,Full Time,,1
+918,No,travel_rarely,,,1, hUMaN rESOuRCeS ,,,No,Part Time,,True
+919,No,, Sales ,,1, SALeS RepREsEnTatiVe ,,,Yes,Part Time, SALeS RepREsEnTatiVe  -  Sales ,True
+920,No,,,Technical Degree,0, SalES RePrESenTAtiVe ,,,,Full Time,,True
+921,No,travel_rarely,,,0, MaNaGeR ,,Y,,,,Yes
+922,No,travel_rarely,,Medical,0, rEsEArcH scIeNTiSt ,Married,Y,,Part Time,,True
+923,No,travel_rarely,,,1, LABOraTOry TECHNiCIAn ,,Y,Yes,,,0
+924,No,,,Medical,0, mAnuFACturiNG dIreCtoR ,,Y,Yes,Full Time,,1
+925,No,,,Medical,0, researCh ScIeNtIsT ,Single,Y,,Part Time,,True
+926,No,travel_rarely,,,0, reSearCH sCIEnTIst ,,,,Part Time,,False
+927,No,,,Life Sciences,0, SaLeS eXeCuTIve ,,,No,Part Time,,0
+928,No,,,,0, sAles EXEcuTIVE ,Marreid,Y,,Full Time,,Yes
+929,Yes,travel_rarely,,Life Sciences,1, SALes EXECUTivE ,Single,,No,Part Time,,Yes
+930,No,travel_rarely,,,0, SaLES EXecutIvE ,Single,Y,No,Full Time,,0
+931,No,,,Marketing,0, SALES rEPrESENtaTIVE ,Married,,No,Part Time,,True
+932,No,non-travel,,,0, lAboRATOrY tEChNiCiaN ,Single,,,Full Time,,0
+933,No,travel_frequently,,,1, salES execUTiVe ,Divorced,Y,Yes,Full Time,,Yes
+934,Yes,,,,0, resEarcH SCienTiSt ,Divorced,,,Part Time,,1
+935,No,travel_frequently,,Life Sciences,0, sAleS ExeCUTIVE ,Married,Y,,Part Time,,True
+936,No,,,,1, resEarcH sCiENTiST ,Single,,,Part Time,,0
+937,No,, Sales ,,0, SaLes rePrESENTaTivE ,,Y,No,, SaLes rePrESENTaTivE  -  Sales ,0
+938,No,,,,0, laboraToRy tECHniCIaN ,Single,Y,,Part Time,,False
+939,No,travel_rarely, Research & Development ,Medical,0, rESEaRch sCientISt ,Single,Y,,Part Time, rESEaRch sCientISt  -  Research & Development ,0
+940,Yes,,,Medical,0, mANAgER ,,,Yes,,,False
+941,No,travel_frequently,,Life Sciences,1, lABoRatory teCHNiCiaN ,,,No,Part Time,,1
+942,No,travel_rarely,,,1, REseARCh SCiEntiST ,Single,,No,,,False
+943,No,,,Marketing,0, saLes eXECutIve ,Married,Y,,Part Time,,Yes
+944,No,travel_rarely,,,1, SaLEs repreSentative ,,,No,,,True
+945,No,travel_rarely,,,0, LAbOratory TeChNicIAn ,Married,Y,No,Part Time,,Yes
+946,No,,,,1, SAles ExECuTIve ,,Y,No,,,1
+947,No,travel_rarely, Research & Development ,Life Sciences,1, laBORatoRy TEcHnician ,,Y,,Part Time, laBORatoRy TEcHnician  -  Research & Development ,Yes
+948,Yes,travel_rarely,,Marketing,1, SALeS eXEcuTive ,Single,Y,,Part Time,,False
+949,No,travel_rarely, Research & Development ,,1, ReSeaRch SCIentiST ,Single,Y,No,Part Time, ReSeaRch SCIentiST  -  Research & Development ,False
+950,Yes,,,,0, ReSEaRcH SCIeNtIsT ,Single,Y,No,Full Time,,1
+951,No,travel_rarely,,Human Resources,0, humaN ReSOuRCes ,Married,Y,,Part Time,,1
+952,No,travel_frequently, Research & Development ,,1, RESEarch ScieNtIst ,Single,,No,Part Time, RESEarch ScieNtIst  -  Research & Development ,True
+953,No,,,,0, humAn resourCeS ,,,,,,False
+954,No,travel_rarely,,,0, HeALTHcARE RePrESEnTativE ,Single,Y,,Full Time,,Yes
+955,No,,,Life Sciences,0, sAlES eXecUtivE ,Divorced,,,Part Time,,True
+956,No,,,,1, sALes ExEcUtiVE ,Married,Y,Yes,Full Time,,0
+957,No,,,Life Sciences,0, MANUfactUrING DIRECtOr ,,,,Part Time,,0
+958,No,travel_rarely,,Life Sciences,0, LAbORaToRY TecHNICiAn ,,,Yes,Part Time,,False
+959,Yes,travel_frequently,,Life Sciences,1, rEseArcH SCiEntist ,Divorced,Y,,Part Time,,True
+960,No,,,,0, sAleS execUTIVE ,,Y,No,Part Time,,0
+961,No,travel_rarely,,Technical Degree,1, ResEArch scIEntIsT ,,,No,,,False
+962,No,non-travel,,Life Sciences,0, labORatOry TEcHniCIAn ,,,,Part Time,,False
+963,No,travel_rarely, Sales ,Marketing,0, sALeS RePresenTAtivE ,,,,Full Time, sALeS RePresenTAtivE  -  Sales ,1
+964,Yes,travel_rarely,,Medical,1, sAlES REPreSentAtiVe ,,Y,Yes,Part Time,,0
+965,No,travel_frequently,,Life Sciences,1, hEaLtHCaRE rEPReSeNTAtIvE ,Married,Y,,,,1
+966,No,travel_rarely,,Medical,0, SAlES exEcuTiVE ,Single,,,Part Time,,False
+967,Yes,travel_rarely,,,1, SaLEs repReSEnTATiVE ,Single,Y,,Part Time,,1
+968,No,,,Life Sciences,1, SALeS RePreSenTATiVe ,Single,,Yes,,,1
+969,Yes,travel_rarely,,Life Sciences,1, mAnuFACTuRinG diReCToR ,Married,Y,Yes,Part Time,,True
+970,No,,,Medical,1, ResEARch SCIENtIST ,Divorced,,No,Part Time,,Yes
+971,Yes,, Research & Development ,Medical,0, LABORAToRy tEchNICiAn ,Married,,,Part Time, LABORAToRy tEchNICiAn  -  Research & Development ,Yes
+972,No,travel_rarely, Research & Development ,,0, ResEArch sCIEnTiST ,Single,Y,,Part Time, ResEArch sCIEnTiST  -  Research & Development ,False
+973,No,travel_rarely, Research & Development ,Other,0, ReSEArcH sCIeNtist ,Single,Y,,Part Time, ReSEArcH sCIeNtist  -  Research & Development ,1
+974,No,travel_rarely,,,1, SalES eXEcuTIvE ,,,,,,Yes
+975,Yes,,,Medical,0, resEarcH ScIENTIsT ,Single,,Yes,Part Time,,0
+976,No,travel_rarely,,Life Sciences,1, rEseaRcH scIEnTiST ,Single,Y,,Full Time,,0
+977,No,,,,1, LABorATORY tecHNICiaN ,Marreid,Y,No,Part Time,,False
+978,Yes,travel_rarely,,,1, rESeaRCH sCIenTisT ,Married,Y,,Part Time,,1
+979,No,,,Medical,1, MANuFActurING dIRectOr ,Divorced,Y,No,Part Time,,0
+980,Yes,travel_rarely, Research & Development ,Other,0, LaBoRaTory techNICIAN ,Divorced,Y,Yes,Part Time, LaBoRaTory techNICIAN  -  Research & Development ,0
+981,Yes,,,,1, LaBORATORY TechNiCIAn ,,,,Part Time,,True
+982,No,travel_rarely, Research & Development ,,0, hEaLThcARE rEpresEntATiVE ,,Y,No,, hEaLThcARE rEpresEntATiVE  -  Research & Development ,Yes
+983,No,travel_rarely,,Medical,1, MAnUFaCturinG DiReCtOR ,,Y,,,,False
+984,No,, Research & Development ,,1, mANufActuRIng DirECTOR ,,Y,,Part Time, mANufActuRIng DirECTOR  -  Research & Development ,Yes
+985,No,travel_rarely, Research & Development ,Other,0, laBOraTOrY TecHNIcIan ,,,No,Full Time, laBOraTOrY TecHNIcIan  -  Research & Development ,0
+986,Yes,non-travel,,Medical,0, SAleS ExeCutiVE ,Single,Y,No,Part Time,,Yes
+987,No,non-travel, Sales ,Life Sciences,1, sALES ReprEsentatiVE ,,Y,,Part Time, sALES ReprEsentatiVE  -  Sales ,False
+988,Yes,,,Life Sciences,0, rEsEaRCH SCIenTiSt ,Married,Y,,Part Time,,1
+989,No,travel_frequently,,,0, ReseaRCH SciEntISt ,,Y,No,,,False
+990,No,,,Medical,0, RESeArCH dIrEcTOR ,,,No,Full Time,,True
+991,Yes,,,Marketing,1, SALES RePrEsenTatIVE ,Single,Y,Yes,Part Time,,1
+992,No,,,Other,0, mAnUfACtURInG DiRECTor ,Marreid,,,,,0
+993,No,non-travel,,,0, LAboRaToRY tEchNiciAN ,Married,,,Part Time,,0
+994,No,,,,0, MANufacTuRING DIrECtOr ,Married,,No,Part Time,,Yes
+995,No,travel_rarely,,Life Sciences,0, healtHCare RePrEseNtAtIvE ,,,No,,,1
+996,No,,,Life Sciences,0, LAbORATORy technIciAn ,,,No,,,Yes
+997,No,,,Life Sciences,0, heaLtHcARe rePRESEntatIVe ,,Y,No,,,1
+998,Yes,,,Medical,0, REseARCh SCIenTist ,Single,,Yes,Part Time,,False
+999,No,,,Life Sciences,1, SaleS eXeCuTIvE ,Married,Y,No,Part Time,,0
+1000,No,,,,1, ResEarCH scIeNtiST ,Single,Y,Yes,Part Time,,True
+1001,No,travel_frequently,,,0, SALEs REPREsEntatIve ,Married,,No,,,1
+1002,No,,,Marketing,0, salES eXECuTive ,Divorced,,,,,Yes
+1003,No,,,,0, mAnUfACTURing dIreCToR ,Single,,No,,,1
+1004,Yes,,,,1, salEs ExeCUTIvE ,Single,,,Full Time,,False
+1005,Yes,, Research & Development ,Medical,0, laBoRatoRy TEChNICiAN ,,,No,Part Time, laBoRatoRy TEChNICiAN  -  Research & Development ,1
+1006,No,travel_rarely,,,1, HEaltHcARE rEPReSeNtativE ,,Y,No,Full Time,,True
+1007,No,travel_rarely,,,0, ResEARCH sCIEnTisT ,Married,Y,No,Part Time,,1
+1008,No,travel_frequently,,Other,0, lABORaTOry TEcHnICIaN ,Married,,,Part Time,,True
+1009,No,,,,1, MAnAGEr ,Divorced,Y,No,Full Time,,True
+1010,No,, Research & Development ,Medical,1, ReSEarch scIeNTIsT ,,,Yes,Part Time, ReSEarch scIeNTIsT  -  Research & Development ,1
+1011,No,travel_rarely,,,0, lABOrAtOry tEChNician ,Single,,,Part Time,,1
+1012,No,travel_frequently,,,1, mAnaGeR ,,,No,Full Time,,True
+1013,No,,,Life Sciences,0, rESEArcH diReCTOr ,,Y,,Full Time,,Yes
+1014,No,,,Other,1, LAboRaTory TEChNiCiaN ,Married,Y,No,Part Time,,1
+1015,No,,,,1, SalES eXEcUtive ,Married,,,Part Time,,0
+1016,No,,,Life Sciences,1, RESeARcH sCIeNTist ,Divorced,Y,No,Full Time,,1
+1017,Yes,travel_frequently,,,1, LaboratoRy teCHNIcian ,,,,,,1
+1018,No,travel_rarely,,Marketing,1, saLEs ExecUtive ,,,,Part Time,,Yes
+1019,No,,,Medical,0, LaBoRaToRy tEChniciAN ,Single,,Yes,Part Time,,0
+1020,No,travel_rarely,,Life Sciences,0, RESEARcH sCIENTIsT ,Married,,Yes,Part Time,,False
+1021,No,travel_frequently,,Life Sciences,0, lAbOrATORy tEChNiciAn ,Married,,,Full Time,,0
+1022,No,travel_rarely,,Technical Degree,0, ResEARCH scIENTISt ,Single,Y,,Part Time,,0
+1023,No,, Research & Development ,Medical,1, researCh SCientIsT ,Single,Y,,Part Time, researCh SCientIsT  -  Research & Development ,False
+1024,No,,,Life Sciences,0, reseARcH sCiEntiST ,,Y,,Part Time,,1
+1025,Yes,,,Medical,0, rEseArCh scIENtiST ,Single,Y,,Full Time,,False
+1026,No,travel_rarely,,Technical Degree,1, laborAtOry tEChnICiAn ,Married,Y,No,,,True
+1027,No,,,Life Sciences,1, REseaRch dIrECtor ,Marreid,,,Full Time,,1
+1028,No,,,Medical,0, sALeS EXecuTIVe ,Single,,No,Part Time,,1
+1029,Yes,,,,1, SaLES REPrEsENTAtivE ,,,Yes,Part Time,,False
+1030,Yes,,,Life Sciences,0, laBorATorY TeChniCiAN ,,Y,No,,,Yes
+1031,No,non-travel, Research & Development ,,0, ReseaRch scIENTisT ,Divorced,,No,, ReseaRch scIENTisT  -  Research & Development ,True
+1032,No,travel_rarely, Research & Development ,Medical,0, lAboRaToRY teChNICIan ,Married,,,Part Time, lAboRaToRY teChNICIan  -  Research & Development ,0
+1033,No,travel_rarely,,Life Sciences,0, LaBOratoRy TECHNICiAn ,,Y,No,Part Time,,Yes
+1034,No,travel_rarely,,Technical Degree,1, MAnUfaCTurinG DirectOR ,,,No,Full Time,,1
+1035,No,travel_frequently,,Life Sciences,0, sales executiVE ,Single,Y,No,Part Time,,False
+1036,Yes,,,Marketing,1, Sales EXEcuTive ,Married,Y,,Part Time,,1
+1037,No,,,,0, ReseARCh ScIEntIsT ,divorced,Y,No,Part Time,,Yes
+1038,Yes,,,,0, ManUFacTUriNG dirEctOR ,Married,,,Part Time,,True
+1039,No,,,,0, SalEs EXeCUtIVe ,,,,,,1
+1040,No,,,,1, rESEArch ScIEnTIst ,,,,Full Time,,0
+1041,No,,,Marketing,0, saLeS EXeCuTiVe ,Married,,Yes,Part Time,,1
+1042,No,travel_rarely,,Life Sciences,0, salES ExEcuTIVE ,Married,Y,No,,,False
+1043,No,,,Marketing,1, SaleS ExECUTIvE ,Married,,Yes,Full Time,,1
+1044,Yes,travel_rarely,,Life Sciences,1, rEseARch ScIEnTIst ,Single,Y,Yes,Part Time,,1
+1045,No,,,Medical,1, labORATory teCHNiCian ,Single,,No,Full Time,,True
+1046,No,travel_frequently,,Life Sciences,0, MAnufAcTUrinG dIrEcTOr ,,Y,No,Part Time,,1
+1047,No,,,,0, LaBORatOrY TeChNICiaN ,,Y,No,Full Time,,True
+1048,No,,,Marketing,1, sALES exEcuTIVe ,Divorced,,No,Part Time,,1
+1049,No,, Research & Development ,Life Sciences,1, rEsEaRCh diReCtOR ,,,No,Full Time, rEsEaRCh diReCtOR  -  Research & Development ,Yes
+1050,No,,,Marketing,1, SaLEs eXEcUtiVe ,,,No,,,False
+1051,Yes,travel_rarely,,,0, SALEs RePREsentAtIVe ,,,No,Full Time,,True
+1052,No,,,Life Sciences,1, rEsEarcH sCieNTIsT ,,,,Part Time,,True
+1053,No,,,Medical,0, rEseaRCh SCIeNtIST ,,,,Part Time,,1
+1054,No,travel_rarely,,,1, hUMaN rESoUrCES ,,Y,No,Part Time,,True
+1055,Yes,travel_frequently, Research & Development ,Life Sciences,0, labORAtoRy tEcHNICIAN ,,Y,,Part Time, labORAtoRy tEcHNICIAN  -  Research & Development ,Yes
+1056,No,, Sales ,Marketing,0, SAlES exeCutive ,Divorced,Y,No,, SAlES exeCutive  -  Sales ,0
+1057,Yes,,,,1, HUMaN RESourcEs ,Married,,No,,,False
+1058,No,,,Life Sciences,0, LaBoRatORy TECHNICian ,Single,Y,,,,0
+1059,No,travel_rarely, Research & Development ,,0, hEalthCaRe reprEseNTaTiVe ,Married,Y,No,Full Time, hEalthCaRe reprEseNTaTiVe  -  Research & Development ,1
+1060,No,,,Life Sciences,0, rEsEarCH SCIeNtist ,,Y,,Full Time,,0
+1061,Yes,,,,0, sAleS represENtATIVE ,Married,,,Full Time,,False
+1062,No,travel_frequently, Research & Development ,,0, ManufacTURInG DIRECtOR ,Single,Y,,, ManufacTURInG DIRECtOR  -  Research & Development ,True
+1063,No,travel_rarely,,Life Sciences,0, HealThcare REpresenTATIve ,Married,,,Part Time,,1
+1064,No,travel_frequently,,Life Sciences,0, sales exEcutiVe ,Single,,,Part Time,,True
+1065,No,travel_rarely,,Medical,1, LAbORatORy TEcHniCIaN ,Marreid,,,Part Time,,True
+1066,No,travel_frequently,,Life Sciences,1, lABoRAToRY tECHNICIaN ,,,No,Full Time,,False
+1067,No,,,,0, maNAgEr ,,,,Full Time,,True
+1068,Yes,travel_frequently,,Life Sciences,1, reSeaRCh scIEntist ,,Y,No,Part Time,,1
+1069,No,,,Life Sciences,0, healTHcARE rEPrEseNtatIve ,Divorced,Y,,,,False
+1070,No,travel_rarely,,Life Sciences,0, salES RepREsenTAtIvE ,,Y,Yes,Part Time,,False
+1071,No,,,Life Sciences,0, SAleS eXEcUtiVe ,,Y,No,Full Time,,0
+1072,No,, Sales ,,0, sAles exEcUtIve ,Marreid,Y,,, sAles exEcUtIve  -  Sales ,True
+1073,Yes,travel_rarely,,Medical,0, ManUFaCTuRiNg dIRECTOR ,Married,,,,,0
+1074,No,travel_rarely, Research & Development ,,1, reseARCh SCieNTisT ,Married,,,Part Time, reseARCh SCieNTisT  -  Research & Development ,True
+1075,No,, Research & Development ,,0, reSEarcH scIENtISt ,,Y,No,Part Time, reSEarcH scIENtISt  -  Research & Development ,1
+1076,No,travel_rarely,,Life Sciences,1, SAlES execUtiVe ,Single,Y,No,Part Time,,False
+1077,No,travel_rarely,,,1, healthCAre rePReseNTatIVe ,Single,,Yes,Part Time,,True
+1078,No,,,,0, rESEarcH SCIEnTist ,Married,,No,,,1
+1079,No,,,,0, laBORaTOrY tEChNiCiAn ,,,Yes,Part Time,,False
+1080,No,travel_frequently,,,0, HeAlthCaRE REPResenTaTIVE ,,,No,Part Time,,0
+1081,No,non-travel,,Other,1, rEsearch ScIeNTisT ,Married,Y,,,,1
+1082,No,,,,1, REsEarch SCIenTiST ,Married,Y,No,Full Time,,1
+1083,No,travel_frequently,,,0, Sales exeCuTive ,Single,,,,,0
+1084,No,travel_rarely,,Life Sciences,1, MaNuFaCTuring dIRECTOr ,Married,,Yes,Part Time,,Yes
+1085,No,,,Medical,0, reSEArcH sCiENTisT ,Single,Y,No,Full Time,,0
+1086,No,,,,1, mANager ,Married,Y,No,Full Time,,False
+1087,No,,,Medical,1, MaNuFaCtUriNG DIrectoR ,,Y,No,Part Time,,True
+1088,No,,,,1, MANufActURing DIreCtor ,,,,Part Time,,1
+1089,No,travel_frequently,,,0, MAnageR ,,Y,No,Full Time,,1
+1090,Yes,,,Medical,0, sales eXecUTIvE ,,Y,Yes,Part Time,,False
+1091,No,travel_rarely, Research & Development ,Medical,1, reseArCH scIentISt ,,,,Part Time, reseArCH scIentISt  -  Research & Development ,0
+1092,No,,,Medical,0, ReSeARcH SCIentISt ,Single,Y,No,Part Time,,Yes
+1093,Yes,travel_rarely,,,0, LABoraTorY TeChNiciaN ,,,Yes,Part Time,,1
+1094,No,,,,0, saLeS eXecutIve ,Single,Y,No,Part Time,,1
+1095,No,,,Life Sciences,1, heAlTHCARe REpRESentAtiVE ,Married,,No,Part Time,,Yes
+1096,No,travel_rarely,,Other,1, reseArCh DIrEcToR ,Married,,,Full Time,,True
+1097,No,travel_rarely,,Medical,1, SAles repRESEnTaTivE ,Single,,,Part Time,,True
+1098,No,non-travel, Research & Development ,,1, MANuFaCturiNG dIRECTOR ,,,,Part Time, MANuFaCturiNG dIRECTOR  -  Research & Development ,1
+1099,No,travel_rarely,,,0, SAleS eXECUTivE ,,Y,,Full Time,,True
+1100,No,,,Medical,1, LaBoRAToRY TeCHnIciAN ,Divorced,Y,,,,1
+1101,No,travel_rarely,,Life Sciences,1, maNAGeR ,,,,Full Time,,True
+1102,No,travel_rarely,,,0, sAlEs REPRESENTATIVe ,,Y,No,,,1
+1103,No,travel_rarely,,,0, heALthCARE RepResentAtIvE ,Married,Y,No,Part Time,,False
+1104,No,travel_rarely, Human Resources ,,1, HuMan resoUrCes ,,Y,Yes,Part Time, HuMan resoUrCes  -  Human Resources ,False
+1105,No,,,Technical Degree,0, ResEARch sCIENTIST ,Divorced,,No,Part Time,,True
+1106,Yes,,,Life Sciences,0, sAlEs rEpreSEnTATiVe ,Divorced,,Yes,Part Time,,False
+1107,No,,,,0, LAboRATORY TECHNICIaN ,,,No,Part Time,,1
+1108,No,travel_frequently,,,0, reSEArCH SCiENTIst ,Married,,,,,Yes
+1109,No,,,Life Sciences,0, LABoraTOry TECHniCiaN ,Married,,,Full Time,,0
+1110,No,non-travel, Human Resources ,Human Resources,0, huMAn Resources ,Married,,No,, huMAn Resources  -  Human Resources ,False
+1111,No,travel_rarely,,Medical,0, lAbOrAtoRY tecHniCian ,,,No,Full Time,,Yes
+1112,Yes,,,Marketing,0, SAlES EXEcUTivE ,,,Yes,Part Time,,1
+1113,No,,,,1, laboraTory tEcHniciaN ,Single,,No,Part Time,,0
+1114,No,,,Medical,0, humaN ReSOurCeS ,Marreid,,No,Part Time,,False
+1115,Yes,travel_frequently,,,1, HuMan ResOUrces ,Divorced,Y,No,,,False
+1116,No,,,,0, SalEs EXecUTIVE ,,,No,,,Yes
+1117,No,,,,1, researcH ScienTist ,,Y,,Full Time,,False
+1118,Yes,travel_rarely,,,1, salES rePResEntatIve ,Single,,,Part Time,,1
+1119,No,,,,0, HEaLThcarE RePRESeNtativE ,,,Yes,Full Time,,False
+1120,No,,,,1, MAnuFaCtUrINg diRECtor ,Married,Y,Yes,Full Time,,True
+1121,No,travel_rarely,,,1, sAlES exECuTivE ,,,No,,,True
+1122,No,travel_rarely,,,1, MANager ,Married,,No,,,1
+1123,No,travel_rarely, Sales ,Marketing,0, Sales EXEcUTiVe ,,,No,Part Time, Sales EXEcUTiVe  -  Sales ,False
+1124,No,,,Life Sciences,0, SaLES ExECUTIVe ,,,,Part Time,,False
+1125,No,non-travel, Research & Development ,,0, reSEaRCH scIenTisT ,,,No,, reSEaRCH scIenTisT  -  Research & Development ,1
+1126,No,travel_rarely,,,0, hEaLThCAre rEPrEsEntAtIve ,Single,Y,,Part Time,,False
+1127,No,,,,1, saLES eXeCutive ,,Y,No,Part Time,,False
+1128,No,travel_rarely,,Medical,1, rESEARCh scIEntiSt ,,Y,No,,,False
+1129,No,, Sales ,,1, sales rEpRESEnTatIve ,,Y,Yes,Full Time, sales rEpRESEnTatIve  -  Sales ,Yes
+1130,No,travel_frequently, Research & Development ,Life Sciences,0, reseaRch DIrecTOr ,Married,,,Full Time, reseaRch DIrecTOr  -  Research & Development ,Yes
+1131,Yes,travel_rarely,,,0, hUmAN reSOURCEs ,Divorced,,,Part Time,,False
+1132,No,travel_rarely,,Life Sciences,1, LAbORatory teChnIcIan ,Single,Y,,Part Time,,False
+1133,No,,,Life Sciences,0, huMan RESOuRCEs ,,Y,,Part Time,,True
+1134,Yes,travel_rarely, Sales ,Marketing,0, sALeS eXECutivE ,,,Yes,Part Time, sALeS eXECutivE  -  Sales ,1
+1135,No,travel_rarely,,,0, resEaRcH SCiEnTIst ,,,,,,True
+1136,No,travel_rarely,,,0, RESEArCH ScientIsT ,,,,,,0
+1137,No,,,Life Sciences,0, LAboratORY TechNIcIaN ,Single,Y,,Part Time,,Yes
+1138,No,,,Other,1, mANUFACtURiNg diREctor ,Marreid,,,Part Time,,False
+1139,Yes,non-travel,,Technical Degree,0, ResEaRch scientIst ,,,,Part Time,,True
+1140,Yes,travel_rarely,,,0, laBoRaTORY TecHnician ,Single,,No,Part Time,,1
+1141,No,,,Marketing,0, sAleS eXeCuTIVE ,,Y,,Full Time,,Yes
+1142,No,,,,1, SAles exeCUTIvE ,Divorced,Y,Yes,Part Time,,0
+1143,No,,,,1, saLEs ExEcutIve ,Married,,Yes,Full Time,,1
+1144,No,travel_rarely,,,1, LabOratory tecHnICian ,Divorced,,No,Full Time,,False
+1145,No,travel_frequently,,Medical,0, heAlthCare rePResENtaTIve ,Single,Y,No,Full Time,,Yes
+1146,No,,,,1, SalEs eXEcuTiVE ,,Y,,Part Time,,False
+1147,No,travel_rarely,,,0, rESeArcH sCiEntIsT ,Divorced,,No,Part Time,,False
+1148,No,,,,0, ResEArch sCIEntIst ,Divorced,Y,,,,Yes
+1149,Yes,,,Life Sciences,0, salES ExecUtIve ,,Y,Yes,,,True
+1150,No,travel_frequently, Human Resources ,Other,0, Human REsouRCeS ,,Y,Yes,Part Time, Human REsouRCeS  -  Human Resources ,0
+1151,No,,,,1, manuFacTurING DIrector ,Single,Y,Yes,Part Time,,False
+1152,No,,,,0, LaboRAtOry tecHniciAn ,Single,,No,Part Time,,1
+1153,No,,,Other,0, LAborAtory TeCHNICIAN ,,Y,,Part Time,,1
+1154,No,,,Life Sciences,0, sAleS RePReSEntATIVe ,,,No,,,1
+1155,No,travel_rarely,,Medical,0, laBOrATorY tEcHNIciAN ,Married,Y,Yes,Part Time,,True
+1156,No,, Research & Development ,,0, rESeArcH sCientIST ,,,No,Full Time, rESeArcH sCientIST  -  Research & Development ,1
+1157,No,travel_rarely,,,1, LAboRAtorY TEcHnician ,Single,,,Part Time,,False
+1158,No,,,,0, sAles RePRESEntatIve ,,Y,,Part Time,,Yes
+1159,No,travel_rarely, Sales ,Medical,0, SAlES RepreSENtATiVe ,Single,,,Part Time, SAlES RepreSENtATiVe  -  Sales ,True
+1160,No,,,Life Sciences,1, ManuFacTURInG DiReCtOr ,,Y,No,Part Time,,True
+1161,Yes,travel_rarely,,,0, rESEARcH scIentIST ,Marreid,Y,,Full Time,,Yes
+1162,No,travel_rarely,,Technical Degree,0, ResEArCH Scientist ,,,No,Part Time,,True
+1163,No,travel_rarely,,,0, reSearCH sCIentIst ,,Y,No,Part Time,,Yes
+1164,No,travel_frequently,,Life Sciences,0, HEAlTHCarE REPResEnTaTIve ,,,,Part Time,,0
+1165,Yes,travel_rarely, Sales ,Marketing,0, SAles execUTIve ,,Y,,, SAles execUTIve  -  Sales ,Yes
+1166,No,,,Other,1, Sales rePrEsenTaTivE ,Single,Y,No,Part Time,,Yes
+1167,No,travel_frequently,,Medical,0, lABoratOrY tEcHnICiAN ,,Y,No,Part Time,,False
+1168,No,travel_rarely,,Life Sciences,0, MAnUfACTurING dirEcTor ,,Y,Yes,,,0
+1169,No,,,Medical,0, lAboRAtoRy TEcHNiCiaN ,,,No,Part Time,,0
+1170,No,,,Life Sciences,1, ReSeaRCH ScIEnTISt ,Married,,Yes,Full Time,,Yes
+1171,No,, Research & Development ,Medical,0, RESEArch SCIEnTISt ,Single,,No,Part Time, RESEArch SCIEnTISt  -  Research & Development ,True
+1172,No,travel_rarely, Research & Development ,Technical Degree,0, labOrATOry TEchnIcIaN ,,Y,,Part Time, labOrATOry TEchnIcIaN  -  Research & Development ,Yes
+1173,No,,,,0, rEseaRch sCieNTIsT ,Divorced,Y,,,,1
+1174,No,travel_rarely,,Life Sciences,0, reseaRCH ScIenTisT ,,,No,Part Time,,Yes
+1175,No,travel_frequently,,,1, lABoraTOry TEchniciAN ,Single,Y,,Part Time,,Yes
+1176,No,,,Medical,1, research sCiEntiSt ,,,,Full Time,,1
+1177,No,,,,0, lABOraTory tEchniCiAN ,Married,Y,,Part Time,,Yes
+1178,No,travel_rarely,,Medical,0, MANuFacturIng DIrectOr ,Divorced,,,Part Time,,Yes
+1179,No,,,Technical Degree,1, HEALThCARe REPReSENTatIvE ,,Y,Yes,,,1
+1180,No,,,,0, heAlthCAre REPResenTaTive ,Single,Y,,Full Time,,Yes
+1181,No,,,Medical,1, rESeARCh scIentiST ,Married,,No,,,False
+1182,No,,,,1, ReSeARcH dIreCTor ,,Y,No,Full Time,,False
+1183,Yes,, Sales ,Medical,0, sALes ExEcUTIVe ,Divorced,Y,No,, sALes ExEcUTIVe  -  Sales ,False
+1184,Yes,,,,1, SALEs EXECuTiVE ,,,,Part Time,,1
+1185,No,,,,0, rESEarCh dIRECToR ,Married,,No,,,1
+1186,No,travel_rarely,,,1, HEaLTHcaRE rePrESEntaTivE ,,Y,No,Part Time,,True
+1187,No,,,Life Sciences,0, REseArCH DIrecTOr ,,Y,No,Full Time,,0
+1188,No,travel_rarely,,Medical,0, hUmaN reSOuRCeS ,Divorced,,,,,1
+1189,No,travel_frequently, Research & Development ,,0, REsEARch sCIenTIsT ,Single,,,Part Time, REsEARch sCIenTIsT  -  Research & Development ,1
+1190,No,travel_rarely,,,1, resEARCh SCiENTiST ,,,,,,True
+1191,No,,,,0, ResEarch ScIenTIst ,,,Yes,Full Time,,1
+1192,Yes,,,Life Sciences,0, SALeS execUtivE ,Married,Y,,Part Time,,True
+1193,No,travel_frequently,,Technical Degree,1, sALES REprEsEntATive ,,Y,No,Part Time,,False
+1194,No,, Research & Development ,,0, RESeARch ScIeNtisT ,Married,Y,,Part Time, RESeARch ScIeNtisT  -  Research & Development ,0
+1195,No,,,,0, SaLEs eXeCUtivE ,Divorced,Y,No,,,Yes
+1196,No,travel_rarely,,Life Sciences,1, saleS RePreSeNtatIve ,Married,Y,Yes,Part Time,,False
+1197,No,travel_rarely,,Medical,0, REsEarcH DIReCTOR ,Marreid,,,Full Time,,0
+1198,Yes,,,,0, LAboRATory tEChnicIAN ,,Y,No,Part Time,,False
+1199,No,travel_frequently, Research & Development ,Life Sciences,0, rEseARCH ScIeNtIST ,Divorced,Y,Yes,, rEseARCH ScIeNtIST  -  Research & Development ,0
+1200,Yes,,,,1, lAboratOrY TeChnICiAn ,Married,,,,,True
+1201,No,,,Medical,1, reSearCh SCIeNtisT ,Marreid,Y,Yes,Part Time,,1
+1202,No,travel_rarely,,,0, reseaRCh sCiEnTISt ,Single,Y,No,,,False
+1203,No,travel_rarely,,Marketing,0, saLeS RePRESEntatIvE ,Single,Y,,Part Time,,Yes
+1204,No,,,,1, sALeS EXEcutive ,Divorced,,No,Part Time,,False
+1205,Yes,,,,1, RESEArCH SciENtIST ,,,,Part Time,,True
+1206,No,,,,1, SaleS EXeCutiVe ,Single,Y,No,Part Time,,False
+1207,No,travel_rarely, Research & Development ,Medical,1, ManAGEr ,,,Yes,Full Time, ManAGEr  -  Research & Development ,False
+1208,No,travel_rarely,,,0, mANUFACtuRIng DIRECtor ,Married,,Yes,Part Time,,True
+1209,No,travel_rarely,,,0, REsEArch ScieNtISt ,,Y,No,,,0
+1210,No,,,Life Sciences,0, sALEs EXEcUtiVE ,,,,,,0
+1211,No,, Research & Development ,Technical Degree,0, LaBoratory TECHnICIAn ,,,,Part Time, LaBoratory TECHnICIAn  -  Research & Development ,False
+1212,No,,,Life Sciences,1, reSEaRCh SCIEnTiSt ,Married,,No,,,True
+1213,Yes,travel_rarely,,Medical,0, lAbOrAtOrY tEChNiCiAN ,Married,Y,,Part Time,,0
+1214,No,, Sales ,,1, saLES exEcutivE ,Single,,,Part Time, saLES exEcutivE  -  Sales ,True
+1215,No,travel_frequently, Research & Development ,Medical,1, LABorATory TecHnIcIaN ,Married,,,Part Time, LABorATory TecHnIcIaN  -  Research & Development ,0
+1216,No,travel_rarely,,,0, REseARcH DiRectOr ,,Y,,Full Time,,1
+1217,Yes,travel_frequently,,Life Sciences,0, LaBorATORy TeChNiCiAN ,,Y,,Part Time,,False
+1218,No,,,Life Sciences,0, sALeS ExEcUTiVe ,,Y,,Part Time,,0
+1219,Yes,travel_rarely, Human Resources ,,1, HumAN REsourceS ,Married,Y,Yes,Part Time, HumAN REsourceS  -  Human Resources ,Yes
+1220,No,travel_rarely,,Medical,1, rESearcH sCientist ,Married,Y,No,,,False
+1221,No,travel_frequently,,,0, hUMaN rESouRces ,,,No,Part Time,,True
+1222,Yes,travel_frequently, Research & Development ,,1, reseaRCh SCIentIst ,,Y,Yes,Part Time, reseaRCh SCIentIst  -  Research & Development ,0
+1223,No,,,,1, HeaLTHcare RePrESENtATIVe ,,,No,,,Yes
+1224,Yes,, Research & Development ,,0, LaBOrAToRy teChNiciAn ,,,No,Part Time, LaBOrAToRy teChNiciAn  -  Research & Development ,Yes
+1225,No,,,Medical,0, labOrATORy tEChNiCiaN ,Divorced,,,,,0
+1226,Yes,travel_rarely,,,0, lAbOratOry teChnIcIan ,Single,,Yes,,,True
+1227,No,travel_rarely,,Medical,1, lAboRAtoRY TeCHNiCIAN ,,Y,,,,True
+1228,No,travel_rarely,,Life Sciences,0, LaboRAtory tECHnicIAn ,Divorced,Y,,,,True
+1229,No,,,,0, LAboraTORy TeCHNicIan ,,,Yes,,,False
+1230,No,travel_rarely,,,0, rEsEarCH SCieNTist ,Single,Y,No,Part Time,,Yes
+1231,No,travel_rarely,,Medical,0, lABorATORY tEChNIcIAn ,,Y,,Part Time,,0
+1232,Yes,travel_rarely,,Technical Degree,0, SaLes REprESENTAtIVE ,Marreid,,No,Part Time,,True
+1233,Yes,travel_rarely,,,0, ReSEaRCH scientiSt ,,,Yes,Part Time,,False
+1234,No,, Research & Development ,Other,0, LaborAtorY Technician ,Divorced,Y,,Part Time, LaborAtorY Technician  -  Research & Development ,1
+1235,No,,,Life Sciences,1, LABoRatoRY TeChnICiAN ,Divorced,Y,,Part Time,,False
+1236,Yes,,,Life Sciences,0, lAbORatOrY teCHNIciaN ,Single,,,,,0
+1237,No,, Research & Development ,Life Sciences,0, rEseaRCH sCIeNtiSt ,Married,Y,No,Full Time, rEseaRCH sCIeNtiSt  -  Research & Development ,0
+1238,No,,,,0, LABORatoRy tECHNICIaN ,,Y,No,,,True
+1239,Yes,,,,0, laBORAToRy TechNicIaN ,,,,Part Time,,False
+1240,No,non-travel,,Medical,0, healThcaRE REPReSEntAtIVe ,Married,,Yes,Part Time,,True
+1241,No,travel_rarely,,,1, MaNaGer ,Divorced,,Yes,Full Time,,Yes
+1242,No,,,Life Sciences,0, resEaRCH sCienTISt ,,Y,No,Part Time,,Yes
+1243,Yes,,,Medical,0, ReSEARch SciEntiST ,,,,Full Time,,True
+1244,No,travel_rarely, Research & Development ,Life Sciences,1, LABOrATOrY TEchnIcIAn ,,,No,, LABOrATOrY TEchnIcIAn  -  Research & Development ,1
+1245,No,travel_rarely, Research & Development ,Other,0, ReSeARCh DireCtOr ,,Y,Yes,Part Time, ReSeARCh DireCtOr  -  Research & Development ,0
+1246,No,,,,0, sALES ExecUtIve ,Married,,,,,Yes
+1247,No,,,Technical Degree,0, salEs REPREsENtaTIve ,Divorced,Y,No,Part Time,,0
+1248,No,travel_rarely,,Life Sciences,0, rESEARCh ScIENtIst ,Single,Y,No,Part Time,,Yes
+1249,Yes,, Research & Development ,Life Sciences,1, LaBORatORy tEchNiCian ,Single,Y,Yes,, LaBORatORy tEchNiCian  -  Research & Development ,False
+1250,No,,,Life Sciences,0, HeALTHCARE REPreSEnTAtIVE ,Divorced,Y,No,Part Time,,0
+1251,No,, Research & Development ,,1, laBorATOrY TeChNIcIAn ,Single,Y,No,Part Time, laBorATOrY TeChNIcIAn  -  Research & Development ,False
+1252,No,,,Life Sciences,1, reSeARCh scientIST ,,Y,,Part Time,,True
+1253,No,,,Life Sciences,1, LAbOrAtorY tEcHNIciaN ,Divorced,,,Full Time,,0
+1254,Yes,travel_rarely, Sales ,Marketing,0, sALEs RePREsentaTive ,Single,,Yes,Part Time, sALEs RePREsentaTive  -  Sales ,Yes
+1255,No,,,Life Sciences,0, LAboraTOry TeCHniCIan ,,Y,,Part Time,,True
+1256,No,,,,1, lAbORatory tECHnICiAn ,Single,,No,Part Time,,0
+1257,No,,,,0, ManufAcTUriNG diRECTOR ,Married,Y,No,,,Yes
+1258,No,,,,1, rEsearCH SCIeNtIst ,Married,Y,Yes,Part Time,,0
+1259,Yes,travel_frequently,,,1, SALES RepRESENTatIvE ,,Y,No,Part Time,,Yes
+1260,Yes,travel_rarely,,Life Sciences,0, LABOrAtorY tecHniCiaN ,Single,,,Part Time,,Yes
+1261,Yes,travel_rarely,,,0, MAnufACTuRiNG DIReCTOR ,,Y,Yes,Part Time,,True
+1262,No,travel_rarely,,,0, ManUfactuRIng diREcTOR ,,,,Full Time,,False
+1263,Yes,,,Medical,0, heAlTHcARe rEpResENtatiVE ,Married,,Yes,Full Time,,0
+1264,No,, Sales ,Life Sciences,1, mAnageR ,Single,,Yes,Full Time, mAnageR  -  Sales ,False
+1265,No,travel_rarely,,Life Sciences,0, ResEaRCh sciENtIST ,Married,,,Part Time,,Yes
+1266,No,travel_rarely,,Medical,1, MANagER ,Divorced,,No,Full Time,,False
+1267,No,travel_rarely, Research & Development ,Life Sciences,0, rESEArcH SCiEntIst ,Divorced,,,Part Time, rESEArcH SCiEntIst  -  Research & Development ,1
+1268,No,,,,0, manAGer ,,,,Full Time,,0
+1269,Yes,,,Medical,0, ManufActuriNG DireCtor ,,,No,Full Time,,1
+1270,No,,,,0, rESEARCH SCIENtIsT ,Married,,No,Part Time,,True
+1271,Yes,travel_rarely,,Life Sciences,0, LABoraToRY TEcHNiciAN ,Single,,,Part Time,,False
+1272,No,travel_rarely,,Medical,0, SaleS exeCUtiVE ,Married,Y,No,Full Time,,True
+1273,No,travel_rarely, Research & Development ,Medical,0, heAlThcaRe REprESeNTATive ,,Y,No,Part Time, heAlThcaRe REprESeNTATive  -  Research & Development ,True
+1274,No,travel_rarely,,Medical,1, SALes EXEcutIvE ,,Y,Yes,Full Time,,0
+1275,Yes,travel_frequently,,Life Sciences,0, LABoraToRY TEChnicIan ,,,Yes,Full Time,,Yes
+1276,No,,,Technical Degree,0, resEArch ScientiST ,Single,Y,,Part Time,,Yes
+1277,Yes,, Research & Development ,,0, LABoratOry TeCHnIcIan ,Single,Y,No,, LABoratOry TeCHnIcIan  -  Research & Development ,1
+1278,No,,,Life Sciences,0, lAborAtoRY TEchNIciAn ,Married,,No,Part Time,,True
+1279,No,,,,1, sALes rEPrESenTativE ,,Y,No,Part Time,,0
+1280,Yes,travel_rarely,,,1, Sales exECutivE ,Married,Y,Yes,,,True
+1281,No,travel_rarely, Research & Development ,,1, hEAlthCarE rEpresenTATiVe ,Marreid,Y,No,Part Time, hEAlthCarE rEpresenTATiVe  -  Research & Development ,True
+1282,No,travel_frequently,,Medical,0, sales rEpResENtAtIVe ,,,No,Part Time,,False
+1283,No,travel_rarely,,,1, rEsEARcH DiRecTOR ,Single,Y,No,Full Time,,0
+1284,No,,,,1, lAboRaTORY TECHNIcIAN ,Married,Y,No,Part Time,,True
+1285,No,travel_rarely,,Medical,1, mAnAGer ,Married,Y,,Part Time,,Yes
+1286,No,travel_rarely, Research & Development ,,0, HealTHcaRE rEPreSEntATive ,,,,Full Time, HealTHcaRE rEPreSEntATive  -  Research & Development ,0
+1287,No,non-travel,,Medical,1, sALES ExecuTIve ,,Y,,,,1
+1288,Yes,travel_rarely,,Marketing,1, SaLes rEpreSeNTATive ,Single,,,Full Time,,False
+1289,No,, Research & Development ,Medical,1, MaNUfActuRInG diREctOr ,Married,,,Part Time, MaNUfActuRInG diREctOr  -  Research & Development ,True
+1290,Yes,travel_rarely, Sales ,Life Sciences,1, saLes REPrEsentAtiVE ,Single,Y,,, saLes REPrEsentAtiVE  -  Sales ,0
+1291,No,,,Technical Degree,0, sAlES rEpResENTaTivE ,,,,,,Yes
+1292,Yes,travel_frequently,,,0, rEsearCh sciEnTISt ,Single,Y,Yes,Part Time,,False
+1293,No,travel_rarely,,,0, maNuFACtURINg DirEcToR ,Single,Y,,Part Time,,True
+1294,No,travel_rarely,,,1, LAboraTORY TEchNIciAN ,Married,,No,,,1
+1295,No,travel_rarely,,,0, lABORatorY TECHNIciAN ,,Y,,Part Time,,False
+1296,No,travel_frequently,,,0, lABoRatory teCHniciAN ,Married,Y,Yes,Part Time,,False
+1297,Yes,,,Technical Degree,0, humAN ResoUrceS ,Single,Y,No,Part Time,,True
+1298,No,travel_rarely,,,0, MaNagER ,divorced,Y,No,Full Time,,Yes
+1299,No,travel_rarely,,Medical,1, MAnufactURInG DiREctoR ,,,,Part Time,,True
+1300,No,travel_rarely,,Life Sciences,1, lAbORATorY TEchniciAN ,Single,Y,,Part Time,,False
+1301,Yes,travel_frequently,,,0, HEaLTHCARe REPresEnTaTiVE ,,Y,No,Part Time,,1
+1302,Yes,travel_frequently,,Marketing,0, saLeS REprESENTaTIvE ,,,Yes,Part Time,,0
+1303,No,,,Other,0, sALeS ExecuTiVE ,,,No,Part Time,,True
+1304,No,,,,0, saLeS eXecUTIVE ,,,,Part Time,,True
+1305,Yes,travel_rarely, Research & Development ,,0, LABorAtORy TEchnIciAn ,Single,,Yes,, LABorAtORy TEchnIciAn  -  Research & Development ,Yes
+1306,No,,,,1, HEALthCaRe reprEsEnTaTivE ,,,No,,,True
+1307,No,,,Other,0, lAbOrAtORy tECHNICIAN ,Married,Y,No,Part Time,,Yes
+1308,Yes,travel_frequently,,,0, sALeS RePREsEntaTIVe ,Married,Y,No,Part Time,,True
+1309,No,travel_rarely,,Marketing,0, salEs eXeCuTIve ,Married,,,Full Time,,0
+1310,No,travel_rarely, Research & Development ,Life Sciences,1, rEsEARcH ScieNTisT ,,,No,Part Time, rEsEARcH ScieNTisT  -  Research & Development ,Yes
+1311,No,,,Other,0, REseArcH DireCtOR ,Divorced,Y,,Full Time,,0
+1312,No,,,Life Sciences,1, ReseaRcH SCieNTIST ,,,No,Part Time,,1
+1313,No,, Sales ,Marketing,0, SalEs eXecuTive ,Divorced,Y,,Part Time, SalEs eXecuTive  -  Sales ,0
+1314,No,,,,1, reSeARCH SCIenTiST ,,,No,Part Time,,False
+1315,No,, Sales ,Medical,1, SaLeS EXEcUTiVe ,,Y,No,Part Time, SaLeS EXEcUTiVe  -  Sales ,0
+1316,Yes,,,Medical,0, rEseaRch sCIenTiST ,Single,,,Part Time,,1
+1317,No,non-travel,,,0, LAboRATOry TeCHnician ,Marreid,Y,No,,,0
+1318,No,,,Life Sciences,0, rESeArCh sciENTiSt ,Single,Y,No,Part Time,,Yes
+1319,No,,,,1, mAnuFacTUrinG dIrECtOR ,Single,,Yes,Part Time,,1
+1320,No,,,,0, sAles RePreseNtativE ,Single,Y,No,Part Time,,0
+1321,No,,,,1, HEaLthcAre reprESentATiVE ,Divorced,Y,No,Part Time,,True
+1322,No,travel_rarely,,Medical,0, ResEarCh ScIenTisT ,Married,,Yes,,,Yes
+1323,No,travel_rarely,,Life Sciences,1, manUfACtuRIng DiRECtOR ,,,No,Part Time,,1
+1324,Yes,,,Life Sciences,0, LaborAtorY TecHNICIAn ,,,Yes,,,False
+1325,No,,,Life Sciences,0, labORAToRy TeCHNicIAN ,Divorced,Y,No,Part Time,,False
+1326,Yes,travel_rarely,,Life Sciences,1, LabOrATORy TEchniciAn ,Married,,,Part Time,,1
+1327,No,travel_frequently,,Medical,0, lABoratORy tEChnIciaN ,,Y,No,Part Time,,1
+1328,No,travel_rarely, Research & Development ,,1, MaNufacTuRINg DirEcTor ,Single,Y,,Part Time, MaNufacTuRINg DirEcTor  -  Research & Development ,1
+1329,No,,,,1, rEseaRCH scIeNTIsT ,,,No,Part Time,,True
+1330,No,,,Medical,0, reSeARCH ScIENtISt ,Married,,,Part Time,,True
+1331,No,,,Marketing,0, SAlEs eXEcUTiVE ,,Y,,Part Time,,True
+1332,No,,,Life Sciences,0, lABoraToRy techNICIAn ,Divorced,,No,Part Time,,1
+1333,No,travel_rarely,,Marketing,0, SALes eXECuTive ,Married,,,Full Time,,Yes
+1334,No,,,,0, saLEs EXEcUtIVE ,Single,,Yes,Part Time,,False
+1335,Yes,travel_rarely,,,0, lAbORAtoRy TEChNiCIAN ,,Y,,Part Time,,1
+1336,Yes,travel_frequently,,,0, lABorAToRy teCHNIcIaN ,divorced,Y,,Part Time,,True
+1337,No,travel_rarely,,,1, MAnUFacTurInG dirEcToR ,Divorced,Y,No,Part Time,,0
+1338,Yes,travel_rarely, Research & Development ,Other,1, resEaRcH scIENTiSt ,Single,,No,Part Time, resEaRcH scIENTiSt  -  Research & Development ,False
+1339,No,,,Life Sciences,0, lAboRATORy TechNIcIAN ,,Y,No,Part Time,,Yes
+1340,No,,,,1, HeALThcAre RePresENTATive ,Divorced,Y,,Full Time,,False
+1341,No,,,Medical,0, rEsEARCh ScieNTist ,Married,,,Part Time,,0
+1342,No,non-travel,,Life Sciences,1, LaBORatoRy teCHnIciAn ,Married,,No,Part Time,,True
+1343,Yes,,,Marketing,0, sAleS rEPrEsENTaTiVE ,Married,Y,Yes,Part Time,,False
+1344,No,, Sales ,Marketing,0, SALes eXECuTIvE ,Divorced,,No,Part Time, SALes eXECuTIvE  -  Sales ,1
+1345,Yes,,,Other,0, SAles rePREseNTatIVE ,Single,Y,Yes,Part Time,,False
+1346,Yes,travel_rarely, Research & Development ,Technical Degree,0, LabORatORy tEChnIcIAn ,Single,Y,,Part Time, LabORatORy tEChnIcIAn  -  Research & Development ,False
+1347,No,travel_rarely,,,1, hEaLThcAre repREseNtATIvE ,,,,Part Time,,True
+1348,Yes,travel_rarely,,,0, reSearCH ScIeNtiSt ,Single,Y,No,Part Time,,0
+1349,Yes,non-travel,,,1, SALES EXecutivE ,Single,,,Full Time,,1
+1350,Yes,travel_rarely,,,1, rESEarCh scIenTisT ,Single,,Yes,Part Time,,1
+1351,No,travel_rarely,,Life Sciences,1, SAles execUTive ,Single,Y,Yes,,,0
+1352,No,,,,0, reSEaRCH scIENTiST ,,,No,Part Time,,True
+1353,Yes,,,Medical,1, reseARCH sCiEnTIst ,,,Yes,Part Time,,0
+1354,No,,,,0, ManagEr ,,,No,Full Time,,Yes
+1355,No,travel_rarely, Research & Development ,,0, LaBorAtOrY teCHNICIAn ,Married,,No,, LaBorAtOrY teCHNICIAn  -  Research & Development ,1
+1356,Yes,travel_rarely,,Medical,1, HEaLtHcArE rEPrEseNtAtIVE ,,,No,Part Time,,1
+1357,No,,,Life Sciences,0, sAlEs EXecUTIVE ,,,Yes,,,0
+1358,Yes,,,,0, labORatorY TEchNiCian ,Divorced,,,Part Time,,True
+1359,No,travel_rarely, Sales ,Medical,0, saLEs RePREsentAtiVE ,Married,Y,No,, saLEs RePREsentAtiVE  -  Sales ,1
+1360,No,,,,0, sALEs ExECutiVe ,,Y,No,Part Time,,1
+1361,Yes,travel_rarely, Research & Development ,,1, laBOrATORY TechNiCiAn ,Single,,No,Part Time, laBOrATORY TechNiCiAn  -  Research & Development ,Yes
+1362,Yes,travel_rarely,,,0, resEaRcH scieNtIST ,Married,,,Part Time,,0
+1363,No,, Sales ,,1, sALes exECutIVe ,Divorced,,Yes,Part Time, sALes exECutIVe  -  Sales ,0
+1364,Yes,, Research & Development ,Medical,0, LabOraToRy technICiAN ,Divorced,,No,, LabOraToRy technICiAN  -  Research & Development ,0
+1365,Yes,,,,0, sales EXecUTIvE ,Single,Y,Yes,Part Time,,True
+1366,No,,,,0, ResEaRCh sCiEnTIsT ,,Y,No,Part Time,,1
+1367,No,travel_rarely,,Marketing,0, SAlEs eXEcUTIVe ,Single,Y,No,Part Time,,Yes
+1368,No,,,,0, LAboRaTOrY tEcHNicIaN ,,,,Part Time,,0
+1369,Yes,,,,0, laborATOry TechNiCiAN ,Single,,No,Part Time,,Yes
+1370,No,,,,0, lABOraToRy TEChNIciaN ,,,Yes,Full Time,,0
+1371,No,travel_rarely, Research & Development ,Medical,0, lAborAtORY TeCHNIciAN ,,Y,No,Part Time, lAborAtORY TeCHNIciAN  -  Research & Development ,1
+1372,No,, Sales ,,1, SAlES rePrESentaTIVe ,,,,Full Time, SAlES rePrESentaTIVe  -  Sales ,True
+1373,Yes,,,Life Sciences,0, reseARcH ScIenTisT ,Married,,Yes,Full Time,,True
+1374,No,non-travel,,,0, resEarch SCienTIst ,Single,Y,No,Part Time,,Yes
+1375,Yes,non-travel,,Life Sciences,0, rEsEarCh scIEntISt ,,,No,Part Time,,1
+1376,No,travel_frequently,,,0, saLes eXEcutIvE ,,,No,Part Time,,False
+1377,Yes,,,Life Sciences,1, laboRATOry techNICiAn ,,,,Part Time,,1
+1378,No,travel_frequently,,Medical,1, ReSeARCH dIREctOR ,Married,,Yes,,,False
+1379,No,, Research & Development ,Medical,0, mANager ,Married,,,Full Time, mANager  -  Research & Development ,True
+1380,No,travel_rarely,,Technical Degree,0, labOrATORY tEcHNiCIaN ,Single,Y,,,,True
+1381,No,travel_rarely, Research & Development ,,0, HEAlThcARe rEPREseNtATIVe ,,,,Part Time, HEAlThcARe rEPREseNtATIVe  -  Research & Development ,Yes
+1382,No,, Research & Development ,Life Sciences,0, REsEArCH dIrECTOr ,Single,,No,, REsEArCH dIrECTOr  -  Research & Development ,True
+1383,No,,,Technical Degree,1, rESeaRCH ScientIST ,,,No,Part Time,,True
+1384,No,,,Life Sciences,1, reSEArCH sCieNTiST ,Single,Y,,Part Time,,Yes
+1385,No,,,,0, rEseARCH sCIeNTisT ,,Y,No,Part Time,,False
+1386,Yes,travel_frequently,,,0, saLEs rEpRESEnTAtiVe ,Single,Y,Yes,,,1
+1387,No,,,Medical,1, REsearCH sCIeNTIst ,Married,Y,Yes,Part Time,,0
+1388,No,travel_frequently,,Medical,1, lABoraTORY tEcHnicIAN ,Single,Y,,Full Time,,False
+1389,No,travel_frequently,,Medical,1, manAGEr ,,,,Full Time,,0
+1390,No,,,Medical,1, salEs repResEntatiVe ,Married,,,Part Time,,1
+1391,No,non-travel,,,1, LaBoRAtORy TEcHnICiAN ,Single,Y,,Part Time,,0
+1392,Yes,travel_frequently,,,1, SaLeS RepRESenTatIve ,Single,,No,Part Time,,Yes
+1393,Yes,travel_frequently,,Life Sciences,1, sALeS RePReSENtAtiVe ,Single,,,Part Time,,0
+1394,Yes,travel_rarely,,Life Sciences,1, RESEaRcH sCientiSt ,,Y,,Part Time,,False
+1395,No,travel_rarely,,Life Sciences,0, laBOrAtOry TEChnICiAn ,Married,,,Part Time,,0
+1396,Yes,,,,1, laBORatory tecHnIcian ,Single,,Yes,,,1
+1397,No,travel_frequently,,Marketing,1, sAlES ExecUTiVE ,Married,,,Part Time,,False
+1398,No,, Research & Development ,,0, rESeaRch SCIeNTIST ,,Y,,Part Time, rESeaRch SCIeNTIST  -  Research & Development ,False
+1399,No,travel_rarely,,Life Sciences,0, sALES rePReSEntATIvE ,,,No,Part Time,,1
+1400,Yes,travel_frequently,,,0, LABorAToRy TecHnicIan ,,,,Part Time,,False
+1401,No,,,,1, SaLes rEprESENtatIVe ,Married,Y,,Part Time,,True
+1402,Yes,,,Medical,0, LaBORAToRy teChnICiAn ,Single,,No,Part Time,,True
+1403,No,travel_rarely,,Life Sciences,0, rESeARch SCIentisT ,,Y,,Part Time,,False
+1404,No,,,,0, HeALThCARE rEPRESEnTATIvE ,,Y,,,,Yes
+1405,No,travel_rarely,,,1, MAnuFActUring DIrEcToR ,Single,Y,,Part Time,,False
+1406,No,,,Medical,0, LAboRAtORy TEcHNIcian ,Married,Y,,Full Time,,True
+1407,No,travel_rarely,,,0, ResEArch SCIENTiSt ,Married,,No,Part Time,,0
+1408,No,travel_rarely,,,0, LABORAtoRY tEcHniCIAn ,,,No,Part Time,,0
+1409,Yes,travel_rarely,,,1, lABoRaTORY tEChniCiAN ,,,,,,1
+1410,No,,,Medical,0, ReSEArcH SCIEntisT ,Single,Y,,Full Time,,0
+1411,No,travel_rarely,,,1, rESEArcH scienTIST ,,Y,,Part Time,,True
+1412,No,travel_rarely,,Life Sciences,1, saLEs EXECUTive ,Single,,No,Full Time,,1
+1413,No,,,Marketing,0, MANAgER ,Marreid,Y,Yes,Full Time,,False
+1414,No,travel_rarely,,,0, MaNAgEr ,,,No,Full Time,,False
+1415,No,,,Life Sciences,0, LAboRatORy TecHNicIaN ,,,No,,,0
+1416,No,travel_rarely,,Life Sciences,0, MAnAgER ,,Y,,Full Time,,0
+1417,Yes,travel_frequently, Sales ,Medical,1, SALEs REpRESentatIve ,Single,,Yes,Part Time, SALEs REpRESentatIve  -  Sales ,True
+1418,No,,,,0, sAles exeCUTIvE ,Divorced,,Yes,Part Time,,True
+1419,No,,,Life Sciences,1, Sales exECutive ,,,No,Part Time,,Yes
+1420,No,travel_rarely,,,0, SaLES exECutIVE ,Single,,,Part Time,,True
+1421,No,travel_rarely,,,1, LaboRAtory TeChnICian ,,,,Full Time,,Yes
+1422,Yes,travel_rarely,,Life Sciences,0, LAbOrATORY tEChNiciAn ,Single,,No,Part Time,,1
+1423,No,,,,0, heaLtHCAre rEprEsEntAtiVe ,Divorced,,No,Full Time,,0
+1424,Yes,,,,0, humAN rESOURCes ,Married,,No,,,Yes
+1425,No,travel_rarely,,Life Sciences,1, maNuFaCturInG dirECTOR ,,,Yes,,,True
+1426,No,travel_rarely,,,0, rEseArCh SCieNTISt ,Married,Y,No,,,1
+1427,No,non-travel,,Marketing,0, sAles eXecutIVE ,,Y,No,Part Time,,True
+1428,Yes,travel_rarely, Sales ,,0, SalES eXecUTiVE ,Single,,,Full Time, SalES eXecUTiVE  -  Sales ,0
+1429,No,travel_rarely,,Life Sciences,1, huMAn ReSOurCES ,Marreid,,,,,Yes
+1430,No,,,,0, ReSeaRch sCienTiSt ,Married,,Yes,Part Time,,0
+1431,Yes,,,,1, SaLEs ExEcutive ,,,Yes,Part Time,,True
+1432,Yes,travel_rarely,,,0, SAlEs exeCUTIVe ,Married,,,,,True
+1433,No,travel_rarely,,Technical Degree,1, ResEaRcH SCIentist ,Divorced,,,Part Time,,Yes
+1434,No,,,,0, HeALtHCare RepREseNTAtivE ,Married,Y,No,Part Time,,False
+1435,No,travel_rarely,,Medical,0, HEALtHcAre rEPrESENtative ,Married,,,Part Time,,1
+1436,Yes,,,Technical Degree,0, rESEArch sciENTIST ,,,Yes,Part Time,,False
+1437,No,travel_rarely,,,0, rEseARch DIrEctOR ,Married,,No,Full Time,,False
+1438,Yes,,,Marketing,0, sAleS REPrEsEnTATiVe ,Single,,,,,Yes
+1439,Yes,travel_rarely,,Medical,1, lABORaTOrY teChniCIan ,,,Yes,Part Time,,Yes
+1440,No,travel_rarely,,Other,0, HuMAn rEsOUrceS ,Divorced,Y,No,Part Time,,1
+1441,No,travel_rarely,,,0, hEALtHcaRE RePResEnTATivE ,Married,,No,Part Time,,False
+1442,No,,,,1, reSEARcH sciEntIST ,Single,,,,,True
+1443,Yes,travel_rarely,,Human Resources,0, huMAn ReSouRcEs ,Married,,No,Full Time,,True
+1444,No,travel_rarely,,,1, ReseaRch SCIenTIsT ,,Y,Yes,,,Yes
+1445,No,travel_frequently,,Marketing,0, SALES EXECuTIVE ,,,,Part Time,,1
+1446,No,,,Life Sciences,0, HeaLthCaRe ReprESeNtAtIVE ,divorced,Y,No,Part Time,,0
+1447,No,travel_rarely,,,0, LabORatoRY TEchNIcIan ,,,No,Part Time,,Yes
+1448,No,travel_rarely,,,0, HUmAN rEsOURCEs ,Married,,No,Part Time,,Yes
+1449,Yes,,,,0, reSEarCh sciENTiSt ,,Y,Yes,Part Time,,0
+1450,No,travel_rarely, Sales ,Medical,1, SaLes REPREseNtATive ,,Y,No,, SaLes REPREseNtATive  -  Sales ,1
+1451,Yes,,,,0, Sales REpresenTATiVE ,,Y,,,,False
+1452,Yes,travel_rarely, Research & Development ,Life Sciences,0, ReSeArch sCIEnTiSt ,Single,,,, ReSeArch sCIEnTiSt  -  Research & Development ,Yes
+1453,No,,,Life Sciences,1, rEsEArCh sCIENtIsT ,,Y,Yes,Full Time,,0
+1454,No,travel_rarely,,,0, heAlthcare rEPResENTatIvE ,,,,Part Time,,True
+1455,Yes,travel_frequently, Sales ,Technical Degree,0, sales REPReSeNtAtIVe ,Single,,No,Part Time, sales REPReSeNtAtIVe  -  Sales ,1
+1456,Yes,travel_rarely,,Marketing,1, Sales exECUTIvE ,,Y,Yes,Part Time,,Yes
+1457,No,travel_rarely,,,1, SALEs eXEcutivE ,Married,,,Part Time,,Yes
+1458,No,travel_rarely,,,0, MANuFACtUrinG DIreCtOr ,Married,,No,Part Time,,True
+1459,No,,,,1, MAnAGeR ,,,Yes,Full Time,,Yes
+1460,No,travel_rarely, Sales ,Marketing,0, sAles execUtIve ,Divorced,,,Part Time, sAles execUtIve  -  Sales ,False
+1461,Yes,,,,1, HuMAn RESOUrceS ,Married,Y,No,Full Time,,False
+1462,No,travel_rarely,,,0, SaLes RePreSentAtIvE ,Single,,,,,1
+1463,No,,,Life Sciences,0, MANuFacTUrinG DIrEctoR ,,,No,Part Time,,True
+1464,No,,,Medical,1, laBORatORY TeChnICIAN ,,Y,,Part Time,,Yes
+1465,No,travel_rarely,,,1, hUMaN reSoURces ,,Y,No,Part Time,,0
+1466,No,, Research & Development ,,0, LABOrATORy tEChNiCIaN ,Married,,No,Part Time, LABOrATORy tEChNiCIaN  -  Research & Development ,True
+1467,No,non-travel,,,0, MANaGeR ,,,,Full Time,,False
+1468,Yes,,,,0, SAles REprESeNTAtiVe ,Married,,No,,,False
+1469,No,travel_rarely,,Life Sciences,1, HUmAN REsOURcES ,Single,,Yes,Part Time,,0
+1470,No,travel_rarely,,Technical Degree,0, saLeS RePreseNTAtIve ,,,Yes,,,1
+1471,No,non-travel,,Medical,0, ReSearCH ScIEntISt ,Single,,No,Part Time,,False
+1472,No,,,Life Sciences,0, HeALTHcare repREsEnTAtivE ,Married,Y,No,Part Time,,0
+1473,Yes,travel_rarely,,Medical,1, hEALTHcArE rePReSEnTATive ,Married,,,Part Time,,1
+1474,No,,,Life Sciences,0, SAleS EXeCuTive ,Divorced,Y,,Part Time,,Yes
+1475,No,travel_frequently,,,1, sales execUTIVe ,Married,Y,,Part Time,,Yes
+1476,No,travel_rarely,,Medical,0, MaNAger ,Single,Y,,,,Yes
+1477,No,,,,0, MAnaGeR ,,,,Full Time,,1
+1478,No,travel_rarely, Research & Development ,,0, hEalthCarE REPResEnTaTive ,,,No,, hEalthCarE REPResEnTaTive  -  Research & Development ,1
+1479,No,,,Life Sciences,0, reSeaRch DireCtOR ,,,,Full Time,,True
+1480,No,,,,0, ReseArCH dirECTOR ,,,No,,,1
+1481,No,,,,1, maNUFActUrInG dIreCTOr ,Married,,No,Part Time,,Yes
+1482,No,travel_rarely, Research & Development ,Life Sciences,0, mANagER ,Married,Y,No,Full Time, mANagER  -  Research & Development ,Yes
+1483,No,non-travel, Sales ,Life Sciences,1, sales repResENTaTiVE ,,Y,,Part Time, sales repResENTaTiVE  -  Sales ,0
+1484,Yes,,,Life Sciences,0, reSEArcH SCiEnTIst ,Married,Y,,,,Yes
+1485,No,travel_frequently,,,0, ReseArCH scIenTiSt ,,Y,No,Full Time,,False
+1486,No,,,Medical,0, rESEArCh DIrecTOR ,,,No,,,1
+1487,No,,,,1, REsEaRch scIenTIsT ,Single,Y,Yes,Part Time,,1
+1488,No,travel_frequently,,,0, saLES RePRESenTAtIve ,Married,,No,Part Time,,False
+1489,No,,,Marketing,0, saLeS eXecUtivE ,Divorced,,,Part Time,,Yes
+1490,No,,,,0, MaNUFACturIng DiRECTor ,Single,,No,Part Time,,1
+1491,Yes,,,,1, SAlEs eXecUTive ,Single,,,Full Time,,Yes
+1492,Yes,, Research & Development ,Medical,0, laboRAToRY tEChniCIAN ,,,No,Part Time, laboRAToRY tEChniCIAN  -  Research & Development ,False
+1493,No,travel_rarely,,,1, HEALTHcarE rePResENTATIVe ,,Y,No,Full Time,,0
+1494,No,travel_rarely,,,0, reseArCH ScIeNTiSt ,Married,Y,No,,,0
+1495,No,travel_frequently,,Other,0, laboRatORY teCHnICIaN ,Married,,,Part Time,,True
+1496,No,,,,1, MANAGer ,Divorced,Y,No,Full Time,,False
+1497,No,, Research & Development ,Medical,1, resEaRcH sCIeNTisT ,,,Yes,Part Time, resEaRcH sCIeNTisT  -  Research & Development ,Yes
+1498,No,travel_rarely,,Life Sciences,0, huMAn resOURces ,,Y,No,Full Time,,True
+1499,No,travel_rarely,,Marketing,1, saLeS eXEcUTivE ,,,,Full Time,,1
+1500,Yes,,,,0, saleS EXeCUtIvE ,,,,Full Time,,1
+1501,No,non-travel, Research & Development ,Medical,0, maNuFAcTurING diREctOr ,Divorced,,No,Part Time, maNuFAcTurING diREctOr  -  Research & Development ,0
+1502,No,,,Medical,1, maNufAcTuring directOr ,Single,Y,No,Part Time,,False
+1503,Yes,travel_rarely,,Medical,1, heALTHCAre rEpreSenTaTIvE ,Married,,No,Part Time,,0
+1504,No,non-travel,,,1, SAlES EXECUtIvE ,Marreid,Y,,,,True
+1505,No,travel_frequently,,Life Sciences,0, SalES exECUTive ,Married,,,,,0
+1506,Yes,,,Life Sciences,1, SAleS ExEcUTiVE ,,Y,,Part Time,,False
+1507,No,travel_rarely, Research & Development ,,0, mAnAger ,,Y,,Full Time, mAnAger  -  Research & Development ,Yes
+1508,No,travel_rarely, Sales ,,1, SALes eXEcUtiVe ,Single,Y,No,Part Time, SALes eXEcUtiVe  -  Sales ,True
+1509,No,,,Medical,0, reSearCh DIRectOR ,Married,Y,No,,,0
+1510,No,travel_frequently,,Other,0, laboraTORY TechNiciaN ,Married,,No,Part Time,,True
+1511,No,travel_frequently,,Life Sciences,0, SALES EXEcutIve ,Married,,,Part Time,,Yes
+1512,No,travel_rarely, Research & Development ,,0, reSearCh SCiEnTist ,Married,,,Part Time, reSearCh SCiEnTist  -  Research & Development ,1
+1513,No,travel_rarely,,Human Resources,0, hUMan rEsOuRCES ,,Y,No,Full Time,,True
+1514,No,, Research & Development ,,0, rESEARch SciENtiSt ,,Y,,Part Time, rESEARch SciENtiSt  -  Research & Development ,True
+1515,Yes,,,Medical,0, reSeaRCh SCieNtISt ,,,No,Part Time,,False
+1516,Yes,,,Medical,0, ResEARCH ScIeNTiST ,Married,Y,Yes,Part Time,,True
+1517,No,travel_rarely,,,0, resEaRCH DIrEctOR ,Married,Y,,Full Time,,1
+1518,No,,,Other,0, LABOrAtOrY TecHnICIAN ,,,No,Full Time,,False
+1519,No,,,Medical,0, mANuFacTURiNg DIReCtOr ,,Y,No,Full Time,,0
+1520,No,,,,0, rEseaRCH sCIENtIst ,,Y,,Full Time,,0
+1521,No,travel_rarely, Human Resources ,,0, hUman ResourCeS ,Divorced,Y,Yes,Part Time, hUman ResourCeS  -  Human Resources ,1
+1522,No,, Sales ,,1, SALES exeCUtIve ,,,,Part Time, SALES exeCUtIve  -  Sales ,Yes
+1523,Yes,,,,1, saLes represEnTAtIVE ,Single,,,Part Time,,0
+1524,No,travel_rarely,,Medical,0, heaLThcare rePreseNtAtive ,,,No,Full Time,,False
+1525,No,,,,0, sAleS reprESEnTaTIve ,Single,,,Part Time,,Yes
+1526,No,travel_rarely,,Life Sciences,0, resEArCh sCIeNTiSt ,,Y,,Part Time,,False
+1527,No,, Research & Development ,,0, ReseaRcH sCientiSt ,,,No,Part Time, ReseaRcH sCientiSt  -  Research & Development ,Yes
+1528,No,travel_rarely,,,0, LABOratORY TEcHNIciAN ,,,No,Part Time,,True
+1529,No,travel_rarely,,Other,0, HeAlTHcARE rEpReSENTAtIvE ,Single,Y,No,Full Time,,0
+1530,No,travel_rarely,,,1, RESeArCh SCIEntiSt ,Married,,No,,,True
+1531,Yes,non-travel,,Marketing,0, SalES exEcutIve ,,,Yes,,,1
+1532,No,,,Marketing,1, SAles ExeCUtiVE ,divorced,,Yes,Part Time,,1
+1533,No,,,,1, LABoRAToRY tECHnician ,,Y,No,Part Time,,True
+1534,No,,,Medical,0, REsEaRch direCTor ,Married,Y,,,,1
+1535,No,,,,1, Sales exECUTIve ,Married,Y,No,Full Time,,1
+1536,No,,,,0, lABOraTory teCHnIcIAn ,,Y,,Part Time,,1
+1537,No,travel_rarely,,Other,1, hEaLthcArE rEpReSENtatIve ,,,Yes,,,1
+1538,No,travel_rarely,,,0, labOrAToRY TeCHnIciaN ,Married,Y,No,,,1
+1539,Yes,travel_rarely,,Medical,0, LABorAtORy TEcHNIcIAn ,Married,Y,No,Part Time,,True
+1540,No,,,Life Sciences,0, ResearCH scIeNTiSt ,Married,,No,Part Time,,Yes
+1541,No,travel_rarely,,Medical,0, hEalThCARE rEpRESeNTATIVe ,Married,Y,Yes,Full Time,,Yes
+1542,Yes,non-travel,,Life Sciences,0, manAGER ,Married,,,Part Time,,0
+1543,No,,,Life Sciences,1, ManAGEr ,Divorced,Y,,,,1
+1544,No,travel_frequently,,,0, sAlEs eXeCUTive ,Single,Y,,Part Time,,Yes
+1545,No,travel_rarely, Research & Development ,Technical Degree,0, LAbORaTory tEcHnIciAN ,Marreid,Y,,, LAbORaTory tEcHnIciAN  -  Research & Development ,Yes
+1546,Yes,travel_rarely,,,0, saLes EXECUtIve ,Single,,,Full Time,,1
+1547,No,travel_rarely,,Technical Degree,0, SalEs EXECutivE ,,,,Part Time,,False
+1548,No,travel_frequently,,Life Sciences,1, LabOrAtOrY TEcHNiciaN ,,Y,No,Part Time,,0
+1549,No,travel_rarely,,Marketing,0, SaLEs EXECutIvE ,,Y,,,,1
+1550,No,,,Medical,1, REseARcH scIeNTist ,Single,Y,,Part Time,,False
+1551,No,,,,0, SAlEs ExeCuTiVe ,,,No,,,True
+1552,No,travel_frequently, Research & Development ,Life Sciences,1, lABOraTOrY tecHniciaN ,Divorced,Y,No,, lABOraTOrY tecHniciaN  -  Research & Development ,False
+1553,Yes,travel_rarely,,,0, laBORaToRy TeChniCian ,,Y,,,,1
+1554,No,, Sales ,,1, sALeS exEcUtiVe ,,Y,No,Part Time, sALeS exEcUtiVe  -  Sales ,1
+1555,No,travel_rarely,,,1, SAles EXecuTiVe ,Divorced,Y,Yes,,,Yes
+1556,No,,,Medical,0, reSEaRcH SCiENtIST ,Divorced,,,Full Time,,Yes
+1557,No,travel_rarely,,,0, saleS exEcuTivE ,,Y,,Part Time,,0
+1558,No,travel_rarely,,Life Sciences,1, LaBorAToRy TEcHNiCIaN ,Married,Y,Yes,Part Time,,Yes
+1559,Yes,,,,0, SaleS exeCUtIvE ,,,No,Part Time,,True
+1560,No,travel_rarely,,,1, sALES ExecUTIve ,,,No,Part Time,,False
+1561,No,,,,1, lAborAtOrY teCHniCiAn ,,,No,Full Time,,0
+1562,No,,,Life Sciences,1, SaLeS exECUtIvE ,Married,Y,No,Full Time,,Yes
+1563,No,travel_rarely, Sales ,Marketing,0, salEs eXEcuTIvE ,Married,,,Part Time, salEs eXEcuTIvE  -  Sales ,Yes
+1564,No,,,Medical,1, manUFactuRING DIreCTor ,,Y,No,,,False
+1565,No,non-travel,,,1, laBorATORY tEchNICiAn ,Single,Y,,Part Time,,True
+1566,No,travel_rarely,,Life Sciences,0, HEalTHCArE rEpresEnTaTIvE ,,,Yes,Part Time,,1
+1567,No,travel_rarely,,,1, sALES EXEcuTIVe ,Married,,No,Part Time,,True
+1568,No,travel_rarely,,Other,0, sAles executiVe ,,,No,Part Time,,False
+1569,Yes,travel_frequently,,Life Sciences,1, HUMaN resoURCES ,,Y,Yes,Part Time,,Yes
+1570,No,,,Other,1, heaLThCARE reprESeNtATIVE ,Single,Y,Yes,Part Time,,Yes
+1571,No,,,,0, sALeS execUTIve ,Single,,,Part Time,,False
+1572,No,travel_rarely,,Medical,0, SAlEs exEcUtIve ,Divorced,Y,No,Part Time,,1
+1573,No,travel_frequently,,,0, LAboRAtoRy tEcHnICiaN ,Divorced,Y,,Part Time,,True
+1574,No,, Sales ,,1, SAleS ExEcuTiVE ,Single,Y,,Part Time, SAleS ExEcuTiVE  -  Sales ,False
+1575,No,travel_rarely,,Other,0, mAnuFACTURIng DIrECToR ,Married,,No,Part Time,,1
+1576,No,,,,0, human RESOurceS ,,Y,,Part Time,,False
+1577,No,travel_rarely, Sales ,Marketing,1, SaLeS exEcUTiVE ,,,No,Part Time, SaLeS exEcUTiVE  -  Sales ,1
+1578,No,, Research & Development ,Life Sciences,0, ReSEArch scieNTiST ,Divorced,Y,,, ReSEArch scieNTiST  -  Research & Development ,True
+1579,No,,,Medical,1, HEaLTHCArE rEpreSeNtatiVE ,,,,,,Yes
+1580,No,,,Technical Degree,1, HeaLTHcARE reprESenTAtIve ,Single,,No,Part Time,,0
+1581,No,,,Marketing,0, sAlES EXECUtivE ,,,,,,True
+1582,No,travel_rarely,,Life Sciences,1, hEalThCaRe rEPReSeNtaTiVe ,,Y,,Part Time,,False
+1583,No,travel_rarely,,Life Sciences,1, MAnufACtUriNG dIrecTOR ,Married,,,Part Time,,0
+1584,No,travel_rarely,,Life Sciences,1, researCh dIrEctor ,Single,,,Full Time,,0
+1585,No,,,Marketing,0, saLeS EXeCUTIve ,Single,,,Part Time,,0
+1586,No,travel_frequently,,,0, mAnUfacTUrING DireCtOr ,,Y,No,Part Time,,1
+1587,No,,,,0, MANAgER ,,Y,No,Full Time,,0
+1588,Yes,, Research & Development ,,1, reSEArCh sCieNtiST ,,,Yes,Part Time, reSEArCh sCieNtiST  -  Research & Development ,Yes
+1589,No,, Research & Development ,,1, ReseaRCh dIRecTor ,Married,Y,,Full Time, ReseaRCh dIRecTor  -  Research & Development ,0
+1590,No,,,Marketing,0, saLes ExECutIvE ,Divorced,Y,No,Part Time,,0
+1591,No,travel_rarely,,,0, heaLTHCaRe rEPReSeNtatIve ,Married,,No,Full Time,,True
+1592,No,travel_rarely,,,0, sALES RePrESENtaTiVE ,Single,,No,Full Time,,True
+1593,No,non-travel,,,0, SaleS eXeCuTIVE ,Single,Y,,Part Time,,Yes
+1594,No,,,Medical,1, hEAltHCarE REpreSentaTiVe ,Married,,No,Part Time,,Yes
+1595,No,,,Life Sciences,1, mANUFacTURInG DIREctoR ,Single,,,Full Time,,False
+1596,No,,,Medical,1, heALtHCArE RepRESENTATIVE ,,Y,No,Part Time,,Yes
+1597,No,travel_frequently,,,0, maNaGER ,,,No,Full Time,,1
+1598,No,travel_rarely,,Other,1, maNUFacturing DiRector ,,,,Part Time,,1
+1599,No,travel_rarely,,,0, resEArCH SCIEnTISt ,Married,,,Part Time,,False
+1600,Yes,,,Medical,0, SAleS ExEcutiVe ,Single,Y,,,,Yes
+1601,No,, Sales ,,1, SaLEs ExECUtiVE ,,Y,,Part Time, SaLEs ExECUtiVE  -  Sales ,0
+1602,Yes,,,Medical,1, reSearCH scientiST ,Married,,,Part Time,,True
+1603,No,,,,0, RESearch SCieNtISt ,,,Yes,Part Time,,False
+1604,Yes,, Research & Development ,Life Sciences,1, LAbORAToRy tEcHNICian ,divorced,,Yes,Part Time, LAbORAToRy tEcHNICian  -  Research & Development ,Yes
+1605,No,travel_rarely,,,0, SAlES rEpreSENtaTiVe ,,,,Part Time,,True
+1606,No,travel_frequently, Sales ,Medical,0, sAleS EXECUtIvE ,,Y,,Part Time, sAleS EXECUtIvE  -  Sales ,1
+1607,No,,,Medical,1, HEaltHCarE REPreSENtAtIve ,,,,Part Time,,True
+1608,No,,,Medical,1, MANUfaCtuRiNG DiReCtor ,Married,,,Full Time,,1
+1609,Yes,travel_rarely,,Life Sciences,0, saLEs ExeCUTiVe ,Married,Y,,Full Time,,0
+1610,No,non-travel,,,0, LAboRaTOry tECHNiCIAn ,,,,Part Time,,1
+1611,No,travel_rarely,,,0, sAlES ExECUTivE ,Single,,No,Part Time,,Yes
+1612,No,non-travel,,Technical Degree,0, SaLes ExecUtIVe ,Divorced,,No,Part Time,,True
+1613,No,,,Medical,0, mAnUfactURInG DiRECTOr ,,Y,,Full Time,,0
+1614,No,,,Life Sciences,0, sAlES eXeCuTIVe ,Married,Y,,,,True
+1615,No,travel_rarely, Human Resources ,Medical,0, humAN resoURCEs ,Married,Y,,Part Time, humAN resoURCEs  -  Human Resources ,False
+1616,No,travel_rarely,,,1, SalES ExeCuTIVe ,,Y,No,Part Time,,True
+1617,Yes,travel_rarely,,,1, sAles EXecutiVE ,Single,Y,Yes,Part Time,,0
+1618,No,,,Life Sciences,1, SALeS RePreSenTATiVe ,Single,,Yes,,,1
+1619,No,travel_rarely,,,1, SALes exeCUtiVE ,Married,Y,Yes,,,True
+1620,Yes,travel_rarely, Research & Development ,Other,1, resEaRcH scIENTiSt ,Single,,No,Part Time, resEaRcH scIENTiSt  -  Research & Development ,False
+1621,No,,,Marketing,0, SALES rEPrESENtaTIVE ,Married,,No,Part Time,,True
+1622,No,travel_rarely,,Medical,0, MANuFacturIng DIrectOr ,Divorced,,,Part Time,,Yes
+1623,No,travel_rarely, Sales ,,1, SaleS EXeCuTivE ,Marreid,,Yes,Part Time, SaleS EXeCuTivE  -  Sales ,False
+1624,No,travel_rarely,,,1, MaNUFAcTUriNg DiRECTor ,Single,Y,No,Part Time,,0
+1625,Yes,travel_rarely,,,0, reSearCH ScIeNtiSt ,Single,Y,No,Part Time,,0
+1626,No,,,,1, reseaRCH DIrectOr ,,,Yes,Full Time,,True
+1627,No,travel_rarely,,,1, LAboRAtorY TEcHnician ,Single,,,Part Time,,False
+1628,Yes,travel_frequently,,,1, SaLeS RepRESenTatIve ,Single,,No,Part Time,,Yes
+1629,No,,,,0, REsEARcH dIreCTor ,,,,Part Time,,True
+1630,Yes,non-travel,,Life Sciences,0, maNaGeR ,Married,,,,,True
+1631,No,travel_rarely,,,0, rEsEarch ScIENTiSt ,Married,,No,,,1
+1632,No,,,Other,0, lAborATorY TecHNIciAN ,,,No,Full Time,,True
+1633,No,,,Medical,1, HEalTHcArE repREsENtaTIVE ,Married,,No,Part Time,,1
+1634,No,,,,1, salES ExEcuTiVE ,Single,Y,No,Part Time,,1
+1635,No,,,,1, SaLes rEprESENtatIVe ,Married,Y,,Part Time,,True
+1636,No,, Research & Development ,Technical Degree,0, LaBoratory TECHnICIAn ,,,,Part Time, LaBoratory TECHnICIAn  -  Research & Development ,False
+1637,No,travel_rarely,,Life Sciences,0, HEalTHCArE rEpresEnTaTIvE ,,,Yes,Part Time,,1
+1638,No,travel_rarely,,,1, sALES EXEcuTIVe ,Married,,No,Part Time,,True
+1639,Yes,travel_frequently, Research & Development ,Life Sciences,0, labORAtoRy tEcHNICIAN ,,Y,,Part Time, labORAtoRy tEcHNICIAN  -  Research & Development ,Yes
+1640,No,travel_rarely, Sales ,Life Sciences,0, Sales exECutIVE ,,,Yes,Part Time, Sales exECutIVE  -  Sales ,True
+1641,No,,,,0, LaBORatOrY TeChNICiaN ,,Y,No,Full Time,,True
+1642,Yes,travel_rarely,,,0, sAlES eXEcuTivE ,Single,,,,,1
+1643,No,travel_rarely,,Medical,0, heaLThcare rePreseNtAtive ,,,No,Full Time,,False
+1644,No,,,Medical,0, LAboRaTorY teChniCiaN ,Married,Y,Yes,,,Yes
+1645,Yes,travel_rarely,,Medical,1, hEALTHcArE rePReSEnTATive ,Married,,,Part Time,,1
+1646,No,, Research & Development ,Other,0, LaborAtorY Technician ,Divorced,Y,,Part Time, LaborAtorY Technician  -  Research & Development ,1
+1647,Yes,non-travel,,Marketing,0, SalES exEcutIve ,,,Yes,,,1
+1648,Yes,travel_frequently,,,0, ManufACTuRING dIrEcTOr ,,Y,,Full Time,,False
+1649,No,travel_rarely,,Life Sciences,1, maNufaCturing direcTOr ,Divorced,Y,No,,,0
+1650,Yes,,,,1, SaLES REPrEsENTAtivE ,,,Yes,Part Time,,False
+1651,No,,,,0, ManUFaCtURInG dIReCToR ,Single,Y,No,Full Time,,True
+1652,No,,,,0, lAboratORy TeChNiCiaN ,Single,Y,No,Full Time,,1
+1653,No,,,,0, mAnUfactURing dIReCtOr ,,,No,,,1
+1654,No,travel_rarely, Research & Development ,,0, hEalthCaRe reprEseNTaTiVe ,Married,Y,No,Full Time, hEalthCaRe reprEseNTaTiVe  -  Research & Development ,1
+1655,No,,,Life Sciences,0, resEaRCH sCienTISt ,,Y,No,Part Time,,Yes
+1656,No,,,,1, mANAGEr ,Married,,No,Full Time,,True
+1657,No,travel_rarely,,Other,0, sAles executiVe ,,,No,Part Time,,False
+1658,No,travel_rarely, Research & Development ,Life Sciences,1, LABOrATOrY TEchnIcIAn ,,,No,, LABOrATOrY TEchnIcIAn  -  Research & Development ,1
+1659,No,travel_rarely,,Life Sciences,0, huMAn resOURces ,,Y,No,Full Time,,True
+1660,Yes,travel_rarely,,Life Sciences,0, SALes RePREsEntAtivE ,Single,Y,No,Part Time,,False
+1661,Yes,,,,0, laborATOry TechNiCiAN ,Single,,No,Part Time,,Yes
+1662,No,,,Life Sciences,0, labORAToRy TeCHNicIAN ,Divorced,Y,No,Part Time,,False
+1663,No,,,,0, resEaRCH sCiENtiSt ,,,No,Part Time,,Yes
+1664,No,travel_rarely,,Medical,0, MaNAger ,Single,Y,,,,Yes
+1665,No,travel_rarely,,Life Sciences,1, manUfACtuRIng DiRECtOR ,,,No,Part Time,,1
+1666,No,,,Life Sciences,0, MANUfactUrING DIRECtOr ,,,,Part Time,,0
+1667,No,travel_rarely, Research & Development ,Life Sciences,0, rESEArcH SCiEntIst ,Divorced,,,Part Time, rESEArcH SCiEntIst  -  Research & Development ,1
+1668,No,,,,0, MANuFaCtURIng DIRectoR ,,Y,No,Part Time,,True
+1669,No,travel_rarely,,Life Sciences,1, rEseaRcH scIEnTiST ,Single,Y,,Full Time,,0
+1670,No,,,Medical,0, rEsEARCh ScieNTist ,Married,,,Part Time,,0
+1671,No,,,Medical,1, HEaltHCarE REPreSENtAtIve ,,,,Part Time,,True
+1672,No,travel_rarely,,,0, saLEs exEcUTIVe ,Single,,No,Part Time,,0
+1673,No,,,Medical,1, rESEaRcH SciEnTiST ,Single,,,,,Yes
+1674,No,,,,1, mANager ,Married,Y,No,Full Time,,False
+1675,No,travel_rarely,,,0, reSearch sCienTiSt ,,,No,Part Time,,False
+1676,No,travel_rarely,,Life Sciences,1, maNufACTURING DIREctOr ,Divorced,,Yes,Part Time,,Yes
+1677,No,,,Life Sciences,1, resEArch scIENTisT ,Single,Y,Yes,Part Time,,0

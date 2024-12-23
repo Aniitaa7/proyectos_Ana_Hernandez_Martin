@@ -1,0 +1,1615 @@
+,employeenumber,age,gender,education,educationfield
+0,1,51,M,3,unknown
+1,2,52,M,4,life sciences
+2,3,42,M,2,technical degree
+3,4,47,F,4,medical
+4,5,46,F,3,technical degree
+5,6,48,F,3,medical
+6,7,59,F,3,life sciences
+7,8,42,M,1,unknown
+8,9,41,F,5,unknown
+9,10,41,M,3,unknown
+10,11,41,F,1,unknown
+11,12,56,M,3,life sciences
+12,13,38,F,3,medical
+13,14,41,F,3,unknown
+14,15,55,M,4,medical
+15,16,40,F,4,unknown
+16,17,58,M,4,unknown
+17,18,46,F,3,unknown
+18,19,35,M,5,life sciences
+19,20,40,F,3,life sciences
+20,21,45,M,1,unknown
+21,22,33,F,2,life sciences
+22,23,36,F,3,unknown
+23,24,47,F,2,other
+24,25,36,M,2,life sciences
+25,26,35,F,3,life sciences
+26,27,52,F,1,unknown
+27,28,36,F,4,life sciences
+28,29,33,M,4,life sciences
+29,30,34,M,3,life sciences
+30,31,41,F,1,unknown
+31,32,47,M,3,medical
+32,33,53,F,3,unknown
+33,34,35,M,4,marketing
+34,35,34,F,4,other
+35,36,46,F,2,unknown
+36,37,43,F,3,unknown
+37,38,36,M,3,life sciences
+38,39,60,F,3,unknown
+39,40,40,M,4,unknown
+40,41,32,F,3,unknown
+41,42,41,M,3,unknown
+42,43,53,M,2,medical
+43,44,36,F,4,unknown
+44,45,46,F,4,life sciences
+45,46,38,M,4,unknown
+46,47,51,F,4,unknown
+47,48,43,M,2,unknown
+48,49,37,F,3,life sciences
+49,50,32,F,2,technical degree
+50,51,38,F,3,unknown
+51,52,46,F,3,life sciences
+52,53,35,M,3,medical
+53,54,43,F,3,medical
+54,55,56,M,4,life sciences
+55,56,36,M,4,marketing
+56,57,38,F,3,medical
+57,58,49,F,4,medical
+58,59,39,F,4,life sciences
+59,60,40,M,4,unknown
+60,61,36,M,2,unknown
+61,62,37,F,5,unknown
+62,63,35,M,4,unknown
+63,64,33,M,3,life sciences
+64,65,50,M,3,unknown
+65,66,48,M,4,unknown
+66,67,44,F,3,unknown
+67,68,44,M,4,unknown
+68,69,40,F,1,unknown
+69,70,34,F,4,unknown
+70,71,35,F,4,unknown
+71,72,50,F,5,life sciences
+72,73,49,F,1,life sciences
+73,74,38,M,3,life sciences
+74,75,33,M,3,unknown
+75,76,47,F,3,life sciences
+76,77,38,F,3,unknown
+77,78,37,F,3,life sciences
+78,79,30,M,3,unknown
+79,80,58,M,4,unknown
+80,81,34,F,3,unknown
+81,82,58,F,4,medical
+82,83,38,M,3,life sciences
+83,84,29,F,1,unknown
+84,85,55,M,3,medical
+85,86,41,M,4,unknown
+86,87,39,M,3,unknown
+87,88,38,M,2,life sciences
+88,89,43,M,3,unknown
+89,90,31,F,2,unknown
+90,91,50,M,4,life sciences
+91,92,35,M,3,technical degree
+92,93,47,M,4,unknown
+93,94,35,F,4,unknown
+94,95,40,M,4,unknown
+95,96,45,F,4,life sciences
+96,97,33,M,3,medical
+97,98,36,M,3,unknown
+98,99,45,F,3,marketing
+99,100,51,M,3,unknown
+100,101,34,M,2,technical degree
+101,102,43,M,2,unknown
+102,103,34,M,2,medical
+103,104,38,M,3,unknown
+104,105,48,M,3,unknown
+105,106,34,M,4,other
+106,107,32,F,4,unknown
+107,108,29,F,4,life sciences
+108,109,46,M,3,medical
+109,110,30,M,3,unknown
+110,111,45,M,3,life sciences
+111,112,30,F,3,unknown
+112,113,30,M,3,unknown
+113,114,34,M,1,unknown
+114,115,51,M,4,life sciences
+115,116,34,M,4,life sciences
+116,117,35,M,3,unknown
+117,118,45,M,3,life sciences
+118,119,39,M,1,unknown
+119,120,31,F,2,unknown
+120,121,39,M,2,unknown
+121,122,45,M,4,unknown
+122,123,30,F,3,marketing
+123,124,31,F,4,medical
+124,125,36,M,4,medical
+125,126,36,M,2,unknown
+126,127,55,F,5,unknown
+127,128,35,M,3,unknown
+128,129,42,M,3,medical
+129,130,52,M,2,unknown
+130,131,49,M,4,life sciences
+131,132,34,M,5,unknown
+132,133,33,M,4,other
+133,134,33,M,3,medical
+134,135,53,F,4,unknown
+135,136,49,F,2,other
+136,137,35,M,4,unknown
+137,138,38,F,1,life sciences
+138,139,46,M,1,marketing
+139,140,36,M,4,unknown
+140,141,42,M,3,life sciences
+141,142,34,M,3,unknown
+142,143,30,M,3,medical
+143,144,54,M,3,life sciences
+144,145,31,F,3,medical
+145,146,44,M,3,unknown
+146,147,55,M,1,unknown
+147,148,44,M,2,life sciences
+148,149,34,M,3,life sciences
+149,150,39,F,4,unknown
+150,151,55,F,2,medical
+151,152,51,M,3,life sciences
+152,153,58,F,4,medical
+153,154,48,M,3,life sciences
+154,155,29,M,3,unknown
+155,156,34,M,3,other
+156,157,42,F,2,unknown
+157,158,57,M,2,life sciences
+158,159,34,F,4,unknown
+159,160,54,F,4,medical
+160,161,34,M,3,unknown
+161,162,29,M,1,medical
+162,163,35,M,3,life sciences
+163,164,35,M,4,other
+164,165,34,F,3,life sciences
+165,166,43,M,3,unknown
+166,167,58,M,3,medical
+167,168,36,F,4,unknown
+168,169,43,M,3,life sciences
+169,170,55,M,4,human resources
+170,171,42,M,2,unknown
+171,172,40,F,3,technical degree
+172,173,56,M,2,technical degree
+173,174,39,F,1,marketing
+174,175,53,F,4,life sciences
+175,176,27,M,3,unknown
+176,177,30,F,2,unknown
+177,178,35,M,5,life sciences
+178,179,32,M,3,medical
+179,180,30,M,1,life sciences
+180,181,46,M,2,medical
+181,182,30,F,2,unknown
+182,183,32,M,4,unknown
+183,184,35,M,5,marketing
+184,185,32,F,3,marketing
+185,186,41,M,3,life sciences
+186,187,40,F,1,medical
+187,188,45,M,2,unknown
+188,189,32,M,4,unknown
+189,190,30,M,1,life sciences
+190,191,37,M,3,unknown
+191,192,37,M,4,unknown
+192,193,40,M,2,technical degree
+193,194,36,F,4,unknown
+194,195,32,M,3,life sciences
+195,196,38,F,2,life sciences
+196,197,30,F,2,unknown
+197,198,39,M,1,unknown
+198,199,60,F,3,life sciences
+199,200,30,F,4,other
+200,201,31,M,1,unknown
+201,202,33,M,3,life sciences
+202,203,50,M,1,medical
+203,204,32,M,4,life sciences
+204,205,42,M,3,unknown
+205,206,49,F,3,marketing
+206,207,27,M,1,unknown
+207,208,33,M,3,medical
+208,209,52,F,4,unknown
+209,210,32,M,2,life sciences
+210,211,36,M,1,life sciences
+211,212,31,F,2,unknown
+212,213,36,M,4,medical
+213,214,52,M,2,life sciences
+214,215,33,M,3,unknown
+215,216,45,M,2,life sciences
+216,217,36,F,5,unknown
+217,218,49,M,4,unknown
+218,219,29,F,1,unknown
+219,220,29,F,1,unknown
+220,221,37,F,3,life sciences
+221,222,33,M,5,unknown
+222,223,34,F,3,medical
+223,224,28,F,3,unknown
+224,225,31,F,4,unknown
+225,226,42,M,1,life sciences
+226,227,40,M,3,life sciences
+227,228,34,F,2,medical
+228,229,58,F,3,unknown
+229,230,31,F,5,unknown
+230,231,40,M,1,unknown
+231,232,53,M,3,medical
+232,233,34,M,3,unknown
+233,234,35,F,3,life sciences
+234,235,37,M,3,unknown
+235,236,42,M,3,unknown
+236,237,45,M,4,unknown
+237,238,30,M,3,unknown
+238,239,38,M,3,life sciences
+239,240,50,M,5,medical
+240,241,39,M,2,unknown
+241,242,34,F,3,unknown
+242,243,54,F,5,unknown
+243,244,41,M,3,marketing
+244,245,39,M,3,life sciences
+245,246,40,M,4,unknown
+246,247,33,M,3,technical degree
+247,248,36,M,3,life sciences
+248,249,33,M,4,life sciences
+249,250,34,M,2,unknown
+250,251,29,M,1,medical
+251,252,46,M,2,life sciences
+252,253,27,F,1,medical
+253,254,31,M,3,life sciences
+254,255,45,F,2,life sciences
+255,256,34,M,3,marketing
+256,257,31,M,3,life sciences
+257,258,35,F,4,unknown
+258,259,39,M,4,marketing
+259,260,40,F,2,marketing
+260,261,30,M,2,medical
+261,262,47,F,1,unknown
+262,263,52,M,4,unknown
+263,264,49,M,1,unknown
+264,265,33,F,4,life sciences
+265,266,32,M,2,life sciences
+266,267,38,M,3,unknown
+267,268,36,M,3,medical
+268,269,42,M,4,unknown
+269,270,31,M,4,life sciences
+270,271,31,F,4,unknown
+271,272,51,M,4,marketing
+272,273,34,M,3,unknown
+273,274,36,F,2,technical degree
+274,275,30,M,3,unknown
+275,276,33,M,2,unknown
+276,277,31,M,4,life sciences
+277,278,41,M,1,unknown
+278,279,26,F,1,unknown
+279,280,32,M,2,unknown
+280,281,40,F,3,unknown
+281,282,53,M,2,marketing
+282,283,29,M,1,technical degree
+283,284,36,M,2,unknown
+284,285,33,F,3,unknown
+285,286,51,F,3,unknown
+286,287,27,F,3,medical
+287,288,37,M,3,life sciences
+288,289,38,M,3,unknown
+289,290,49,M,4,unknown
+290,291,27,F,3,life sciences
+291,292,45,F,3,medical
+292,293,35,F,3,unknown
+293,294,33,F,2,unknown
+294,295,52,M,4,life sciences
+295,296,40,M,2,medical
+296,297,38,M,2,life sciences
+297,298,46,F,3,unknown
+298,299,45,M,2,medical
+299,300,47,M,4,life sciences
+300,301,35,F,3,life sciences
+301,302,29,M,2,unknown
+302,303,55,M,2,technical degree
+303,304,26,M,4,unknown
+304,305,31,M,3,technical degree
+305,306,43,F,4,life sciences
+306,307,31,M,3,marketing
+307,308,32,F,4,medical
+308,309,33,M,3,unknown
+309,310,43,F,4,life sciences
+310,311,29,M,4,unknown
+311,312,27,F,4,unknown
+312,313,29,F,1,unknown
+313,314,37,M,3,medical
+314,315,26,M,3,unknown
+315,316,40,F,4,life sciences
+316,317,41,M,3,unknown
+317,318,51,F,2,unknown
+318,319,37,F,3,unknown
+319,320,56,F,3,life sciences
+320,321,41,M,3,marketing
+321,322,46,F,3,medical
+322,323,30,F,3,unknown
+323,324,35,M,3,life sciences
+324,325,48,F,5,unknown
+325,326,45,M,3,other
+326,327,26,F,4,life sciences
+327,328,41,F,4,other
+328,329,34,M,4,unknown
+329,330,31,M,4,medical
+330,331,43,M,5,unknown
+331,332,53,F,1,unknown
+332,333,37,M,3,other
+333,334,54,M,4,unknown
+334,335,38,F,4,marketing
+335,336,29,M,4,life sciences
+336,337,34,F,3,medical
+337,338,39,F,4,technical degree
+338,339,32,M,3,marketing
+339,340,38,F,4,life sciences
+340,341,27,F,2,life sciences
+341,342,32,F,2,life sciences
+342,343,47,M,4,marketing
+343,344,27,M,2,unknown
+344,345,41,M,3,unknown
+345,346,28,F,2,unknown
+346,347,36,F,3,unknown
+347,348,30,M,5,marketing
+348,349,56,M,3,unknown
+349,350,45,M,2,unknown
+350,351,36,M,4,unknown
+351,352,29,F,3,medical
+352,353,38,F,4,life sciences
+353,354,40,F,2,medical
+354,355,42,M,3,unknown
+355,356,36,F,3,other
+356,357,29,M,2,unknown
+357,358,55,M,1,medical
+358,359,28,F,4,unknown
+359,360,26,F,2,medical
+360,361,44,M,2,unknown
+361,362,41,F,4,life sciences
+362,363,31,M,4,unknown
+363,364,26,M,3,medical
+364,365,31,F,3,medical
+365,366,32,F,4,medical
+366,367,36,M,1,life sciences
+367,368,45,M,2,unknown
+368,369,39,M,5,unknown
+369,370,36,M,4,technical degree
+370,371,46,M,2,medical
+371,372,54,F,3,technical degree
+372,373,30,F,2,unknown
+373,374,26,M,2,medical
+374,375,55,M,4,medical
+375,376,50,F,3,life sciences
+376,377,32,F,4,unknown
+377,378,53,F,3,marketing
+378,379,40,M,3,unknown
+379,380,55,M,1,unknown
+380,381,28,M,2,unknown
+381,382,28,F,3,other
+382,383,35,M,3,technical degree
+383,384,33,F,4,medical
+384,385,25,M,1,technical degree
+385,386,38,M,4,unknown
+386,387,28,F,3,unknown
+387,388,43,F,3,life sciences
+388,389,39,M,3,life sciences
+389,390,40,M,3,unknown
+390,391,29,M,1,medical
+391,392,40,F,4,unknown
+392,393,26,M,4,unknown
+393,394,35,M,3,unknown
+394,395,53,F,2,medical
+395,396,35,M,4,life sciences
+396,397,33,F,3,medical
+397,398,36,M,4,life sciences
+398,399,30,M,4,life sciences
+399,400,60,M,4,unknown
+400,401,32,F,2,life sciences
+401,402,36,F,3,technical degree
+402,403,27,M,3,unknown
+403,404,43,M,3,life sciences
+404,405,29,F,3,unknown
+405,406,59,M,4,unknown
+406,407,43,F,4,marketing
+407,408,44,F,3,medical
+408,409,29,F,3,technical degree
+409,410,32,M,3,unknown
+410,411,36,F,4,technical degree
+411,412,52,M,3,unknown
+412,413,39,M,2,unknown
+413,414,34,M,3,unknown
+414,415,38,F,2,life sciences
+415,416,36,F,3,marketing
+416,417,35,F,3,unknown
+417,418,55,M,4,unknown
+418,419,34,M,3,unknown
+419,420,43,F,3,medical
+420,421,42,F,3,human resources
+421,422,26,M,3,unknown
+422,423,29,F,1,other
+423,424,54,F,3,unknown
+424,425,55,M,4,unknown
+425,426,40,M,4,other
+426,427,31,M,2,unknown
+427,428,46,M,3,marketing
+428,429,45,M,3,medical
+429,430,49,M,4,life sciences
+430,431,29,M,3,unknown
+431,432,29,M,4,technical degree
+432,433,29,F,1,other
+433,434,40,M,2,unknown
+434,435,48,F,4,life sciences
+435,436,53,F,5,unknown
+436,437,44,F,3,medical
+437,438,45,F,5,unknown
+438,439,45,M,3,marketing
+439,440,34,M,4,unknown
+440,441,39,M,5,medical
+441,442,27,M,3,unknown
+442,443,45,F,2,unknown
+443,444,44,M,5,unknown
+444,445,25,M,1,life sciences
+445,446,49,M,3,unknown
+446,447,48,F,2,unknown
+447,448,26,M,3,medical
+448,449,44,F,3,life sciences
+449,450,36,F,4,unknown
+450,451,46,M,4,unknown
+451,452,35,M,4,life sciences
+452,453,30,F,4,unknown
+453,454,30,M,2,marketing
+454,455,33,F,3,marketing
+455,456,32,M,4,unknown
+456,457,43,M,3,life sciences
+457,458,31,F,4,marketing
+458,459,35,M,3,unknown
+459,460,35,M,2,medical
+460,461,30,F,3,medical
+461,462,46,F,2,medical
+462,463,45,F,4,unknown
+463,464,43,M,4,life sciences
+464,465,46,F,3,life sciences
+465,466,40,M,4,unknown
+466,467,27,F,2,unknown
+467,468,42,M,3,medical
+468,469,26,M,3,other
+469,470,28,M,2,life sciences
+470,471,47,M,4,unknown
+471,472,34,M,4,medical
+472,473,26,M,3,medical
+473,474,27,M,3,unknown
+474,475,31,M,4,marketing
+475,476,33,M,2,life sciences
+476,477,31,F,3,unknown
+477,478,35,M,4,medical
+478,479,33,F,2,unknown
+479,480,39,M,1,life sciences
+480,481,36,F,3,unknown
+481,482,41,F,4,life sciences
+482,483,34,F,3,marketing
+483,484,38,F,2,unknown
+484,485,39,M,1,unknown
+485,486,34,F,4,unknown
+486,487,44,F,4,medical
+487,488,46,M,4,unknown
+488,489,41,M,3,life sciences
+489,490,39,F,4,unknown
+490,491,42,F,3,medical
+491,492,33,F,4,unknown
+492,493,35,M,4,technical degree
+493,494,33,M,1,medical
+494,495,40,F,3,life sciences
+495,496,41,M,4,human resources
+496,497,27,F,3,unknown
+497,498,52,M,4,marketing
+498,499,51,F,4,marketing
+499,500,47,F,2,marketing
+500,501,50,M,4,unknown
+501,502,35,F,1,life sciences
+502,503,39,F,1,unknown
+503,504,39,F,3,medical
+504,505,41,F,2,unknown
+505,506,44,M,2,medical
+506,507,42,M,2,medical
+507,508,52,M,4,life sciences
+508,509,38,M,3,unknown
+509,510,46,F,2,life sciences
+510,511,35,M,4,life sciences
+511,512,28,M,1,life sciences
+512,513,44,M,3,life sciences
+513,514,50,M,5,unknown
+514,515,55,M,5,marketing
+515,516,39,M,3,unknown
+516,517,49,F,4,unknown
+517,518,45,F,2,technical degree
+518,519,46,M,3,unknown
+519,520,27,F,3,unknown
+520,521,42,M,3,unknown
+521,522,49,M,3,unknown
+522,523,29,F,2,life sciences
+523,524,34,M,4,marketing
+524,525,37,M,4,unknown
+525,526,36,M,3,unknown
+526,527,45,M,3,unknown
+527,528,29,M,3,unknown
+528,529,26,F,3,unknown
+529,530,28,M,4,life sciences
+530,531,42,F,4,technical degree
+531,532,31,M,1,life sciences
+532,533,37,F,3,unknown
+533,534,37,M,4,unknown
+534,535,37,F,4,life sciences
+535,536,24,M,3,medical
+536,537,50,M,3,unknown
+537,538,34,M,2,life sciences
+538,539,27,F,1,medical
+539,540,25,F,1,unknown
+540,541,34,M,3,other
+541,542,34,F,4,unknown
+542,543,35,M,3,other
+543,544,35,F,1,medical
+544,545,33,F,4,unknown
+545,546,29,F,4,life sciences
+546,547,29,F,3,unknown
+547,548,34,F,1,life sciences
+548,549,28,M,4,medical
+549,550,44,F,1,life sciences
+550,551,31,M,2,unknown
+551,552,26,M,2,life sciences
+552,553,47,M,3,unknown
+553,554,37,M,2,unknown
+554,555,32,M,4,unknown
+555,556,32,M,3,medical
+556,557,33,F,3,life sciences
+557,558,47,M,3,unknown
+558,559,41,F,2,unknown
+559,560,35,M,3,medical
+560,561,29,M,3,life sciences
+561,562,32,M,3,life sciences
+562,563,35,M,3,medical
+563,564,56,M,3,unknown
+564,565,28,M,3,medical
+565,566,25,M,3,unknown
+566,567,56,F,4,life sciences
+567,568,26,F,3,unknown
+568,569,32,F,3,medical
+569,570,30,F,3,life sciences
+570,571,50,F,3,unknown
+571,572,32,M,5,life sciences
+572,573,45,F,2,unknown
+573,574,43,M,3,unknown
+574,575,29,F,3,marketing
+575,576,31,M,4,medical
+576,577,33,M,3,unknown
+577,578,31,M,2,unknown
+578,579,37,M,4,unknown
+579,580,50,M,1,unknown
+580,581,42,F,3,unknown
+581,582,27,M,3,unknown
+582,583,27,M,1,marketing
+583,584,41,M,3,unknown
+584,585,37,F,3,medical
+585,586,40,M,2,unknown
+586,587,55,F,3,unknown
+587,588,26,M,1,unknown
+588,589,40,F,2,marketing
+589,590,25,F,2,unknown
+590,591,30,F,3,unknown
+591,592,52,M,3,unknown
+592,593,42,F,2,unknown
+593,594,30,F,3,life sciences
+594,595,35,M,3,life sciences
+595,596,31,M,3,unknown
+596,597,35,F,3,unknown
+597,598,25,M,1,unknown
+598,599,32,F,4,unknown
+599,600,47,F,2,life sciences
+600,601,30,M,4,life sciences
+601,602,45,M,3,marketing
+602,603,36,M,3,life sciences
+603,604,31,M,4,unknown
+604,605,37,F,2,medical
+605,606,39,F,3,life sciences
+606,607,42,F,2,unknown
+607,608,30,M,2,unknown
+608,609,50,M,2,medical
+609,610,59,M,2,unknown
+610,611,54,F,4,life sciences
+611,612,56,F,3,medical
+612,613,48,M,4,unknown
+613,614,39,M,3,life sciences
+614,615,35,M,4,technical degree
+615,616,42,M,4,marketing
+616,617,44,M,4,unknown
+617,618,29,F,1,unknown
+618,619,33,M,3,human resources
+619,620,54,F,4,unknown
+620,621,46,F,2,unknown
+621,622,30,F,2,medical
+622,623,32,M,2,life sciences
+623,624,40,M,4,unknown
+624,625,34,F,1,unknown
+625,626,39,M,4,unknown
+626,627,37,M,1,unknown
+627,628,33,M,1,life sciences
+628,629,39,M,2,unknown
+629,630,52,F,4,other
+630,631,36,F,4,unknown
+631,632,36,M,4,life sciences
+632,633,24,F,1,unknown
+633,634,34,F,3,life sciences
+634,635,28,M,3,unknown
+635,636,33,F,4,medical
+636,637,47,F,3,medical
+637,638,40,M,4,life sciences
+638,639,45,M,3,technical degree
+639,640,40,M,2,unknown
+640,641,29,M,1,life sciences
+641,642,40,F,2,life sciences
+642,643,43,M,3,unknown
+643,644,30,M,3,unknown
+644,645,38,F,2,unknown
+645,646,37,F,3,unknown
+646,647,39,M,3,medical
+647,648,36,M,2,life sciences
+648,649,23,M,1,medical
+649,650,35,M,4,unknown
+650,651,31,F,1,technical degree
+651,652,38,F,2,other
+652,653,35,M,4,medical
+653,654,40,F,3,unknown
+654,655,27,F,2,unknown
+655,656,41,F,3,unknown
+656,657,33,M,4,marketing
+657,658,49,M,1,life sciences
+658,659,36,M,4,unknown
+659,660,41,M,3,life sciences
+660,661,29,F,4,medical
+661,662,31,M,3,medical
+662,663,36,M,4,life sciences
+663,664,43,F,2,medical
+664,665,33,F,3,life sciences
+665,666,44,F,5,marketing
+666,667,38,F,5,life sciences
+667,668,50,F,2,medical
+668,669,59,F,1,unknown
+669,670,40,M,4,life sciences
+670,671,54,F,4,technical degree
+671,672,50,F,3,unknown
+672,673,54,F,3,unknown
+673,674,24,M,1,life sciences
+674,675,37,M,3,life sciences
+675,676,30,M,1,unknown
+676,677,34,F,4,unknown
+677,678,57,M,2,unknown
+678,679,38,F,4,life sciences
+679,680,41,F,2,marketing
+680,681,42,F,2,unknown
+681,682,34,M,4,unknown
+682,683,30,F,4,unknown
+683,684,29,M,1,medical
+684,685,32,F,2,unknown
+685,686,25,M,2,life sciences
+686,687,53,M,4,unknown
+687,688,26,M,2,medical
+688,689,28,F,2,unknown
+689,690,28,M,2,medical
+690,691,58,M,4,life sciences
+691,692,27,F,3,unknown
+692,693,54,F,4,life sciences
+693,694,40,M,2,unknown
+694,695,29,M,3,life sciences
+695,696,50,M,3,unknown
+696,697,24,F,1,technical degree
+697,698,30,M,3,unknown
+698,699,34,M,4,unknown
+699,700,33,M,1,unknown
+700,701,36,M,4,medical
+701,702,41,M,2,unknown
+702,703,39,F,1,unknown
+703,704,26,M,2,marketing
+704,705,24,F,3,unknown
+705,706,27,F,4,unknown
+706,707,27,M,1,marketing
+707,708,50,M,2,technical degree
+708,709,23,M,1,unknown
+709,710,39,F,3,unknown
+710,711,52,M,4,medical
+711,712,26,M,3,unknown
+712,713,54,F,4,unknown
+713,714,37,F,1,life sciences
+714,715,50,M,3,unknown
+715,716,42,F,2,life sciences
+716,717,38,M,3,unknown
+717,718,25,M,1,medical
+718,719,32,F,2,unknown
+719,720,25,M,1,unknown
+720,721,42,F,3,unknown
+721,722,33,M,2,human resources
+722,723,29,F,1,medical
+723,724,38,F,3,unknown
+724,725,45,F,4,unknown
+725,726,31,F,1,unknown
+726,727,22,M,1,life sciences
+727,728,59,F,3,unknown
+728,729,45,F,2,unknown
+729,730,45,M,4,unknown
+730,731,37,F,3,unknown
+731,732,26,F,1,medical
+732,733,26,M,2,medical
+733,734,28,M,1,unknown
+734,735,24,M,3,medical
+735,736,30,M,3,marketing
+736,737,43,F,3,unknown
+737,738,30,M,4,life sciences
+738,739,46,M,4,technical degree
+739,740,42,M,5,unknown
+740,741,25,M,4,life sciences
+741,742,27,M,2,unknown
+742,743,56,M,4,life sciences
+743,744,41,F,3,marketing
+744,745,28,M,3,life sciences
+745,746,52,F,2,unknown
+746,747,26,M,1,medical
+747,748,49,M,2,unknown
+748,749,34,M,4,other
+749,750,32,M,5,marketing
+750,751,33,M,3,medical
+751,752,29,F,3,unknown
+752,753,30,M,3,life sciences
+753,754,23,M,1,life sciences
+754,755,33,M,3,unknown
+755,756,35,F,4,unknown
+756,757,38,M,4,unknown
+757,758,28,F,3,unknown
+758,759,37,M,3,life sciences
+759,760,24,F,1,technical degree
+760,761,36,M,3,unknown
+761,762,38,F,3,unknown
+762,763,53,M,4,medical
+763,764,37,M,4,unknown
+764,765,24,M,3,medical
+765,766,29,F,4,medical
+766,767,32,M,3,unknown
+767,768,42,M,3,medical
+768,769,41,M,4,life sciences
+769,770,44,M,2,unknown
+770,771,28,M,3,unknown
+771,772,39,M,1,medical
+772,773,40,F,2,life sciences
+773,774,37,M,4,unknown
+774,775,40,F,3,unknown
+775,776,26,M,3,unknown
+776,777,42,M,4,technical degree
+777,778,34,M,3,unknown
+778,779,37,M,4,medical
+779,780,27,M,4,technical degree
+780,781,35,M,4,unknown
+781,782,28,M,3,medical
+782,783,29,M,3,life sciences
+783,784,54,F,2,unknown
+784,785,24,M,2,life sciences
+785,786,38,M,4,unknown
+786,787,42,M,4,unknown
+787,788,41,M,3,life sciences
+788,789,25,F,2,unknown
+789,790,44,M,3,medical
+790,791,50,M,4,unknown
+791,792,36,F,4,marketing
+792,793,45,F,3,unknown
+793,794,40,F,4,unknown
+794,795,35,F,4,unknown
+795,796,29,M,2,other
+796,797,34,M,3,unknown
+797,798,27,M,1,unknown
+798,799,31,M,1,unknown
+799,800,34,M,2,unknown
+800,801,28,M,3,life sciences
+801,802,32,M,2,unknown
+802,803,38,M,3,life sciences
+803,804,24,F,2,unknown
+804,805,34,M,1,unknown
+805,806,32,F,1,unknown
+806,807,46,F,4,marketing
+807,808,44,M,4,other
+808,809,50,M,2,unknown
+809,810,35,F,3,marketing
+810,811,28,M,4,unknown
+811,812,26,F,3,unknown
+812,813,35,F,4,unknown
+813,814,35,M,3,medical
+814,815,37,M,4,medical
+815,816,46,M,2,medical
+816,817,34,M,2,medical
+817,818,51,M,4,unknown
+818,819,24,F,2,other
+819,820,44,M,3,unknown
+820,821,37,M,4,human resources
+821,822,59,F,4,human resources
+822,823,25,M,1,unknown
+823,824,43,F,3,medical
+824,825,50,F,3,unknown
+825,826,31,F,3,unknown
+826,827,36,M,2,medical
+827,828,51,M,4,unknown
+828,829,25,M,3,life sciences
+829,830,38,F,5,technical degree
+830,831,30,F,3,technical degree
+831,832,22,M,1,medical
+832,833,27,M,3,medical
+833,834,28,M,3,medical
+834,835,27,M,3,unknown
+835,836,56,F,3,life sciences
+836,837,38,F,2,unknown
+837,838,31,F,1,medical
+838,839,34,F,2,medical
+839,840,50,M,3,unknown
+840,841,53,F,2,unknown
+841,842,35,F,3,medical
+842,843,27,M,1,unknown
+843,844,40,M,2,unknown
+844,845,22,M,3,life sciences
+845,846,40,M,5,life sciences
+846,847,46,M,4,unknown
+847,848,30,F,3,technical degree
+848,849,29,M,3,unknown
+849,850,54,F,3,unknown
+850,851,33,F,4,unknown
+851,852,52,F,3,unknown
+852,853,59,M,2,medical
+853,854,32,M,3,unknown
+854,855,39,F,4,medical
+855,856,32,M,4,marketing
+856,857,31,M,4,medical
+857,858,33,F,4,life sciences
+858,859,45,M,4,life sciences
+859,860,42,F,2,unknown
+860,861,29,M,2,marketing
+861,862,25,F,3,unknown
+862,863,32,M,1,unknown
+863,864,28,M,3,unknown
+864,865,21,M,2,unknown
+865,866,37,F,4,medical
+866,867,38,M,4,life sciences
+867,868,26,M,4,medical
+868,869,49,F,4,life sciences
+869,870,31,F,3,unknown
+870,871,37,M,3,medical
+871,872,31,M,4,unknown
+872,873,31,M,3,human resources
+873,874,31,M,4,unknown
+874,875,52,M,4,medical
+875,876,28,M,4,medical
+876,877,47,M,5,unknown
+877,878,29,M,5,other
+878,879,37,M,2,medical
+879,880,23,M,1,unknown
+880,881,42,M,1,unknown
+881,882,30,F,2,unknown
+882,883,21,F,1,unknown
+883,884,57,M,4,medical
+884,885,21,M,2,unknown
+885,886,31,M,4,life sciences
+886,887,29,M,3,unknown
+887,888,27,M,2,unknown
+888,889,49,M,3,other
+889,890,36,F,3,unknown
+890,891,34,M,3,marketing
+891,892,24,F,4,marketing
+892,893,42,F,4,unknown
+893,894,54,M,2,medical
+894,895,34,F,4,unknown
+895,896,43,M,3,unknown
+896,897,43,F,4,other
+897,898,31,M,2,unknown
+898,899,25,M,3,medical
+899,900,45,M,2,life sciences
+900,901,52,F,2,life sciences
+901,902,34,F,2,unknown
+902,903,26,F,3,life sciences
+903,904,29,M,4,unknown
+904,905,29,F,5,technical degree
+905,906,46,M,3,life sciences
+906,907,46,F,3,marketing
+907,908,30,M,1,marketing
+908,909,34,F,3,unknown
+909,910,42,M,2,other
+910,911,22,M,1,technical degree
+911,912,29,M,3,technical degree
+912,913,46,F,1,medical
+913,914,32,M,4,other
+914,915,24,M,3,medical
+915,916,35,M,2,unknown
+916,917,42,F,4,life sciences
+917,918,48,F,4,unknown
+918,919,44,F,4,unknown
+919,920,34,F,3,unknown
+920,921,21,M,1,technical degree
+921,922,44,M,4,unknown
+922,923,22,M,1,medical
+923,924,26,F,3,unknown
+924,925,36,M,2,medical
+925,926,27,M,4,medical
+926,927,23,M,3,unknown
+927,928,25,M,3,life sciences
+928,929,48,M,1,unknown
+929,930,24,F,2,life sciences
+930,931,60,M,4,unknown
+931,932,50,M,4,marketing
+932,933,44,M,3,unknown
+933,934,47,F,3,unknown
+934,935,42,M,3,unknown
+935,936,43,M,3,life sciences
+936,937,40,F,1,unknown
+937,938,29,M,3,unknown
+938,939,53,M,3,unknown
+939,940,23,M,1,medical
+940,941,55,M,3,medical
+941,942,26,F,2,life sciences
+942,943,34,F,4,unknown
+943,944,27,M,1,marketing
+944,945,35,F,4,unknown
+945,946,30,M,3,unknown
+946,947,34,F,2,unknown
+947,948,52,F,4,life sciences
+948,949,33,F,3,marketing
+949,950,35,F,4,unknown
+950,951,28,M,4,unknown
+951,952,36,M,3,human resources
+952,953,34,F,4,unknown
+953,954,34,M,2,unknown
+954,955,44,M,3,unknown
+955,956,32,M,4,life sciences
+956,957,53,F,2,unknown
+957,958,22,M,2,life sciences
+958,959,44,M,4,life sciences
+959,960,35,F,4,life sciences
+960,961,25,M,1,unknown
+961,962,49,F,3,technical degree
+962,963,24,M,1,life sciences
+963,964,38,M,3,marketing
+964,965,29,F,3,medical
+965,966,43,F,3,life sciences
+966,967,28,M,4,medical
+967,968,20,F,3,unknown
+968,969,47,F,4,life sciences
+969,970,22,F,1,life sciences
+970,971,28,F,3,medical
+971,972,39,M,3,medical
+972,973,33,M,4,unknown
+973,974,36,M,4,other
+974,975,35,F,3,unknown
+975,976,31,M,2,medical
+976,977,33,F,1,life sciences
+977,978,27,F,4,unknown
+978,979,30,F,3,unknown
+979,980,24,F,1,medical
+980,981,35,M,4,other
+981,982,30,F,3,unknown
+982,983,48,M,3,unknown
+983,984,41,F,2,medical
+984,985,27,F,4,unknown
+985,986,35,M,3,other
+986,987,26,M,2,medical
+987,988,33,F,1,life sciences
+988,989,26,M,3,life sciences
+989,990,38,M,4,unknown
+990,991,46,M,4,medical
+991,992,20,F,3,marketing
+992,993,30,M,3,other
+993,994,27,M,5,unknown
+994,995,55,M,1,unknown
+995,996,33,M,3,life sciences
+996,997,28,M,2,life sciences
+997,998,34,M,1,life sciences
+998,999,33,M,3,medical
+999,1000,33,F,3,life sciences
+1000,1001,21,F,1,unknown
+1001,1002,31,M,3,unknown
+1002,1003,35,M,2,marketing
+1003,1004,34,M,2,unknown
+1004,1005,33,F,4,unknown
+1005,1006,31,M,3,medical
+1006,1007,37,F,2,unknown
+1007,1008,27,M,3,unknown
+1008,1009,35,M,4,other
+1009,1010,56,F,4,unknown
+1010,1011,45,F,3,medical
+1011,1012,20,M,3,unknown
+1012,1013,50,F,3,unknown
+1013,1014,46,M,2,life sciences
+1014,1015,32,F,3,other
+1015,1016,35,F,2,unknown
+1016,1017,29,F,3,life sciences
+1017,1018,21,F,2,unknown
+1018,1019,34,F,3,marketing
+1019,1020,28,M,4,medical
+1020,1021,35,M,1,life sciences
+1021,1022,28,M,3,life sciences
+1022,1023,28,M,3,technical degree
+1023,1024,25,F,3,medical
+1024,1025,58,M,4,life sciences
+1025,1026,39,M,3,medical
+1026,1027,30,F,3,technical degree
+1027,1028,50,F,3,life sciences
+1028,1029,41,M,2,medical
+1029,1030,31,F,3,unknown
+1030,1031,44,M,3,life sciences
+1031,1032,40,M,2,unknown
+1032,1033,25,M,1,medical
+1033,1034,40,M,4,life sciences
+1034,1035,51,F,2,technical degree
+1035,1036,27,M,1,life sciences
+1036,1037,35,F,4,marketing
+1037,1038,38,M,3,unknown
+1038,1039,31,M,4,unknown
+1039,1040,51,M,3,unknown
+1040,1041,41,F,3,unknown
+1041,1042,32,M,1,marketing
+1042,1043,25,M,1,life sciences
+1043,1044,27,F,3,marketing
+1044,1045,27,F,4,life sciences
+1045,1046,37,F,3,medical
+1046,1047,35,M,2,life sciences
+1047,1048,25,M,3,unknown
+1048,1049,30,F,4,marketing
+1049,1050,31,F,5,life sciences
+1050,1051,36,F,4,marketing
+1051,1052,25,M,2,unknown
+1052,1053,56,F,2,life sciences
+1053,1054,41,M,5,medical
+1054,1055,31,F,2,unknown
+1055,1056,31,M,3,life sciences
+1056,1057,48,M,3,marketing
+1057,1058,34,F,4,unknown
+1058,1059,44,M,3,life sciences
+1059,1060,49,M,4,unknown
+1060,1061,44,M,3,life sciences
+1061,1062,28,M,3,unknown
+1062,1063,44,M,1,unknown
+1063,1064,55,M,4,life sciences
+1064,1065,28,M,3,life sciences
+1065,1066,49,F,2,medical
+1066,1067,29,F,1,life sciences
+1067,1068,32,M,3,unknown
+1068,1069,31,F,3,life sciences
+1069,1070,40,M,2,life sciences
+1070,1071,36,M,4,life sciences
+1071,1072,33,M,4,life sciences
+1072,1073,30,M,4,unknown
+1073,1074,38,M,3,medical
+1074,1075,48,F,4,unknown
+1075,1076,34,M,4,unknown
+1076,1077,38,F,3,life sciences
+1077,1078,35,F,4,unknown
+1078,1079,23,M,3,unknown
+1079,1080,36,M,4,unknown
+1080,1081,34,M,4,unknown
+1081,1082,22,F,2,other
+1082,1083,32,F,4,unknown
+1083,1084,31,M,4,unknown
+1084,1085,36,F,4,life sciences
+1085,1086,21,M,1,medical
+1086,1087,47,F,4,unknown
+1087,1088,39,F,3,medical
+1088,1089,40,F,3,unknown
+1089,1090,48,M,5,unknown
+1090,1091,35,M,2,medical
+1091,1092,27,F,3,medical
+1092,1093,27,M,3,medical
+1093,1094,40,M,3,unknown
+1094,1095,29,M,3,unknown
+1095,1096,36,F,4,life sciences
+1096,1097,49,F,4,other
+1097,1098,20,F,3,medical
+1098,1099,36,F,4,unknown
+1099,1100,33,M,4,unknown
+1100,1101,49,F,3,medical
+1101,1102,47,F,4,life sciences
+1102,1103,20,M,1,unknown
+1103,1104,36,M,4,unknown
+1104,1105,44,F,3,unknown
+1105,1106,55,M,3,technical degree
+1106,1107,23,M,3,life sciences
+1107,1108,26,M,4,unknown
+1108,1109,32,M,3,unknown
+1109,1110,31,M,4,life sciences
+1110,1111,41,M,3,human resources
+1111,1112,24,M,1,medical
+1112,1113,36,M,5,marketing
+1113,1114,23,F,1,unknown
+1114,1115,24,M,3,medical
+1115,1116,30,F,3,unknown
+1116,1117,31,M,3,unknown
+1117,1118,27,F,3,unknown
+1118,1119,29,F,3,unknown
+1119,1120,29,M,3,unknown
+1120,1121,53,F,4,unknown
+1121,1122,34,F,2,unknown
+1122,1123,51,F,3,unknown
+1123,1124,37,M,2,marketing
+1124,1125,46,M,2,life sciences
+1125,1126,43,M,3,unknown
+1126,1127,41,M,3,unknown
+1127,1128,31,F,4,unknown
+1128,1129,28,F,3,medical
+1129,1130,38,F,4,unknown
+1130,1131,58,M,4,life sciences
+1131,1132,29,M,3,unknown
+1132,1133,47,F,4,life sciences
+1133,1134,28,M,2,life sciences
+1134,1135,32,M,4,marketing
+1135,1136,39,M,4,unknown
+1136,1137,55,M,4,unknown
+1137,1138,29,M,3,life sciences
+1138,1139,35,F,2,other
+1139,1140,34,M,4,technical degree
+1140,1141,56,M,2,unknown
+1141,1142,36,M,2,marketing
+1142,1143,31,F,2,unknown
+1143,1144,34,F,1,unknown
+1144,1145,31,F,3,unknown
+1145,1146,45,M,4,medical
+1146,1147,39,F,4,unknown
+1147,1148,38,M,2,unknown
+1148,1149,31,M,2,unknown
+1149,1150,53,M,4,life sciences
+1150,1151,38,M,4,other
+1151,1152,54,F,3,unknown
+1152,1153,23,M,2,unknown
+1153,1154,25,M,1,other
+1154,1155,31,M,2,life sciences
+1155,1156,35,M,4,medical
+1156,1157,22,M,2,unknown
+1157,1158,32,F,4,unknown
+1158,1159,32,M,4,unknown
+1159,1160,21,M,1,medical
+1160,1161,36,F,2,life sciences
+1161,1162,29,M,4,unknown
+1162,1163,32,M,3,technical degree
+1163,1164,40,M,4,unknown
+1164,1165,35,M,4,life sciences
+1165,1166,50,M,3,marketing
+1166,1167,26,F,3,other
+1167,1168,36,M,2,medical
+1168,1169,27,M,3,life sciences
+1169,1170,33,M,3,medical
+1170,1171,36,F,4,life sciences
+1171,1172,31,M,4,medical
+1172,1173,22,M,1,technical degree
+1173,1174,27,M,3,unknown
+1174,1175,33,M,3,life sciences
+1175,1176,36,F,1,unknown
+1176,1177,37,F,2,medical
+1177,1178,32,M,3,unknown
+1178,1179,51,M,3,medical
+1179,1180,49,F,2,technical degree
+1180,1181,35,M,4,unknown
+1181,1182,22,F,3,medical
+1182,1183,33,F,5,unknown
+1183,1184,31,M,4,medical
+1184,1185,45,F,4,unknown
+1185,1186,53,M,3,unknown
+1186,1187,34,F,2,unknown
+1187,1188,43,M,2,life sciences
+1188,1189,28,M,2,medical
+1189,1190,42,M,1,unknown
+1190,1191,27,F,3,unknown
+1191,1192,40,M,4,unknown
+1192,1193,37,M,4,life sciences
+1193,1194,29,F,3,technical degree
+1194,1195,38,M,1,unknown
+1195,1196,34,M,4,unknown
+1196,1197,34,F,4,life sciences
+1197,1198,50,M,4,medical
+1198,1199,26,M,3,unknown
+1199,1200,28,M,3,life sciences
+1200,1201,28,F,1,unknown
+1201,1202,40,F,2,medical
+1202,1203,19,M,2,unknown
+1203,1204,20,M,3,marketing
+1204,1205,40,F,3,unknown
+1205,1206,19,F,3,unknown
+1206,1207,59,F,3,unknown
+1207,1208,30,F,4,medical
+1208,1209,45,M,3,unknown
+1209,1210,40,M,3,unknown
+1210,1211,30,M,1,life sciences
+1211,1212,24,M,2,technical degree
+1212,1213,32,F,2,life sciences
+1213,1214,28,M,3,medical
+1214,1215,49,F,4,unknown
+1215,1216,38,F,2,medical
+1216,1217,46,M,4,unknown
+1217,1218,34,M,4,life sciences
+1218,1219,39,M,3,life sciences
+1219,1220,26,F,2,unknown
+1220,1221,54,F,4,medical
+1221,1222,36,M,1,unknown
+1222,1223,32,F,2,unknown
+1223,1224,32,F,4,unknown
+1224,1225,28,M,3,unknown
+1225,1226,33,M,2,medical
+1226,1227,37,M,2,unknown
+1227,1228,59,F,3,medical
+1228,1229,30,M,1,life sciences
+1229,1230,22,M,2,unknown
+1230,1231,21,M,2,unknown
+1231,1232,30,M,2,medical
+1232,1233,39,M,3,technical degree
+1233,1234,24,M,3,unknown
+1234,1235,35,M,2,other
+1235,1236,27,F,4,life sciences
+1236,1237,26,M,3,life sciences
+1237,1238,37,M,2,life sciences
+1238,1239,35,M,1,unknown
+1239,1240,48,M,2,unknown
+1240,1241,35,M,2,medical
+1241,1242,55,F,3,unknown
+1242,1243,45,M,3,life sciences
+1243,1244,36,M,3,medical
+1244,1245,36,F,3,life sciences
+1245,1246,45,M,4,other
+1246,1247,55,M,2,unknown
+1247,1248,23,M,1,technical degree
+1248,1249,32,M,1,life sciences
+1249,1250,20,F,3,life sciences
+1250,1251,37,M,2,life sciences
+1251,1252,22,F,3,unknown
+1252,1253,34,F,4,life sciences
+1253,1254,36,F,2,life sciences
+1254,1255,19,M,1,marketing
+1255,1256,41,M,4,life sciences
+1256,1257,19,F,1,unknown
+1257,1258,51,M,4,unknown
+1258,1259,58,F,3,unknown
+1259,1260,19,F,1,unknown
+1260,1261,19,M,3,life sciences
+1261,1262,35,M,2,unknown
+1262,1263,38,M,4,unknown
+1263,1264,38,M,1,medical
+1264,1265,41,F,3,life sciences
+1265,1266,59,M,3,life sciences
+1266,1267,50,F,4,medical
+1267,1268,41,M,2,life sciences
+1268,1269,45,M,3,unknown
+1269,1270,37,M,3,medical
+1270,1271,51,M,3,unknown
+1271,1272,28,M,4,life sciences
+1272,1273,29,M,3,medical
+1273,1274,31,M,3,medical
+1274,1275,38,F,2,medical
+1275,1276,44,M,3,life sciences
+1276,1277,36,M,3,technical degree
+1277,1278,18,M,3,unknown
+1278,1279,36,M,4,life sciences
+1279,1280,18,F,3,unknown
+1280,1281,39,F,2,unknown
+1281,1282,43,F,3,unknown
+1282,1283,47,M,1,medical
+1283,1284,42,F,5,unknown
+1284,1285,32,F,3,unknown
+1285,1286,48,F,1,medical
+1286,1287,42,M,4,unknown
+1287,1288,36,F,5,medical
+1288,1289,33,F,3,marketing
+1289,1290,46,F,4,medical
+1290,1291,21,F,3,life sciences
+1291,1292,30,M,1,technical degree
+1292,1293,30,M,3,unknown
+1293,1294,32,M,4,unknown
+1294,1295,40,F,3,unknown
+1295,1296,28,M,2,unknown
+1296,1297,38,M,2,unknown
+1297,1298,19,M,2,technical degree
+1298,1299,57,M,3,unknown
+1299,1300,47,F,2,medical
+1300,1301,54,F,4,life sciences
+1301,1302,31,M,3,unknown
+1302,1303,18,M,3,marketing
+1303,1304,40,M,3,other
+1304,1305,26,M,2,unknown
+1305,1306,26,M,3,unknown
+1306,1307,38,F,3,unknown
+1307,1308,24,M,2,other
+1308,1309,30,M,4,unknown
+1309,1310,37,M,3,marketing
+1310,1311,20,F,3,life sciences
+1311,1312,43,M,4,other
+1312,1313,38,F,1,life sciences
+1313,1314,33,M,4,marketing
+1314,1315,30,F,3,unknown
+1315,1316,29,F,2,medical
+1316,1317,20,M,1,medical
+1317,1318,35,M,3,unknown
+1318,1319,37,M,2,life sciences
+1319,1320,38,F,3,unknown
+1320,1321,29,M,3,unknown
+1321,1322,35,F,4,unknown
+1322,1323,38,M,5,medical
+1323,1324,34,F,5,life sciences
+1324,1325,23,M,3,life sciences
+1325,1326,24,M,3,life sciences
+1326,1327,29,F,2,life sciences
+1327,1328,40,M,4,medical
+1328,1329,30,F,3,unknown
+1329,1330,45,F,3,unknown
+1330,1331,27,M,3,medical
+1331,1332,37,M,4,marketing
+1332,1333,32,M,3,life sciences
+1333,1334,53,M,3,marketing
+1334,1335,37,M,2,unknown
+1335,1336,32,M,4,unknown
+1336,1337,58,M,1,unknown
+1337,1338,43,F,3,unknown
+1338,1339,21,F,1,other
+1339,1340,34,M,3,life sciences
+1340,1341,58,F,3,unknown
+1341,1342,48,M,4,medical
+1342,1343,32,F,3,life sciences
+1343,1344,25,M,2,marketing
+1344,1345,40,M,4,marketing
+1345,1346,19,M,3,other
+1346,1347,20,M,3,technical degree
+1347,1348,33,F,3,unknown
+1348,1349,58,M,3,unknown
+1349,1350,40,F,3,unknown
+1350,1351,29,F,3,unknown
+1351,1352,47,F,2,life sciences
+1352,1353,18,M,2,unknown
+1353,1354,20,F,3,medical
+1354,1355,42,M,2,unknown
+1355,1356,50,M,3,unknown
+1356,1357,37,F,2,medical
+1357,1358,38,M,4,life sciences
+1358,1359,36,M,3,unknown
+1359,1360,28,M,1,medical
+1360,1361,43,M,3,unknown
+1361,1362,21,F,3,unknown
+1362,1363,51,M,4,unknown
+1363,1364,37,F,4,unknown
+1364,1365,28,M,3,medical
+1365,1366,50,M,4,unknown
+1366,1367,34,M,4,unknown
+1367,1368,38,M,2,marketing
+1368,1369,42,M,3,unknown
+1369,1370,18,M,1,unknown
+1370,1371,41,M,4,unknown
+1371,1372,35,M,4,medical
+1372,1373,32,F,1,unknown
+1373,1374,22,M,4,life sciences
+1374,1375,44,M,3,unknown
+1375,1376,41,M,2,life sciences
+1376,1377,40,M,4,unknown
+1377,1378,24,F,2,life sciences
+1378,1379,42,F,5,medical
+1379,1380,49,M,2,medical
+1380,1381,48,M,2,technical degree
+1381,1382,29,M,3,unknown
+1382,1383,48,M,3,life sciences
+1383,1384,34,F,3,technical degree
+1384,1385,19,F,3,life sciences
+1385,1386,23,M,2,unknown
+1386,1387,25,M,1,unknown
+1387,1388,42,F,4,medical
+1388,1389,51,F,2,medical
+1389,1390,45,F,3,medical
+1390,1391,27,F,3,medical
+1391,1392,18,F,3,unknown
+1392,1393,31,F,3,unknown
+1393,1394,31,F,4,life sciences
+1394,1395,31,F,3,life sciences
+1395,1396,27,M,1,life sciences
+1396,1397,39,F,3,unknown
+1397,1398,44,F,5,marketing
+1398,1399,30,M,3,unknown
+1399,1400,35,M,1,life sciences
+1400,1401,24,M,3,unknown
+1401,1402,24,F,2,unknown
+1402,1403,28,M,2,medical
+1403,1404,28,M,3,life sciences
+1404,1405,33,M,5,unknown
+1405,1406,39,F,3,unknown
+1406,1407,42,M,3,medical
+1407,1408,29,M,3,unknown
+1408,1409,35,M,3,unknown
+1409,1410,35,F,3,unknown
+1410,1411,34,M,4,medical
+1411,1412,26,F,3,unknown
+1412,1413,36,F,4,life sciences
+1413,1414,50,M,3,marketing
+1414,1415,42,M,2,unknown
+1415,1416,35,M,2,life sciences
+1416,1417,46,M,4,life sciences
+1417,1418,18,F,2,medical
+1418,1419,29,M,3,unknown
+1419,1420,31,F,4,life sciences
+1420,1421,41,M,2,unknown
+1421,1422,38,F,2,unknown
+1422,1423,32,M,4,life sciences
+1423,1424,60,M,4,unknown
+1424,1425,24,M,1,unknown
+1425,1426,40,F,2,life sciences
+1426,1427,30,M,1,unknown
+1427,1428,47,M,4,marketing
+1428,1429,32,M,2,unknown
+1429,1430,45,F,3,life sciences
+1430,1431,34,M,4,unknown
+1431,1432,33,F,3,unknown
+1432,1433,31,M,4,unknown
+1433,1434,29,F,3,technical degree
+1434,1435,30,M,3,unknown
+1435,1436,38,M,3,medical
+1436,1437,43,M,3,technical degree
+1437,1438,55,M,3,unknown
+1438,1439,21,M,1,marketing
+1439,1440,22,F,1,medical
+1440,1441,37,M,2,other
+1441,1442,42,M,3,unknown
+1442,1443,18,F,3,unknown
+1443,1444,31,M,5,human resources
+1444,1445,36,F,4,unknown
+1445,1446,32,M,4,marketing
+1446,1447,29,M,1,life sciences
+1447,1448,42,M,3,unknown
+1448,1449,29,M,1,unknown
+1449,1450,29,M,2,unknown
+1450,1451,28,F,3,medical
+1451,1452,30,M,3,unknown
+1452,1453,22,M,1,life sciences
+1453,1454,26,F,2,life sciences
+1454,1455,44,M,4,unknown
+1455,1456,29,M,3,technical degree
+1456,1457,28,F,2,marketing
+1457,1458,56,F,5,unknown
+1458,1459,39,M,2,unknown
+1459,1460,58,F,3,unknown
+1460,1461,42,M,4,marketing
+1461,1462,27,F,3,unknown
+1462,1463,38,M,3,unknown
+1463,1464,32,M,4,life sciences
+1464,1465,31,F,1,medical
+1465,1466,25,F,3,unknown
+1466,1467,40,M,4,unknown
+1467,1468,39,M,3,unknown
+1468,1469,23,M,3,unknown
+1469,1470,35,F,4,life sciences
+1470,1471,34,M,2,technical degree
+1471,1472,28,M,3,medical
+1472,1473,29,M,3,life sciences
+1473,1474,58,F,4,medical
+1474,1475,38,M,3,life sciences
+1475,1476,29,F,1,unknown
+1476,1477,55,M,3,medical
+1477,1478,41,M,4,unknown
+1478,1479,39,M,3,unknown
+1479,1480,38,M,2,life sciences
+1480,1481,43,M,3,unknown
+1481,1482,31,F,2,unknown
+1482,1483,50,M,4,life sciences
+1483,1484,33,F,1,life sciences
+1484,1485,26,M,3,life sciences
+1485,1486,38,M,4,unknown
+1486,1487,46,M,4,medical
+1487,1488,21,F,1,unknown
+1488,1489,31,M,3,unknown
+1489,1490,35,M,2,marketing
+1490,1491,34,M,2,unknown
+1491,1492,33,F,4,unknown
+1492,1493,31,M,3,medical
+1493,1494,37,F,2,unknown
+1494,1495,27,M,3,unknown
+1495,1496,35,M,4,other
+1496,1497,56,F,4,unknown
+1497,1498,45,F,3,medical
+1498,1499,43,M,3,life sciences
+1499,1500,31,F,4,marketing
+1500,1501,35,M,3,unknown
+1501,1502,35,M,2,medical
+1502,1503,30,F,3,medical
+1503,1504,46,F,2,medical
+1504,1505,45,F,4,unknown
+1505,1506,43,M,4,life sciences
+1506,1507,46,F,3,life sciences
+1507,1508,40,M,4,unknown
+1508,1509,27,F,2,unknown
+1509,1510,42,M,3,medical
+1510,1511,26,M,3,other
+1511,1512,28,M,2,life sciences
+1512,1513,31,M,4,unknown
+1513,1514,31,M,3,human resources
+1514,1515,31,M,4,unknown
+1515,1516,52,M,4,medical
+1516,1517,28,M,4,medical
+1517,1518,47,M,5,unknown
+1518,1519,29,M,5,other
+1519,1520,37,M,2,medical
+1520,1521,23,M,1,unknown
+1521,1522,42,M,1,unknown
+1522,1523,30,F,2,unknown
+1523,1524,21,F,1,unknown
+1524,1525,57,M,4,medical
+1525,1526,21,M,2,unknown
+1526,1527,31,M,4,life sciences
+1527,1528,29,M,3,unknown
+1528,1529,27,M,2,unknown
+1529,1530,49,M,3,other
+1530,1531,36,F,3,unknown
+1531,1532,34,M,3,marketing
+1532,1533,24,F,4,marketing
+1533,1534,42,F,4,unknown
+1534,1535,54,M,2,medical
+1535,1536,34,F,4,unknown
+1536,1537,43,M,3,unknown
+1537,1538,43,F,4,other
+1538,1539,31,M,2,unknown
+1539,1540,25,M,3,medical
+1540,1541,45,M,2,life sciences
+1541,1542,45,M,2,medical
+1542,1543,47,M,4,life sciences
+1543,1544,35,F,3,life sciences
+1544,1545,29,M,2,unknown
+1545,1546,55,M,2,technical degree
+1546,1547,26,M,4,unknown
+1547,1548,31,M,3,technical degree
+1548,1549,43,F,4,life sciences
+1549,1550,31,M,3,marketing
+1550,1551,32,F,4,medical
+1551,1552,33,M,3,unknown
+1552,1553,43,F,4,life sciences
+1553,1554,29,M,4,unknown
+1554,1555,27,F,4,unknown
+1555,1556,29,F,1,unknown
+1556,1557,37,M,3,medical
+1557,1558,26,M,3,unknown
+1558,1559,40,F,4,life sciences
+1559,1560,41,M,3,unknown
+1560,1561,51,F,2,unknown
+1561,1562,37,F,3,unknown
+1562,1563,56,F,3,life sciences
+1563,1564,41,M,3,marketing
+1564,1565,46,F,3,medical
+1565,1566,30,F,3,unknown
+1566,1567,35,M,3,life sciences
+1567,1568,48,F,5,unknown
+1568,1569,45,M,3,other
+1569,1570,26,F,4,life sciences
+1570,1571,41,F,4,other
+1571,1572,34,M,4,unknown
+1572,1573,31,M,4,medical
+1573,1574,43,M,5,unknown
+1574,1575,53,F,1,unknown
+1575,1576,37,M,3,other
+1576,1577,54,M,4,unknown
+1577,1578,38,F,4,marketing
+1578,1579,29,M,4,life sciences
+1579,1580,34,F,3,medical
+1580,1581,39,F,4,technical degree
+1581,1582,32,M,3,marketing
+1582,1583,38,F,4,life sciences
+1583,1584,27,F,2,life sciences
+1584,1585,32,F,2,life sciences
+1585,1586,47,M,4,marketing
+1586,1587,27,M,2,unknown
+1587,1588,41,M,3,unknown
+1588,1589,28,F,2,unknown
+1589,1590,36,F,3,unknown
+1590,1591,30,M,5,marketing
+1591,1592,56,M,3,unknown
+1592,1593,45,M,2,unknown
+1593,1594,36,M,4,unknown
+1594,1595,29,F,3,medical
+1595,1596,38,F,4,life sciences
+1596,1597,40,F,2,medical
+1597,1598,42,M,3,unknown
+1598,1599,36,F,3,other
+1599,1600,29,M,2,unknown
+1600,1601,55,M,1,medical
+1601,1602,28,F,4,unknown
+1602,1603,26,F,2,medical
+1603,1604,44,M,2,unknown
+1604,1605,41,F,4,life sciences
+1605,1606,31,M,4,unknown
+1606,1607,26,M,3,medical
+1607,1608,31,F,3,medical
+1608,1609,32,F,4,medical
+1609,1610,36,M,1,life sciences
+1610,1611,45,M,2,unknown
+1611,1612,39,M,5,unknown
+1612,1613,36,M,4,technical degree
+1613,1614,46,M,2,medical

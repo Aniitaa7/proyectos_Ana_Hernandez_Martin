@@ -1,0 +1,1679 @@
+,attrition,businesstravel,department,educationfield,gender,jobrole,maritalstatus,over18,overtime,standardhours,roledepartament,remotework
+0,No,,,,M, research director ,,Yes,No,Full Time,,yes
+1,No,,,Life Sciences,M, manager ,,,,,,yes
+2,No,travel rarely, Research & Development ,Technical Degree,M, manager ,Married,,No,, manager  -  research & development ,yes
+3,No,travel rarely,,Medical,F, research director ,Married,Yes,,Full Time,,no
+4,No,,,Technical Degree,F, sales executive ,Divorced,Yes,No,,,no
+5,No,, Research & Development ,Medical,F, manager ,,,No,, manager  -  research & development ,yes
+6,No,,,Life Sciences,F, sales executive ,,Yes,,Part Time,,yes
+7,No,travel rarely,,,M, sales executive ,Married,,No,Part Time,,no
+8,No,,,,F, manager ,Married,,No,Full Time,,yes
+9,No,travel frequently,,,M, research director ,,,No,,,no
+10,No,non travel,,,F, research director ,,Yes,No,Full Time,,no
+11,No,travel rarely,,Life Sciences,M, manufacturing director ,Married,,Yes,Full Time,,no
+12,No,,,Medical,F, research director ,Married,Yes,No,Full Time,,yes
+13,Yes,travel rarely,,,F, research director ,Married,,No,Full Time,,no
+14,No,,,Medical,M, research director ,Single,,No,,,yes
+15,No,travel rarely,,,F, manager ,,,No,Full Time,,no
+16,Yes,travel rarely,,,M, research director ,Single,Yes,Yes,Full Time,,no
+17,No,travel rarely,,,F, manager ,,,,,,no
+18,No,,,Life Sciences,M, research scientist ,Married,,,,,no
+19,No,travel rarely,,Life Sciences,F, manufacturing director ,,Yes,,,,yes
+20,No,non travel, Research & Development ,,M, healthcare representative ,,Yes,,Full Time, healthcare representative  -  research & development ,no
+21,No,,,Life Sciences,F, research director ,Single,,Yes,Part Time,,yes
+22,No,,,,F, healthcare representative ,Divorced,Yes,,,,yes
+23,No,,,Other,F, manager ,Married,,,Full Time,,no
+24,No,travel rarely,,Life Sciences,M, sales executive ,,Yes,,Full Time,,yes
+25,No,,,Life Sciences,F, manufacturing director ,Married,Yes,Yes,Part Time,,no
+26,Yes,,,,F, manager ,Married,Yes,No,Full Time,,yes
+27,No,,,Life Sciences,F, manufacturing director ,Single,Yes,Yes,,,no
+28,No,travel rarely,,Life Sciences,M, laboratory technician ,Married,Yes,,Part Time,,yes
+29,No,non travel, Sales ,Life Sciences,M, sales executive ,,Yes,Yes,Part Time, sales executive  -  sales ,yes
+30,No,, Sales ,,F, sales executive ,Divorced,,,Full Time, sales executive  -  sales ,yes
+31,No,, Research & Development ,Medical,M, healthcare representative ,,,,, healthcare representative  -  research & development ,yes
+32,No,travel rarely,,,F, manager ,,,,Full Time,,yes
+33,No,,,Marketing,M, sales executive ,Single,Yes,No,Part Time,,no
+34,No,travel rarely,,Other,F, research scientist ,Single,Yes,,,,yes
+35,No,travel rarely,,,F, sales executive ,Divorced,,No,Part Time,,yes
+36,No,,,,F, manager ,Married,,,Full Time,,yes
+37,No,, Research & Development ,Life Sciences,M, laboratory technician ,Married,,,Full Time, laboratory technician  -  research & development ,yes
+38,No,travel frequently,,,F, sales executive ,Married,Yes,No,Full Time,,yes
+39,No,travel frequently,,,M, sales executive ,Married,,Yes,Full Time,,no
+40,No,travel rarely,,,F, manufacturing director ,Married,Yes,No,Full Time,,no
+41,No,travel rarely,,,M, laboratory technician ,Single,,Yes,Full Time,,yes
+42,No,,,Medical,M, manager ,Divorced,,No,Full Time,,no
+43,Yes,travel rarely,,,F, laboratory technician ,Single,Yes,,Part Time,,yes
+44,No,,,Life Sciences,F, research scientist ,Divorced,,Yes,Part Time,,no
+45,No,travel rarely,,,M, sales executive ,Married,,No,,,yes
+46,No,,,,F, healthcare representative ,Single,,,Part Time,,yes
+47,No,,,,M, manager ,Married,,Yes,Full Time,,yes
+48,No,,,Life Sciences,F, research scientist ,Single,,No,Part Time,,yes
+49,No,travel rarely,,Technical Degree,F, sales executive ,Married,,Yes,Part Time,,yes
+50,No,,,,F, research director ,Married,,,Part Time,,no
+51,No,,,Life Sciences,F, manager ,,,No,Full Time,,yes
+52,Yes,travel rarely,,Medical,M, sales executive ,Married,,,,,no
+53,No,,,Medical,F, manager ,Married,,No,,,yes
+54,No,non travel,,Life Sciences,M, healthcare representative ,Divorced,Yes,No,,,yes
+55,No,non travel,,Marketing,M, sales executive ,Divorced,Yes,No,Full Time,,yes
+56,No,,,Medical,F, research scientist ,,Yes,,Part Time,,yes
+57,No,,,Medical,F, manufacturing director ,,,No,Part Time,,no
+58,No,travel rarely,,Life Sciences,F, sales executive ,Married,,,Full Time,,yes
+59,No,,,,M, sales executive ,Married,Yes,No,Full Time,,yes
+60,No,,,,M, laboratory technician ,Single,Yes,No,Full Time,,yes
+61,No,,,,F, research scientist ,Married,Yes,Yes,,,no
+62,No,,,,M, research scientist ,,Yes,,Full Time,,yes
+63,No,travel frequently,,Life Sciences,M, healthcare representative ,Divorced,,No,Part Time,,no
+64,No,travel rarely, Research & Development ,,M, manufacturing director ,Married,,Yes,Full Time, manufacturing director  -  research & development ,no
+65,No,travel rarely,,,M, healthcare representative ,Single,,,Part Time,,yes
+66,No,travel rarely, Sales ,,F, sales executive ,Married,,,, sales executive  -  sales ,yes
+67,No,travel rarely,,,M, research scientist ,Single,Yes,,Part Time,,yes
+68,No,,,,F, healthcare representative ,,,No,Part Time,,yes
+69,No,travel rarely,,,F, healthcare representative ,Single,,,Full Time,,yes
+70,No,non travel, Research & Development ,,F, healthcare representative ,,,,Part Time, healthcare representative  -  research & development ,yes
+71,No,,,Life Sciences,F, research director ,,,No,Part Time,,no
+72,No,,,Life Sciences,F, healthcare representative ,,,,Full Time,,yes
+73,No,travel frequently,,Life Sciences,M, research scientist ,,Yes,No,Part Time,,yes
+74,No,,,,M, laboratory technician ,,,No,Part Time,,yes
+75,No,travel rarely,,Life Sciences,F, manufacturing director ,Divorced,,Yes,Part Time,,yes
+76,No,, Research & Development ,,F, research scientist ,Divorced,,,, research scientist  -  research & development ,no
+77,No,travel rarely,,Life Sciences,F, research director ,,,Yes,Part Time,,yes
+78,No,,,,M, healthcare representative ,Married,,No,Part Time,,yes
+79,No,travel rarely,,,M, sales executive ,Single,,,Full Time,,yes
+80,No,travel rarely,,,F, manager ,Single,,,,,no
+81,Yes,travel rarely,,Medical,F, healthcare representative ,Married,,,Part Time,,yes
+82,No,,,Life Sciences,M, sales executive ,Divorced,Yes,,,,yes
+83,No,travel frequently,,,F, sales executive ,Married,Yes,,Part Time,,yes
+84,No,travel rarely,,Medical,M, manager ,Single,Yes,,Full Time,,yes
+85,No,,,,M, manager ,,,,,,yes
+86,No,travel rarely, Research & Development ,,M, healthcare representative ,,,No,Part Time, healthcare representative  -  research & development ,no
+87,No,,,Life Sciences,M, research director ,,,,Full Time,,yes
+88,No,,,,M, research director ,,,No,Full Time,,yes
+89,No,,,,F, manufacturing director ,Married,,No,,,yes
+90,No,travel rarely, Research & Development ,Life Sciences,M, manager ,,Yes,No,Full Time, manager  -  research & development ,yes
+91,No,,,Technical Degree,M, manufacturing director ,Married,Yes,No,Part Time,,no
+92,No,,,,M, manufacturing director ,,,Yes,,,yes
+93,No,, Research & Development ,,F, healthcare representative ,Divorced,,Yes,Part Time, healthcare representative  -  research & development ,yes
+94,No,travel rarely,,,M, healthcare representative ,Married,Yes,,Part Time,,yes
+95,No,, Sales ,Life Sciences,F, sales executive ,Married,Yes,,Part Time, sales executive  -  sales ,no
+96,No,, Research & Development ,Medical,M, research scientist ,Married,Yes,,, research scientist  -  research & development ,no
+97,No,travel frequently,,,M, research scientist ,Married,Yes,No,Full Time,,no
+98,Yes,,,Marketing,F, manager ,,,Yes,Full Time,,yes
+99,No,travel frequently,,,M, manager ,,,Yes,Full Time,,no
+100,No,travel rarely,,Technical Degree,M, sales representative ,,,Yes,Part Time,,no
+101,No,travel rarely, Research & Development ,,M, research director ,,,No,Full Time, research director  -  research & development ,yes
+102,No,,,Medical,M, laboratory technician ,,Yes,No,Part Time,,no
+103,No,,,,M, human resources ,Divorced,,No,Part Time,,yes
+104,No,,,,M, research director ,,Yes,No,Full Time,,no
+105,No,, Research & Development ,Other,M, research scientist ,Married,,Yes,Full Time, research scientist  -  research & development ,no
+106,No,travel rarely,,,F, sales executive ,,Yes,No,Full Time,,yes
+107,No,travel rarely,,Life Sciences,F, manufacturing director ,Divorced,Yes,No,,,no
+108,No,,,Medical,M, healthcare representative ,Married,,Yes,,,no
+109,No,, Human Resources ,,M, human resources ,Married,,Yes,Full Time, human resources  -  human resources ,no
+110,No,,,Life Sciences,M, laboratory technician ,,Yes,No,Part Time,,yes
+111,No,travel rarely,,,F, sales executive ,,Yes,No,Part Time,,yes
+112,No,,,,M, laboratory technician ,,Yes,No,Part Time,,yes
+113,No,travel frequently,,,M, manufacturing director ,Married,,,,,no
+114,No,travel rarely,,Life Sciences,M, research director ,Married,,No,Full Time,,no
+115,No,,,Life Sciences,M, manufacturing director ,,,,Part Time,,yes
+116,No,travel rarely,,,M, sales executive ,Married,Yes,,Part Time,,yes
+117,No,travel frequently,,Life Sciences,M, laboratory technician ,,Yes,,Part Time,,yes
+118,No,,,,M, manager ,Married,,,Full Time,,yes
+119,No,,,,F, manufacturing director ,Married,,No,Part Time,,no
+120,No,, Research & Development ,,M, manager ,Married,Yes,,Full Time, manager  -  research & development ,yes
+121,No,travel rarely,,,M, research scientist ,,Yes,No,Part Time,,yes
+122,No,travel rarely, Sales ,Marketing,F, sales executive ,,,,, sales executive  -  sales ,yes
+123,No,,,Medical,F, manufacturing director ,,Yes,,Part Time,,no
+124,No,,,Medical,M, sales executive ,Married,Yes,No,Part Time,,yes
+125,No,travel rarely,,,M, sales executive ,Married,,,Part Time,,yes
+126,No,travel rarely,,,F, manager ,Single,Yes,No,Full Time,,yes
+127,No,,,,M, sales executive ,,Yes,,Part Time,,yes
+128,No,travel rarely,,Medical,M, manufacturing director ,Married,,,Part Time,,no
+129,No,travel rarely,,,M, research scientist ,Divorced,Yes,Yes,Full Time,,yes
+130,No,,,Life Sciences,M, research director ,,,Yes,Full Time,,yes
+131,No,travel rarely, Research & Development ,,M, research scientist ,Married,,No,Part Time, research scientist  -  research & development ,yes
+132,Yes,travel rarely,,Other,M, research scientist ,Single,Yes,,Part Time,,no
+133,No,, Research & Development ,Medical,M, research director ,Married,,No,, research director  -  research & development ,yes
+134,No,travel rarely,,,F, research director ,,Yes,No,Full Time,,yes
+135,No,travel rarely,,Other,F, laboratory technician ,Married,,,Part Time,,no
+136,No,,,,M, sales executive ,,Yes,,Part Time,,no
+137,No,travel rarely,,Life Sciences,F, healthcare representative ,Married,,,Part Time,,no
+138,No,, Sales ,Marketing,M, manager ,Married,Yes,No,Full Time, manager  -  sales ,no
+139,No,non travel,,,M, manufacturing director ,Single,Yes,,Part Time,,no
+140,Yes,travel frequently,,Life Sciences,M, sales executive ,Single,,,Full Time,,yes
+141,No,travel frequently,,,M, healthcare representative ,Single,,No,,,yes
+142,No,travel rarely, Research & Development ,Medical,M, research scientist ,,,Yes,, research scientist  -  research & development ,yes
+143,No,travel rarely,,Life Sciences,M, research director ,Married,,No,Full Time,,yes
+144,No,travel rarely,,Medical,F, healthcare representative ,Single,,No,Part Time,,no
+145,No,,,,M, manager ,Married,,No,Full Time,,yes
+146,No,non travel,,,M, healthcare representative ,Divorced,Yes,Yes,Full Time,,no
+147,No,travel rarely,,Life Sciences,M, manager ,Divorced,Yes,No,Full Time,,no
+148,No,travel frequently, Human Resources ,Life Sciences,M, human resources ,,Yes,No,, human resources  -  human resources ,yes
+149,No,,,,F, manager ,Divorced,,Yes,Full Time,,no
+150,No,travel rarely,,Medical,F, manager ,,Yes,,Full Time,,yes
+151,No,,,Life Sciences,M, manager ,,Yes,,Full Time,,yes
+152,Yes,,,Medical,F, manufacturing director ,,Yes,,,,yes
+153,No,,,Life Sciences,M, manufacturing director ,Single,Yes,No,Part Time,,yes
+154,No,travel rarely, Human Resources ,,M, human resources ,Single,Yes,,Part Time, human resources  -  human resources ,no
+155,No,,,Other,M, sales executive ,Single,,No,Part Time,,yes
+156,No,travel frequently,,,F, laboratory technician ,,,,,,yes
+157,No,travel rarely,,Life Sciences,M, research scientist ,Married,,No,Part Time,,yes
+158,Yes,travel rarely,,,F, sales executive ,Single,Yes,Yes,Part Time,,no
+159,No,travel frequently,,Medical,F, manager ,,Yes,No,,,yes
+160,No,travel rarely,,,M, sales executive ,,Yes,,Part Time,,no
+161,No,,,Medical,M, laboratory technician ,Single,,,,,yes
+162,No,travel rarely,,Life Sciences,M, laboratory technician ,,,,Part Time,,yes
+163,Yes,,,Other,M, sales executive ,,,,Part Time,,yes
+164,No,travel rarely,,Life Sciences,F, research scientist ,Married,,No,Full Time,,yes
+165,No,,,,M, sales executive ,,Yes,Yes,Part Time,,no
+166,No,non travel,,Medical,M, manager ,Divorced,,No,Full Time,,yes
+167,No,travel rarely, Sales ,,F, sales executive ,,,Yes,Part Time, sales executive  -  sales ,no
+168,No,travel rarely,,Life Sciences,M, healthcare representative ,Married,Yes,,Part Time,,yes
+169,No,,,Human Resources,M, manager ,Married,,Yes,Full Time,,yes
+170,No,, Research & Development ,,M, research scientist ,Single,Yes,,, research scientist  -  research & development ,yes
+171,No,,,Technical Degree,F, laboratory technician ,Married,,,,,yes
+172,Yes,, Research & Development ,Technical Degree,M, laboratory technician ,Married,Yes,No,Part Time, laboratory technician  -  research & development ,yes
+173,No,travel rarely,,Marketing,F, sales executive ,,Yes,,Full Time,,yes
+174,No,travel rarely,,Life Sciences,F, manager ,Married,,No,Full Time,,yes
+175,No,travel frequently,,,M, sales executive ,Single,Yes,No,,,no
+176,No,travel frequently,,,F, laboratory technician ,,,,Part Time,,yes
+177,No,,,Life Sciences,M, sales executive ,Married,Yes,,,,yes
+178,No,travel rarely, Research & Development ,Medical,M, manufacturing director ,Married,,Yes,, manufacturing director  -  research & development ,yes
+179,No,travel rarely,,Life Sciences,M, laboratory technician ,Married,,,Part Time,,no
+180,Yes,, Sales ,Medical,M, sales executive ,,,No,Part Time, sales executive  -  sales ,no
+181,No,travel rarely,,,F, sales executive ,,,Yes,Part Time,,no
+182,No,,,,M, sales executive ,Single,Yes,No,,,yes
+183,No,travel rarely,,Marketing,M, sales executive ,Married,Yes,,Part Time,,no
+184,No,,,Marketing,F, sales executive ,Single,Yes,,Part Time,,yes
+185,No,travel rarely, Research & Development ,Life Sciences,M, research scientist ,Divorced,Yes,No,Part Time, research scientist  -  research & development ,yes
+186,No,travel rarely,,Medical,F, manager ,,,No,Full Time,,no
+187,No,,,,M, manager ,Married,Yes,No,,,yes
+188,Yes,travel rarely,,,M, sales executive ,Married,,No,Full Time,,no
+189,No,non travel, Research & Development ,Life Sciences,M, manufacturing director ,,,No,Part Time, manufacturing director  -  research & development ,yes
+190,No,,,,M, research director ,,,,Part Time,,yes
+191,No,,,,M, sales representative ,Divorced,,No,,,no
+192,No,,,Technical Degree,M, research scientist ,,Yes,No,,,no
+193,No,non travel,,,F, laboratory technician ,Married,,,Full Time,,yes
+194,No,travel rarely,,Life Sciences,M, sales executive ,Married,Yes,,Part Time,,yes
+195,No,,,Life Sciences,F, research director ,,Yes,,Part Time,,yes
+196,No,travel rarely,,,F, research scientist ,Married,,No,Part Time,,yes
+197,No,,,,M, manager ,,,,Full Time,,yes
+198,No,,,Life Sciences,F, manager ,,,No,Full Time,,yes
+199,No,,,Other,F, sales executive ,,,,Part Time,,yes
+200,No,travel rarely, Research & Development ,,M, manufacturing director ,Divorced,Yes,No,Part Time, manufacturing director  -  research & development ,yes
+201,Yes,,,Life Sciences,M, research scientist ,Single,Yes,Yes,Full Time,,no
+202,No,,,Medical,M, laboratory technician ,Married,Yes,Yes,,,yes
+203,No,, Research & Development ,Life Sciences,M, laboratory technician ,,,No,Part Time, laboratory technician  -  research & development ,yes
+204,No,,,,M, manufacturing director ,,,,,,yes
+205,Yes,, Sales ,Marketing,F, sales executive ,Married,,No,Part Time, sales executive  -  sales ,no
+206,No,,,,M, research director ,Divorced,,,Full Time,,yes
+207,No,travel rarely,,Medical,M, sales executive ,Divorced,Yes,,Part Time,,yes
+208,No,, Research & Development ,,F, manufacturing director ,Married,Yes,No,Full Time, manufacturing director  -  research & development ,no
+209,No,,,Life Sciences,M, sales executive ,,,No,Part Time,,yes
+210,No,,,Life Sciences,M, healthcare representative ,,Yes,,Full Time,,no
+211,No,non travel, Sales ,,F, sales executive ,,,,, sales executive  -  sales ,no
+212,No,travel rarely,,Medical,M, laboratory technician ,Single,Yes,No,Part Time,,yes
+213,No,,,Life Sciences,M, manager ,Married,,,Full Time,,yes
+214,No,non travel,,,M, manager ,Single,,,Full Time,,no
+215,No,non travel,,Life Sciences,M, laboratory technician ,,,Yes,Part Time,,yes
+216,No,travel rarely, Research & Development ,,F, manufacturing director ,,Yes,,Part Time, manufacturing director  -  research & development ,yes
+217,No,,,,M, sales executive ,,Yes,,Full Time,,no
+218,Yes,,,,F, sales executive ,,Yes,,Part Time,,yes
+219,No,,,,F, laboratory technician ,Married,,,,,no
+220,No,, Research & Development ,Life Sciences,F, manufacturing director ,Married,Yes,,Part Time, manufacturing director  -  research & development ,yes
+221,No,travel rarely,,,M, sales executive ,,Yes,,Part Time,,yes
+222,No,travel frequently,,Medical,F, laboratory technician ,Divorced,,No,Part Time,,yes
+223,No,non travel,,,F, laboratory technician ,Married,,No,,,yes
+224,No,non travel,,,F, sales executive ,,,Yes,Part Time,,yes
+225,No,non travel,,Life Sciences,M, manager ,,,Yes,Full Time,,no
+226,No,travel rarely,,Life Sciences,M, research scientist ,Single,,,Part Time,,yes
+227,No,,,Medical,F, sales executive ,Single,Yes,,,,yes
+228,No,travel rarely,,,F, research director ,,Yes,,Full Time,,no
+229,Yes,travel frequently,,,F, manufacturing director ,,Yes,,,,yes
+230,No,non travel,,,M, research director ,,,No,Full Time,,yes
+231,No,,,Medical,M, research director ,Single,,No,Full Time,,yes
+232,No,, Research & Development ,,M, research director ,,Yes,,Full Time, research director  -  research & development ,yes
+233,No,travel rarely,,Life Sciences,F, healthcare representative ,Single,,No,,,yes
+234,No,,,,M, research scientist ,Married,,,Part Time,,yes
+235,No,travel frequently,,,M, healthcare representative ,,,Yes,Full Time,,yes
+236,No,,,,M, healthcare representative ,Divorced,,,Part Time,,yes
+237,Yes,travel rarely,,,M, sales executive ,Married,,No,Full Time,,yes
+238,No,travel rarely,,Life Sciences,M, sales executive ,Married,,,Full Time,,yes
+239,No,,,Medical,M, healthcare representative ,,,,Full Time,,no
+240,No,travel rarely,,,M, laboratory technician ,,,,,,yes
+241,No,travel rarely,,,F, research scientist ,,Yes,No,Part Time,,yes
+242,No,travel rarely, Research & Development ,,F, manager ,,Yes,,Full Time, manager  -  research & development ,yes
+243,No,travel rarely,,Marketing,M, sales executive ,,Yes,No,Part Time,,no
+244,No,,,Life Sciences,M, laboratory technician ,Married,Yes,,Full Time,,yes
+245,No,travel rarely,,,M, manager ,,,No,Full Time,,no
+246,No,,,Technical Degree,M, research scientist ,,,No,Part Time,,yes
+247,No,,,Life Sciences,M, healthcare representative ,,Yes,,Part Time,,no
+248,No,,,Life Sciences,M, research scientist ,Married,Yes,No,Full Time,,yes
+249,No,travel rarely,,,M, sales executive ,,,No,,,no
+250,No,travel frequently, Research & Development ,Medical,M, laboratory technician ,Married,Yes,No,Part Time, laboratory technician  -  research & development ,no
+251,No,travel rarely,,Life Sciences,M, manufacturing director ,Divorced,,,Part Time,,yes
+252,No,travel rarely,,Medical,F, sales representative ,Married,Yes,No,Part Time,,no
+253,No,,,Life Sciences,M, laboratory technician ,Divorced,Yes,No,,,no
+254,No,travel rarely, Research & Development ,Life Sciences,F, manufacturing director ,,Yes,No,, manufacturing director  -  research & development ,yes
+255,No,travel rarely,,Marketing,M, sales executive ,,Yes,No,Part Time,,no
+256,No,, Research & Development ,Life Sciences,M, research scientist ,Married,Yes,,Part Time, research scientist  -  research & development ,yes
+257,No,,,,F, sales executive ,,Yes,Yes,Part Time,,no
+258,No,travel rarely,,Marketing,M, sales executive ,Single,Yes,No,Full Time,,no
+259,No,travel rarely,,Marketing,F, sales executive ,Married,,No,,,yes
+260,No,travel rarely,,Medical,M, laboratory technician ,Married,,No,,,no
+261,No,, Research & Development ,,F, research director ,Married,Yes,No,Part Time, research director  -  research & development ,yes
+262,No,non travel,,,M, sales representative ,Divorced,Yes,,Part Time,,yes
+263,No,travel frequently,,,M, research scientist ,Married,Yes,No,Part Time,,yes
+264,No,travel frequently,,Life Sciences,F, research scientist ,,,,Full Time,,yes
+265,No,,,Life Sciences,M, laboratory technician ,,,,Part Time,,yes
+266,No,travel frequently, Research & Development ,,M, manufacturing director ,,,No,Part Time, manufacturing director  -  research & development ,yes
+267,No,travel rarely, Research & Development ,Medical,M, healthcare representative ,,Yes,,Part Time, healthcare representative  -  research & development ,yes
+268,No,,,,M, sales executive ,,Yes,,,,no
+269,No,, Research & Development ,Life Sciences,M, laboratory technician ,Divorced,Yes,No,Part Time, laboratory technician  -  research & development ,no
+270,No,travel rarely,,,F, manufacturing director ,Single,Yes,No,Part Time,,no
+271,No,,,Marketing,M, sales executive ,,Yes,,,,yes
+272,Yes,travel frequently,,,M, laboratory technician ,,,Yes,Full Time,,yes
+273,No,,,Technical Degree,F, sales executive ,,Yes,No,Part Time,,no
+274,No,travel frequently,,,M, research scientist ,Divorced,,No,Part Time,,no
+275,No,non travel,,,M, sales executive ,,,,Full Time,,yes
+276,Yes,,,Life Sciences,M, sales executive ,Married,Yes,,Full Time,,no
+277,No,travel rarely,,,M, sales executive ,Divorced,,Yes,Part Time,,no
+278,No,travel rarely,,,F, human resources ,,Yes,,,,yes
+279,No,,,,M, sales executive ,Divorced,Yes,No,Part Time,,yes
+280,No,travel frequently,,,F, research scientist ,Divorced,Yes,No,Full Time,,no
+281,No,travel rarely, Sales ,Marketing,M, sales representative ,,Yes,Yes,Part Time, sales representative  -  sales ,yes
+282,No,non travel, Research & Development ,Technical Degree,M, manufacturing director ,Married,Yes,,Part Time, manufacturing director  -  research & development ,no
+283,No,travel frequently, Research & Development ,,M, laboratory technician ,,Yes,No,Part Time, laboratory technician  -  research & development ,yes
+284,No,travel rarely, Research & Development ,,F, research scientist ,,Yes,,Part Time, research scientist  -  research & development ,yes
+285,No,travel rarely,,,F, healthcare representative ,Single,,,Full Time,,no
+286,No,travel rarely,,Medical,F, research scientist ,Single,,No,Part Time,,no
+287,No,,,Life Sciences,M, research scientist ,,Yes,Yes,Full Time,,yes
+288,No,,,,M, manufacturing director ,Married,Yes,No,Full Time,,yes
+289,No,non travel,,,M, manufacturing director ,Divorced,,Yes,Full Time,,no
+290,No,,,Life Sciences,F, sales executive ,Single,,,Part Time,,no
+291,No,, Sales ,Medical,F, sales executive ,Single,Yes,,Part Time, sales executive  -  sales ,yes
+292,No,,,,F, sales executive ,Single,Yes,No,Part Time,,yes
+293,Yes,travel rarely,,,F, laboratory technician ,,,No,Part Time,,yes
+294,No,,,Life Sciences,M, manager ,,,Yes,Full Time,,yes
+295,No,, Research & Development ,Medical,M, research director ,,,No,Full Time, research director  -  research & development ,yes
+296,No,non travel, Sales ,Life Sciences,M, sales executive ,,,No,Part Time, sales executive  -  sales ,yes
+297,No,,,,F, manager ,,,Yes,Full Time,,no
+298,No,travel rarely,,Medical,M, healthcare representative ,Married,Yes,Yes,,,yes
+299,Yes,non travel,,Life Sciences,M, manager ,Married,,,,,yes
+300,No,,,Life Sciences,F, manager ,Divorced,Yes,,Part Time,,no
+301,No,travel frequently,,,M, sales executive ,Single,Yes,,Part Time,,yes
+302,No,travel rarely, Research & Development ,Technical Degree,M, laboratory technician ,Married,Yes,,Part Time, laboratory technician  -  research & development ,yes
+303,Yes,travel rarely,,,M, sales executive ,Single,,,,,yes
+304,No,travel rarely,,Technical Degree,M, sales executive ,,,,Part Time,,yes
+305,No,travel frequently,,Life Sciences,F, laboratory technician ,,Yes,No,Part Time,,yes
+306,No,travel rarely,,Marketing,M, sales executive ,,Yes,,Part Time,,yes
+307,No,,,Medical,F, research scientist ,Single,Yes,,Part Time,,yes
+308,No,,,,M, sales executive ,,,No,,,no
+309,No,travel frequently, Research & Development ,Life Sciences,F, laboratory technician ,Divorced,Yes,No,Part Time, laboratory technician  -  research & development ,no
+310,Yes,travel rarely,,,M, laboratory technician ,,Yes,,,,no
+311,No,, Sales ,,F, sales executive ,,Yes,No,Part Time, sales executive  -  sales ,no
+312,No,travel rarely,,,F, sales executive ,Divorced,Yes,Yes,Part Time,,no
+313,No,,,Medical,M, research scientist ,Divorced,,,Full Time,,no
+314,No,travel rarely,,,M, sales executive ,,Yes,,Part Time,,yes
+315,No,travel rarely,,Life Sciences,F, laboratory technician ,Married,Yes,Yes,,,yes
+316,Yes,,,,M, sales executive ,,,No,Part Time,,no
+317,No,travel rarely,,,F, sales executive ,,,No,,,yes
+318,No,,,,F, laboratory technician ,,,No,Full Time,,no
+319,No,,,Life Sciences,F, sales executive ,Married,Yes,No,,,yes
+320,No,travel rarely, Sales ,Marketing,M, sales executive ,Married,,,Part Time, sales executive  -  sales ,yes
+321,No,,,Medical,F, manufacturing director ,,Yes,No,Part Time,,no
+322,No,non travel,,,F, laboratory technician ,Single,Yes,,Part Time,,no
+323,No,travel rarely,,Life Sciences,M, healthcare representative ,,,Yes,Part Time,,no
+324,No,travel rarely,,,F, sales executive ,Married,,No,Part Time,,yes
+325,No,travel rarely,,Other,M, sales executive ,,,No,Part Time,,yes
+326,Yes,travel frequently,,Life Sciences,F, human resources ,,Yes,Yes,,,yes
+327,No,,,Other,F, healthcare representative ,Single,Yes,Yes,Part Time,,yes
+328,No,,,,M, sales executive ,Single,,,Part Time,,yes
+329,No,travel rarely,,Medical,M, sales executive ,Divorced,Yes,No,Part Time,,yes
+330,No,travel frequently,,,M, laboratory technician ,Divorced,Yes,,Part Time,,no
+331,No,, Sales ,,F, sales executive ,Single,Yes,,Part Time, sales executive  -  sales ,no
+332,No,travel rarely,,Other,M, manufacturing director ,Married,,No,Part Time,,yes
+333,No,,,,M, human resources ,,Yes,,Part Time,,yes
+334,No,travel rarely, Sales ,Marketing,F, sales executive ,,,No,Part Time, sales executive  -  sales ,yes
+335,No,, Research & Development ,Life Sciences,M, research scientist ,Divorced,Yes,,Part Time, research scientist  -  research & development ,yes
+336,No,,,Medical,F, healthcare representative ,,,,Part Time,,no
+337,No,,,Technical Degree,F, healthcare representative ,Single,,No,Part Time,,no
+338,No,,,Marketing,M, sales executive ,,,,Full Time,,yes
+339,No,travel rarely,,Life Sciences,F, healthcare representative ,,Yes,,Part Time,,yes
+340,No,travel rarely,,Life Sciences,F, manufacturing director ,Married,,,Part Time,,no
+341,No,travel rarely,,Life Sciences,F, research director ,Single,,,Full Time,,no
+342,No,,,Marketing,M, sales executive ,Single,,,,,no
+343,No,travel frequently,,,M, manufacturing director ,,Yes,No,Part Time,,yes
+344,No,,,,M, manager ,,Yes,No,Full Time,,no
+345,Yes,, Research & Development ,,F, research scientist ,,,Yes,Part Time, research scientist  -  research & development ,yes
+346,No,, Research & Development ,,F, research director ,Married,Yes,,Full Time, research director  -  research & development ,no
+347,No,,,Marketing,M, sales executive ,Divorced,Yes,No,,,yes
+348,No,travel rarely,,,M, healthcare representative ,Married,,No,Full Time,,no
+349,No,travel rarely,,,M, sales representative ,Single,,No,Full Time,,yes
+350,No,non travel,,,M, sales executive ,Single,Yes,,Part Time,,no
+351,No,,,Medical,F, healthcare representative ,Married,,No,Part Time,,yes
+352,No,,,Life Sciences,F, manufacturing director ,Single,,,Full Time,,yes
+353,No,,,Medical,F, healthcare representative ,,Yes,No,,,yes
+354,No,travel frequently,,,M, manager ,,,No,,,yes
+355,No,travel rarely,,Other,F, manufacturing director ,,,,Part Time,,no
+356,No,travel rarely,,,M, research scientist ,Married,,,Part Time,,yes
+357,Yes,,,Medical,M, sales executive ,Single,Yes,,Part Time,,no
+358,No,, Sales ,,F, sales executive ,,Yes,,Part Time, sales executive  -  sales ,yes
+359,Yes,,,Medical,F, research scientist ,Married,,,Part Time,,yes
+360,No,,,,M, research scientist ,,,Yes,,,yes
+361,Yes,, Research & Development ,Life Sciences,F, laboratory technician ,Divorced,,Yes,, laboratory technician  -  research & development ,yes
+362,No,travel rarely,,,M, sales representative ,,,,Part Time,,no
+363,No,travel frequently, Sales ,Medical,M, sales executive ,,Yes,,Part Time, sales executive  -  sales ,yes
+364,No,,,Medical,F, healthcare representative ,,,,Part Time,,no
+365,No,,,Medical,F, manufacturing director ,Married,,,Full Time,,no
+366,Yes,travel rarely,,Life Sciences,M, sales executive ,Married,Yes,,Full Time,,no
+367,No,non travel,,,M, laboratory technician ,,,,Part Time,,yes
+368,No,travel rarely,,,M, sales executive ,Single,,No,Part Time,,no
+369,No,non travel,,Technical Degree,M, sales executive ,Divorced,,No,Part Time,,yes
+370,No,,,Medical,M, manufacturing director ,,Yes,,Full Time,,no
+371,No,travel rarely,,Technical Degree,F, manufacturing director ,,,,Part Time,,yes
+372,No,travel rarely,,,F, research director ,,Yes,Yes,Part Time,,yes
+373,No,,,Medical,M, manufacturing director ,Married,,,Full Time,,no
+374,No,travel frequently,,Medical,M, healthcare representative ,Married,,,Full Time,,yes
+375,No,non travel, Sales ,Life Sciences,F, sales executive ,Married,Yes,,Full Time, sales executive  -  sales ,yes
+376,No,non travel,,,F, laboratory technician ,Single,,No,Part Time,,yes
+377,No,travel frequently,,Marketing,F, sales executive ,,,,Part Time,,yes
+378,No,travel rarely,,,M, sales executive ,Married,,,Part Time,,no
+379,No,,,,M, manager ,Single,,No,,,yes
+380,Yes,non travel,,,M, healthcare representative ,Single,Yes,No,Part Time,,no
+381,No,travel rarely,,Other,F, research scientist ,Single,,No,,,yes
+382,Yes,,,Technical Degree,M, sales executive ,,Yes,,Part Time,,yes
+383,Yes,travel frequently, Research & Development ,Medical,F, research scientist ,Single,,No,Part Time, research scientist  -  research & development ,yes
+384,Yes,, Research & Development ,Technical Degree,M, laboratory technician ,Married,Yes,,Part Time, laboratory technician  -  research & development ,yes
+385,No,, Sales ,,M, sales executive ,,,Yes,Part Time, sales executive  -  sales ,yes
+386,No,,,,F, manufacturing director ,,,,Part Time,,yes
+387,No,travel frequently,,Life Sciences,F, manufacturing director ,Married,,No,Part Time,,no
+388,Yes,travel frequently, Research & Development ,Life Sciences,M, healthcare representative ,,,No,Full Time, healthcare representative  -  research & development ,no
+389,No,travel rarely,,,M, research director ,,Yes,No,Full Time,,yes
+390,No,travel rarely,,Medical,M, manufacturing director ,Married,,,,,yes
+391,No,,,,F, research director ,,,No,Full Time,,no
+392,No,travel rarely,,,M, laboratory technician ,,Yes,,Part Time,,yes
+393,No,travel rarely,,,M, manufacturing director ,Divorced,,No,,,yes
+394,No,, Research & Development ,Medical,F, manager ,Divorced,Yes,No,Full Time, manager  -  research & development ,no
+395,No,,,Life Sciences,M, sales executive ,,Yes,,Part Time,,yes
+396,No,,,Medical,F, sales executive ,,,No,Part Time,,yes
+397,No,, Research & Development ,Life Sciences,M, laboratory technician ,Divorced,Yes,No,Part Time, laboratory technician  -  research & development ,yes
+398,No,travel rarely,,Life Sciences,M, laboratory technician ,Divorced,,,Part Time,,yes
+399,No,,,,M, sales executive ,Divorced,,,,,yes
+400,No,,,Life Sciences,F, research scientist ,Single,Yes,Yes,Part Time,,no
+401,No,,,Technical Degree,F, manufacturing director ,Divorced,,Yes,Full Time,,yes
+402,No,travel rarely,,,M, research scientist ,,,,,,yes
+403,No,, Research & Development ,Life Sciences,M, research director ,,Yes,No,Full Time, research director  -  research & development ,yes
+404,No,travel rarely,,,F, research director ,Divorced,Yes,No,Full Time,,yes
+405,No,,,,M, manufacturing director ,Single,,No,Part Time,,no
+406,No,travel rarely,,Marketing,F, sales executive ,Single,,No,Part Time,,yes
+407,Yes,travel rarely,,Medical,F, healthcare representative ,Married,Yes,,Part Time,,yes
+408,Yes,, Research & Development ,Technical Degree,F, laboratory technician ,Divorced,,Yes,, laboratory technician  -  research & development ,yes
+409,No,travel rarely,,,M, sales executive ,Married,,,Full Time,,no
+410,No,travel rarely,,Technical Degree,F, healthcare representative ,Married,Yes,No,Part Time,,yes
+411,Yes,, Sales ,,M, sales executive ,Single,Yes,Yes,Part Time, sales executive  -  sales ,yes
+412,No,travel rarely,,,M, manufacturing director ,Single,,,,,yes
+413,No,,,,M, healthcare representative ,,,,Part Time,,yes
+414,No,,,Life Sciences,F, sales executive ,,,,,,yes
+415,No,travel frequently, Sales ,Marketing,F, sales executive ,,Yes,No,Part Time, sales executive  -  sales ,yes
+416,No,,,,F, laboratory technician ,,Yes,No,Part Time,,no
+417,Yes,,,,M, sales executive ,,Yes,,Full Time,,yes
+418,No,,,,M, laboratory technician ,,Yes,,Part Time,,no
+419,No,,,Medical,F, research scientist ,Single,,Yes,Part Time,,no
+420,No,travel rarely,,Human Resources,F, manager ,Married,,,Full Time,,no
+421,No,travel rarely,,,M, laboratory technician ,Single,,No,Full Time,,yes
+422,Yes,,,Other,F, healthcare representative ,Single,,Yes,Part Time,,yes
+423,No,, Research & Development ,,F, research director ,,,,Full Time, research director  -  research & development ,no
+424,No,,,,M, research director ,Divorced,Yes,No,Full Time,,yes
+425,No,non travel,,Other,M, laboratory technician ,,Yes,No,Part Time,,yes
+426,No,,,,M, sales executive ,Divorced,,,Full Time,,yes
+427,Yes,,,Marketing,M, sales executive ,Divorced,,No,,,yes
+428,No,travel rarely,,Medical,M, healthcare representative ,,Yes,Yes,Full Time,,no
+429,No,travel rarely,,Life Sciences,M, healthcare representative ,Divorced,Yes,,Full Time,,no
+430,No,travel rarely,,,M, sales executive ,,Yes,,Part Time,,yes
+431,Yes,,,Technical Degree,M, research scientist ,Single,Yes,No,Part Time,,yes
+432,No,,,Other,F, healthcare representative ,,,No,Part Time,,yes
+433,No,travel rarely, Human Resources ,,M, manager ,Single,Yes,Yes,Full Time, manager  -  human resources ,yes
+434,No,, Sales ,Life Sciences,F, sales executive ,Divorced,,No,Full Time, sales executive  -  sales ,yes
+435,Yes,,,,F, manufacturing director ,Married,,,Part Time,,yes
+436,No,,,Medical,F, research director ,,,Yes,,,no
+437,No,,,,F, laboratory technician ,,Yes,,Full Time,,no
+438,No,non travel,,Marketing,M, sales executive ,,Yes,,,,no
+439,No,travel frequently,,,M, manufacturing director ,,,,Part Time,,yes
+440,No,, Research & Development ,Medical,M, manufacturing director ,,Yes,,, manufacturing director  -  research & development ,no
+441,No,, Research & Development ,,M, laboratory technician ,Divorced,,No,Full Time, laboratory technician  -  research & development ,yes
+442,No,travel rarely,,,F, manufacturing director ,Divorced,,,,,yes
+443,No,,,,M, human resources ,Married,,Yes,,,yes
+444,No,,,Life Sciences,M, manufacturing director ,Divorced,,,Part Time,,no
+445,No,,,,M, manager ,Single,Yes,,Full Time,,yes
+446,Yes,travel frequently,,,F, sales representative ,,,,,,no
+447,No,,,Medical,M, laboratory technician ,,,No,Part Time,,yes
+448,No,travel rarely,,Life Sciences,F, healthcare representative ,,,,Part Time,,yes
+449,No,,,,F, sales representative ,Single,Yes,,Part Time,,yes
+450,No,, Research & Development ,,M, healthcare representative ,Single,,No,Part Time, healthcare representative  -  research & development ,yes
+451,No,,,Life Sciences,M, manufacturing director ,Married,Yes,,Part Time,,yes
+452,No,travel frequently,,,F, research scientist ,,Yes,,,,no
+453,No,,,Marketing,M, sales executive ,,,No,Part Time,,yes
+454,No,non travel,,Marketing,F, sales executive ,,,No,Part Time,,yes
+455,No,,,,M, research scientist ,Single,Yes,No,Part Time,,yes
+456,No,travel rarely,,Life Sciences,M, human resources ,,Yes,No,,,no
+457,No,travel rarely,,Marketing,F, sales executive ,,,,Full Time,,yes
+458,Yes,,,,M, sales executive ,,,,,,no
+459,No,non travel, Research & Development ,Medical,M, manufacturing director ,Divorced,,No,, manufacturing director  -  research & development ,no
+460,No,,,Medical,F, manufacturing director ,Single,Yes,No,Part Time,,no
+461,Yes,travel rarely,,Medical,F, healthcare representative ,Married,,No,,,no
+462,No,non travel,,,F, sales executive ,Married,Yes,,Part Time,,no
+463,No,travel frequently,,Life Sciences,M, sales executive ,Married,,,Full Time,,no
+464,Yes,,,Life Sciences,F, sales executive ,,Yes,,Part Time,,yes
+465,No,travel rarely, Research & Development ,,M, manager ,,Yes,,, manager  -  research & development ,yes
+466,No,travel rarely, Sales ,,F, sales executive ,Single,Yes,No,Part Time, sales executive  -  sales ,no
+467,No,,,Medical,M, research director ,Married,Yes,No,,,yes
+468,No,travel frequently,,Other,M, laboratory technician ,Married,,No,Part Time,,yes
+469,No,travel frequently,,Life Sciences,M, sales executive ,Married,,,Part Time,,yes
+470,No,,,,M, research scientist ,Married,Yes,,Part Time,,no
+471,No,travel rarely,,Medical,M, sales executive ,Divorced,,No,Part Time,,yes
+472,No,, Research & Development ,Medical,M, laboratory technician ,Single,Yes,No,Part Time, laboratory technician  -  research & development ,yes
+473,No,travel rarely,,,M, sales executive ,,,,Part Time,,no
+474,Yes,travel frequently, Sales ,Marketing,M, sales executive ,,Yes,Yes,Part Time, sales executive  -  sales ,yes
+475,No,travel frequently,,Life Sciences,M, healthcare representative ,Divorced,,,,,yes
+476,No,,,,F, research director ,Married,,No,Part Time,,yes
+477,No,,,Medical,M, research scientist ,,,No,Part Time,,yes
+478,No,travel rarely,,,F, healthcare representative ,Married,,Yes,Part Time,,yes
+479,No,travel rarely,,Life Sciences,M, research scientist ,Single,,No,,,no
+480,No,travel rarely,,,F, sales executive ,,Yes,No,Part Time,,yes
+481,No,travel rarely,,Life Sciences,F, manufacturing director ,Married,Yes,No,Full Time,,yes
+482,No,, Sales ,Marketing,F, sales executive ,Married,Yes,No,Full Time, sales executive  -  sales ,no
+483,No,travel rarely,,,F, sales executive ,Married,,No,,,yes
+484,No,travel rarely,,,M, healthcare representative ,,,,Part Time,,yes
+485,No,travel rarely,,,F, research director ,Single,,No,Part Time,,no
+486,No,travel rarely,,Medical,F, healthcare representative ,Married,,,Full Time,,yes
+487,No,,,,M, sales executive ,Single,Yes,,Part Time,,yes
+488,No,travel frequently, Research & Development ,Life Sciences,M, manager ,Divorced,Yes,,Full Time, manager  -  research & development ,no
+489,No,, Research & Development ,,F, healthcare representative ,Single,,No,, healthcare representative  -  research & development ,no
+490,No,travel rarely,,Medical,F, laboratory technician ,Divorced,,Yes,Part Time,,yes
+491,No,travel frequently, Research & Development ,,F, manager ,Married,Yes,,, manager  -  research & development ,yes
+492,No,travel rarely,,Technical Degree,M, manufacturing director ,Single,,No,Part Time,,yes
+493,Yes,travel rarely,,Medical,M, manager ,Married,,,Part Time,,yes
+494,No,travel rarely,,Life Sciences,F, manufacturing director ,Single,,No,Full Time,,no
+495,No,travel rarely,,Human Resources,M, manager ,Divorced,Yes,No,Full Time,,no
+496,No,,,,F, healthcare representative ,,,No,Part Time,,no
+497,No,travel rarely,,Marketing,M, manager ,,,,Full Time,,yes
+498,No,travel rarely,,Marketing,F, manager ,Married,,No,Full Time,,no
+499,No,travel rarely,,Marketing,F, sales executive ,,,,Part Time,,yes
+500,No,non travel, Research & Development ,,M, manager ,Divorced,Yes,,Full Time, manager  -  research & development ,no
+501,No,travel rarely, Research & Development ,Life Sciences,F, healthcare representative ,Married,,,Part Time, healthcare representative  -  research & development ,yes
+502,No,travel rarely,,,F, manufacturing director ,Married,,No,Full Time,,yes
+503,No,travel frequently,,Medical,F, manufacturing director ,Single,,,Part Time,,no
+504,No,,,,F, research scientist ,,,No,Full Time,,no
+505,Yes,, Human Resources ,Medical,M, human resources ,Married,,No,Full Time, human resources  -  human resources ,yes
+506,No,,,Medical,M, manager ,,,No,,,no
+507,No,travel rarely,,Life Sciences,M, healthcare representative ,Single,Yes,,Part Time,,yes
+508,No,,,,M, human resources ,,,No,Part Time,,yes
+509,No,, Human Resources ,Life Sciences,F, human resources ,,,,Part Time, human resources  -  human resources ,yes
+510,No,,,Life Sciences,M, research scientist ,Single,,,Part Time,,no
+511,No,travel rarely, Research & Development ,Life Sciences,M, manufacturing director ,Married,,,, manufacturing director  -  research & development ,yes
+512,No,,,Life Sciences,M, research director ,Married,,No,,,yes
+513,No,,,,M, research director ,,,,,,no
+514,No,travel rarely,,Marketing,M, manager ,,Yes,No,Full Time,,yes
+515,No,, Sales ,,M, sales executive ,Married,Yes,No,Part Time, sales executive  -  sales ,yes
+516,No,, Research & Development ,,F, laboratory technician ,,,,, laboratory technician  -  research & development ,yes
+517,No,,,Technical Degree,F, research director ,Single,,,,,no
+518,No,,,,M, sales executive ,,,,Part Time,,no
+519,No,,,,F, research scientist ,Married,,No,Full Time,,no
+520,No,travel rarely,,,M, manager ,Married,,,,,yes
+521,No,, Sales ,,M, sales executive ,Married,,,Part Time, sales executive  -  sales ,yes
+522,No,travel rarely,,Life Sciences,F, laboratory technician ,Single,,Yes,Part Time,,yes
+523,No,non travel,,Marketing,M, sales executive ,,Yes,No,Part Time,,no
+524,No,,,,M, manufacturing director ,Divorced,,No,,,no
+525,No,,,,M, manufacturing director ,Single,Yes,No,Full Time,,yes
+526,No,,,,M, research scientist ,Single,,,Full Time,,yes
+527,No,travel rarely,,,M, research scientist ,,,No,Part Time,,no
+528,No,,,,F, manufacturing director ,,,No,Full Time,,no
+529,No,,,Life Sciences,M, sales executive ,Single,Yes,No,Part Time,,yes
+530,No,travel frequently,,Technical Degree,F, healthcare representative ,Married,Yes,No,,,yes
+531,No,travel rarely, Sales ,Life Sciences,M, sales executive ,,,Yes,Part Time, sales executive  -  sales ,yes
+532,No,travel rarely,,,F, manufacturing director ,Single,Yes,,Part Time,,yes
+533,No,non travel,,,M, sales executive ,Divorced,Yes,No,Part Time,,no
+534,No,travel rarely,,Life Sciences,F, manufacturing director ,Married,,,Part Time,,no
+535,No,travel rarely,,Medical,M, research scientist ,,,,Part Time,,yes
+536,No,,,,M, manager ,Married,,No,,,no
+537,No,,,Life Sciences,M, research scientist ,,,Yes,Full Time,,yes
+538,No,travel frequently,,Medical,F, sales executive ,,,,,,no
+539,No,, Sales ,,F, sales executive ,Single,Yes,No,Full Time, sales executive  -  sales ,no
+540,No,, Sales ,Other,M, sales executive ,Single,Yes,No,Full Time, sales executive  -  sales ,yes
+541,No,, Research & Development ,,F, research scientist ,,Yes,,Full Time, research scientist  -  research & development ,yes
+542,No,,,Other,M, manufacturing director ,Single,Yes,No,,,no
+543,No,,,Medical,F, research scientist ,,,,Part Time,,no
+544,No,, Research & Development ,,F, healthcare representative ,Married,Yes,Yes,Full Time, healthcare representative  -  research & development ,yes
+545,No,,,Life Sciences,F, research scientist ,Divorced,Yes,No,Part Time,,no
+546,No,travel frequently, Research & Development ,,F, research scientist ,Divorced,,No,Part Time, research scientist  -  research & development ,yes
+547,No,,,Life Sciences,F, sales executive ,Married,,,Part Time,,no
+548,No,travel rarely,,Medical,M, laboratory technician ,Married,Yes,,,,no
+549,No,,,Life Sciences,F, research scientist ,Married,Yes,,Part Time,,no
+550,No,travel rarely, Research & Development ,,M, healthcare representative ,Married,,Yes,Part Time, healthcare representative  -  research & development ,no
+551,No,, Research & Development ,Life Sciences,M, research scientist ,,,Yes,Part Time, research scientist  -  research & development ,no
+552,No,travel rarely,,,M, research scientist ,,Yes,No,Full Time,,yes
+553,No,, Research & Development ,,M, laboratory technician ,Single,,No,Part Time, laboratory technician  -  research & development ,no
+554,No,,,,M, research scientist ,Married,,,,,yes
+555,No,,,Medical,M, research scientist ,Divorced,Yes,No,Part Time,,yes
+556,No,non travel,,Life Sciences,F, sales executive ,,Yes,Yes,Part Time,,no
+557,Yes,, Sales ,,M, sales executive ,Married,,No,Full Time, sales executive  -  sales ,yes
+558,Yes,,,,F, sales executive ,,,Yes,Part Time,,no
+559,No,travel rarely, Research & Development ,Medical,M, laboratory technician ,Married,,,Part Time, laboratory technician  -  research & development ,no
+560,No,travel rarely,,Life Sciences,M, research scientist ,Married,Yes,No,Part Time,,no
+561,No,travel rarely,,Life Sciences,M, research scientist ,,Yes,No,Part Time,,yes
+562,No,travel rarely,,Medical,M, research scientist ,Single,,No,Part Time,,no
+563,No,,,,M, manufacturing director ,,,No,,,yes
+564,No,,,Medical,M, sales executive ,,Yes,,Part Time,,yes
+565,Yes,travel rarely,,,M, sales executive ,Single,Yes,Yes,,,yes
+566,Yes,,,Life Sciences,F, research scientist ,,Yes,,Full Time,,yes
+567,No,, Research & Development ,,F, research scientist ,Married,,,Part Time, research scientist  -  research & development ,no
+568,Yes,,,Medical,F, laboratory technician ,,,No,,,no
+569,No,travel rarely,,Life Sciences,F, research scientist ,Single,,No,Part Time,,yes
+570,No,travel rarely,,,F, manager ,,Yes,,,,no
+571,No,,,Life Sciences,M, research scientist ,,Yes,No,Part Time,,no
+572,No,travel rarely,,,F, sales executive ,,Yes,,,,no
+573,No,,,,M, research scientist ,Divorced,,No,Part Time,,yes
+574,Yes,,,Marketing,F, sales executive ,Married,,,Part Time,,yes
+575,No,non travel, Research & Development ,Medical,M, manufacturing director ,,Yes,,Part Time, manufacturing director  -  research & development ,yes
+576,Yes,,,,M, laboratory technician ,Married,,Yes,,,no
+577,Yes,,,,M, laboratory technician ,,Yes,No,Part Time,,yes
+578,No,,,,M, sales executive ,,,No,,,yes
+579,No,, Research & Development ,,M, research director ,Divorced,,No,, research director  -  research & development ,no
+580,No,travel frequently,,,F, sales executive ,Married,,,Full Time,,yes
+581,No,,,,M, sales executive ,,,Yes,,,yes
+582,No,non travel,,Marketing,M, sales executive ,,Yes,Yes,,,yes
+583,No,travel rarely,,,M, manufacturing director ,Single,,Yes,Part Time,,yes
+584,No,travel rarely,,Medical,F, laboratory technician ,,,No,Part Time,,yes
+585,Yes,,,,M, sales executive ,,Yes,Yes,Full Time,,yes
+586,No,,,,F, manager ,Single,Yes,Yes,Full Time,,no
+587,Yes,travel frequently,,,M, research scientist ,,,,Full Time,,yes
+588,No,travel rarely,,Marketing,F, sales executive ,Divorced,Yes,,Part Time,,yes
+589,No,, Sales ,,F, sales executive ,Single,Yes,Yes,Part Time, sales executive  -  sales ,no
+590,No,,,,F, sales executive ,Single,,No,Part Time,,yes
+591,No,travel rarely,,,M, manufacturing director ,Married,Yes,,Part Time,,no
+592,No,travel frequently,,,F, research scientist ,,,No,Part Time,,no
+593,No,travel rarely,,Life Sciences,F, manufacturing director ,,,No,,,yes
+594,No,travel rarely,,Life Sciences,M, laboratory technician ,Single,,No,Full Time,,no
+595,No,travel rarely,,,M, manager ,Divorced,Yes,,Part Time,,yes
+596,No,travel rarely, Sales ,,F, sales executive ,Single,Yes,,Part Time, sales executive  -  sales ,yes
+597,No,,,,M, sales representative ,,Yes,,,,yes
+598,No,travel rarely,,,F, research scientist ,Married,Yes,,Full Time,,no
+599,Yes,,,Life Sciences,F, sales executive ,,Yes,Yes,Part Time,,no
+600,No,travel frequently,,Life Sciences,M, research scientist ,Divorced,Yes,No,Part Time,,yes
+601,No,,,Marketing,M, sales executive ,Divorced,,Yes,Full Time,,no
+602,No,travel rarely,,Life Sciences,M, human resources ,,,,,,yes
+603,No,,,,M, research scientist ,,,,Part Time,,yes
+604,No,travel frequently,,Medical,F, sales representative ,Married,,,Full Time,,no
+605,No,travel rarely,,Life Sciences,F, human resources ,,Yes,No,Part Time,,no
+606,No,,,,F, sales executive ,,,,Part Time,,yes
+607,No,travel rarely,,,M, sales executive ,,,No,Part Time,,no
+608,No,,,Medical,M, research director ,Divorced,Yes,No,Full Time,,yes
+609,No,travel rarely, Sales ,,M, manager ,,,Yes,, manager  -  sales ,yes
+610,No,,,Life Sciences,F, sales executive ,Married,Yes,No,Part Time,,yes
+611,No,,,Medical,F, research scientist ,Married,,No,Part Time,,no
+612,No,,,,M, manager ,Single,Yes,No,Full Time,,yes
+613,No,, Research & Development ,Life Sciences,M, laboratory technician ,Single,,No,Part Time, laboratory technician  -  research & development ,no
+614,No,travel rarely,,Technical Degree,M, human resources ,,Yes,No,Full Time,,yes
+615,No,travel rarely, Sales ,Marketing,M, sales executive ,Single,,No,, sales executive  -  sales ,no
+616,Yes,,,,M, research scientist ,Single,,Yes,Full Time,,no
+617,No,travel rarely,,,F, research scientist ,Married,Yes,Yes,Part Time,,no
+618,No,,,Human Resources,M, human resources ,,Yes,No,,,yes
+619,No,travel frequently,,,F, manufacturing director ,,,No,Part Time,,no
+620,No,, Sales ,,F, manager ,Married,Yes,,, manager  -  sales ,yes
+621,No,non travel,,Medical,F, manufacturing director ,Single,,Yes,Part Time,,yes
+622,Yes,travel rarely,,Life Sciences,M, laboratory technician ,,,,Part Time,,yes
+623,Yes,,,,M, sales executive ,Single,Yes,Yes,Part Time,,yes
+624,No,non travel,,,F, research scientist ,Divorced,Yes,No,Part Time,,yes
+625,No,travel rarely, Sales ,,M, sales executive ,Married,Yes,,Part Time, sales executive  -  sales ,no
+626,No,,,,M, research scientist ,Married,,Yes,Full Time,,no
+627,No,, Sales ,Life Sciences,M, sales executive ,,,,Part Time, sales executive  -  sales ,yes
+628,No,non travel, Research & Development ,,M, healthcare representative ,,,No,Part Time, healthcare representative  -  research & development ,no
+629,No,travel rarely,,Other,F, laboratory technician ,Married,,No,Part Time,,yes
+630,No,,,,F, sales executive ,Single,Yes,Yes,Full Time,,yes
+631,No,,,Life Sciences,M, laboratory technician ,Single,Yes,,Part Time,,yes
+632,No,travel rarely,,,F, sales executive ,Married,Yes,Yes,,,yes
+633,No,travel rarely,,Life Sciences,F, laboratory technician ,,Yes,No,Part Time,,no
+634,No,, Sales ,,M, sales executive ,Single,,,Part Time, sales executive  -  sales ,yes
+635,No,travel rarely, Research & Development ,Medical,F, laboratory technician ,,,No,Part Time, laboratory technician  -  research & development ,yes
+636,No,travel rarely,,Medical,F, sales executive ,Married,,,Part Time,,yes
+637,Yes,,,Life Sciences,M, laboratory technician ,Single,,,Part Time,,no
+638,No,travel rarely,,Technical Degree,M, research scientist ,,,No,Part Time,,yes
+639,No,travel rarely,,,M, sales executive ,,Yes,,Part Time,,yes
+640,No,,,Life Sciences,M, healthcare representative ,,Yes,,Full Time,,yes
+641,No,,,Life Sciences,F, sales executive ,Married,Yes,No,Part Time,,yes
+642,No,,,,M, laboratory technician ,Divorced,,,Full Time,,no
+643,No,,,,M, research scientist ,,,No,Part Time,,yes
+644,No,, Research & Development ,,F, manufacturing director ,,,,, manufacturing director  -  research & development ,yes
+645,No,travel rarely, Research & Development ,,F, research scientist ,Married,,,Full Time, research scientist  -  research & development ,no
+646,No,travel rarely,,Medical,M, manufacturing director ,,,No,Part Time,,yes
+647,No,travel rarely, Research & Development ,Life Sciences,M, healthcare representative ,Divorced,,No,Full Time, healthcare representative  -  research & development ,yes
+648,Yes,travel rarely,,Medical,M, laboratory technician ,Single,Yes,,Full Time,,yes
+649,No,,,,M, research scientist ,,,Yes,Full Time,,yes
+650,No,travel frequently,,Technical Degree,F, manufacturing director ,Single,Yes,,Part Time,,yes
+651,No,travel rarely, Research & Development ,Other,F, laboratory technician ,Married,Yes,No,, laboratory technician  -  research & development ,yes
+652,No,,,Medical,M, laboratory technician ,Married,Yes,,Part Time,,yes
+653,No,,,,F, healthcare representative ,,,,Part Time,,yes
+654,No,travel frequently, Research & Development ,,F, laboratory technician ,Single,,Yes,Part Time, laboratory technician  -  research & development ,yes
+655,No,,,,F, sales executive ,,Yes,No,,,yes
+656,No,travel rarely,,Marketing,M, sales executive ,Single,Yes,No,Full Time,,no
+657,No,,,Life Sciences,M, research director ,Married,,No,,,no
+658,No,non travel,,,M, laboratory technician ,,,No,Part Time,,yes
+659,No,,,Life Sciences,M, sales executive ,Divorced,Yes,,Full Time,,no
+660,No,,,Medical,F, research scientist ,Single,Yes,No,Part Time,,yes
+661,No,non travel,,Medical,M, manufacturing director ,,Yes,No,Full Time,,yes
+662,Yes,travel rarely,,Life Sciences,M, sales representative ,Single,Yes,No,Part Time,,no
+663,No,travel rarely,,Medical,F, research scientist ,,,No,Part Time,,no
+664,No,travel frequently,,Life Sciences,F, sales executive ,,,No,Part Time,,no
+665,No,, Sales ,Marketing,F, sales executive ,,,,Full Time, sales executive  -  sales ,no
+666,No,,,Life Sciences,F, laboratory technician ,Single,,No,Part Time,,yes
+667,No,,,Medical,F, research director ,Divorced,,,,,no
+668,No,travel frequently,,,F, sales executive ,Single,Yes,No,Full Time,,no
+669,No,travel frequently,,Life Sciences,M, healthcare representative ,Married,,No,Full Time,,no
+670,No,travel rarely,,Technical Degree,F, research director ,,,No,Full Time,,no
+671,No,,,,F, research director ,,,Yes,Full Time,,yes
+672,No,non travel,,,F, manager ,Single,,,Full Time,,yes
+673,No,,,Life Sciences,M, laboratory technician ,Married,Yes,No,Part Time,,yes
+674,No,travel rarely,,Life Sciences,M, sales executive ,,,No,Part Time,,yes
+675,No,travel rarely,,,M, laboratory technician ,Single,,No,Part Time,,yes
+676,No,travel frequently,,,F, sales representative ,,,No,Part Time,,no
+677,No,travel rarely, Research & Development ,,M, healthcare representative ,Divorced,,,Part Time, healthcare representative  -  research & development ,yes
+678,No,travel rarely,,Life Sciences,F, sales executive ,Single,,,,,no
+679,Yes,travel rarely,,Marketing,F, sales representative ,,,Yes,Part Time,,yes
+680,No,,,,F, manufacturing director ,Divorced,Yes,,Part Time,,no
+681,No,,,,M, research scientist ,Divorced,Yes,Yes,Full Time,,yes
+682,Yes,,,,F, sales executive ,,,,Part Time,,yes
+683,Yes,travel rarely,,Medical,M, research scientist ,Single,,,Part Time,,yes
+684,No,,,,F, sales representative ,Married,,No,Part Time,,no
+685,No,,,Life Sciences,M, healthcare representative ,,,No,,,yes
+686,No,,,,M, research director ,Married,,Yes,Full Time,,yes
+687,No,, Research & Development ,Medical,M, healthcare representative ,Married,Yes,,Part Time, healthcare representative  -  research & development ,yes
+688,No,,,,F, research scientist ,,,No,,,yes
+689,No,travel rarely,,Medical,M, healthcare representative ,Single,,,,,yes
+690,No,, Research & Development ,Life Sciences,M, healthcare representative ,Divorced,,Yes,Part Time, healthcare representative  -  research & development ,yes
+691,No,travel rarely,,,F, research scientist ,Single,Yes,,Part Time,,yes
+692,No,travel frequently,,Life Sciences,F, research scientist ,,Yes,,,,no
+693,No,travel rarely,,,M, sales executive ,,,,,,yes
+694,No,non travel,,Life Sciences,M, sales executive ,,Yes,,Part Time,,yes
+695,No,travel rarely,,,M, healthcare representative ,,,No,Full Time,,no
+696,Yes,travel rarely,,Technical Degree,F, sales representative ,Single,Yes,Yes,Part Time,,yes
+697,No,, Research & Development ,,M, laboratory technician ,,,,Part Time, laboratory technician  -  research & development ,no
+698,No,,,,M, research scientist ,,Yes,,Part Time,,yes
+699,Yes,travel rarely,,,M, laboratory technician ,Divorced,Yes,No,Full Time,,no
+700,No,non travel,,Medical,M, sales executive ,Single,Yes,,Part Time,,yes
+701,No,non travel, Sales ,,M, sales executive ,Single,Yes,No,Part Time, sales executive  -  sales ,yes
+702,No,travel frequently,,,F, laboratory technician ,Married,Yes,No,Full Time,,yes
+703,No,travel rarely,,Marketing,M, sales executive ,Married,Yes,,,,yes
+704,Yes,travel frequently, Research & Development ,,F, laboratory technician ,,,,Part Time, laboratory technician  -  research & development ,yes
+705,No,, Research & Development ,,F, research scientist ,Divorced,,No,Part Time, research scientist  -  research & development ,yes
+706,Yes,travel rarely,,Marketing,M, sales representative ,Divorced,,No,Part Time,,yes
+707,Yes,, Sales ,Technical Degree,M, sales executive ,Married,,,Part Time, sales executive  -  sales ,no
+708,No,travel rarely,,,M, laboratory technician ,,,No,Part Time,,yes
+709,No,travel rarely,,,F, human resources ,,,,Part Time,,no
+710,No,non travel,,Medical,M, research scientist ,,Yes,No,Full Time,,yes
+711,Yes,,,,M, sales executive ,Single,Yes,No,Part Time,,yes
+712,No,,,,F, manufacturing director ,Divorced,,Yes,,,yes
+713,No,travel rarely,,Life Sciences,F, research scientist ,Divorced,Yes,Yes,Part Time,,no
+714,No,travel rarely, Research & Development ,,M, research director ,,Yes,,Full Time, research director  -  research & development ,no
+715,No,,,Life Sciences,F, manufacturing director ,Married,,,Full Time,,no
+716,No,travel frequently, Research & Development ,,M, healthcare representative ,,,,, healthcare representative  -  research & development ,no
+717,No,travel rarely,,Medical,M, research scientist ,Single,,No,Full Time,,no
+718,No,,,,F, research scientist ,Married,Yes,,Part Time,,yes
+719,No,,,,M, sales executive ,,,Yes,Part Time,,yes
+720,No,,,,F, laboratory technician ,Married,,Yes,,,yes
+721,No,,,Human Resources,M, human resources ,Divorced,Yes,Yes,Part Time,,no
+722,No,travel rarely,,Medical,F, laboratory technician ,,,No,Part Time,,no
+723,No,non travel,,,F, sales executive ,,,Yes,Full Time,,yes
+724,No,travel rarely, Research & Development ,,F, laboratory technician ,Divorced,Yes,No,, laboratory technician  -  research & development ,no
+725,No,travel frequently,,,F, manufacturing director ,,,No,Part Time,,no
+726,No,, Research & Development ,Life Sciences,M, laboratory technician ,,Yes,,, laboratory technician  -  research & development ,yes
+727,No,travel rarely,,,F, manufacturing director ,,,,Full Time,,no
+728,No,, Sales ,,F, manager ,Married,,No,, manager  -  sales ,no
+729,No,travel rarely,,,M, human resources ,,,No,Part Time,,yes
+730,No,travel rarely,,,F, healthcare representative ,,Yes,No,Part Time,,yes
+731,No,,,Medical,F, research scientist ,,Yes,No,Part Time,,no
+732,No,,,Medical,M, laboratory technician ,Married,,No,Part Time,,yes
+733,No,,,,M, research scientist ,,,No,Part Time,,yes
+734,No,,,Medical,M, laboratory technician ,Single,,No,Full Time,,no
+735,No,travel rarely,,Marketing,M, sales executive ,Married,,No,Part Time,,no
+736,Yes,,,,F, sales executive ,Single,Yes,No,Part Time,,yes
+737,No,travel rarely,,Life Sciences,M, sales executive ,Divorced,Yes,,Part Time,,no
+738,No,travel rarely,,Technical Degree,M, manufacturing director ,Divorced,Yes,,Part Time,,yes
+739,No,non travel, Human Resources ,,M, human resources ,Married,,No,Full Time, human resources  -  human resources ,yes
+740,No,,,Life Sciences,M, sales executive ,Single,,No,Part Time,,no
+741,No,,,,M, research scientist ,Divorced,Yes,,Part Time,,yes
+742,No,travel rarely,,Life Sciences,M, manager ,Single,,No,Full Time,,no
+743,No,travel frequently, Sales ,Marketing,F, sales executive ,,,,Part Time, sales executive  -  sales ,yes
+744,No,,,Life Sciences,M, sales executive ,Married,Yes,,Part Time,,yes
+745,No,travel frequently,,,F, manufacturing director ,Married,,,Full Time,,yes
+746,No,travel rarely,,Medical,M, research scientist ,Single,,No,Full Time,,yes
+747,Yes,travel frequently,,,M, laboratory technician ,,,No,Part Time,,yes
+748,No,travel frequently,,Other,M, research scientist ,,,,Part Time,,yes
+749,No,,,Marketing,M, sales executive ,,,,Full Time,,yes
+750,No,,,Medical,M, sales executive ,,,No,Part Time,,no
+751,Yes,, Sales ,,F, sales executive ,Single,,No,, sales executive  -  sales ,no
+752,No,,,Life Sciences,M, human resources ,,,,Part Time,,no
+753,No,, Research & Development ,Life Sciences,M, laboratory technician ,Single,Yes,No,Part Time, laboratory technician  -  research & development ,no
+754,No,,,,M, manufacturing director ,,Yes,No,Part Time,,yes
+755,No,,,,F, sales representative ,Married,Yes,,Part Time,,yes
+756,No,travel frequently,,,M, human resources ,,,No,Part Time,,yes
+757,No,,,,F, manufacturing director ,Divorced,Yes,,Part Time,,yes
+758,No,,,Life Sciences,M, manufacturing director ,,Yes,No,Part Time,,no
+759,No,, Research & Development ,Technical Degree,F, research scientist ,,,,Full Time, research scientist  -  research & development ,no
+760,No,,,,M, laboratory technician ,,,,,,yes
+761,No,travel frequently,,,F, laboratory technician ,,,,Part Time,,no
+762,No,travel rarely,,Medical,M, healthcare representative ,Married,Yes,No,,,no
+763,No,travel frequently,,,M, sales executive ,,Yes,,Part Time,,yes
+764,No,, Research & Development ,Medical,M, research scientist ,Married,,No,Part Time, research scientist  -  research & development ,yes
+765,No,travel rarely,,Medical,F, laboratory technician ,,Yes,No,Full Time,,no
+766,No,travel rarely,,,M, sales executive ,Married,Yes,No,Part Time,,no
+767,No,travel rarely,,Medical,M, laboratory technician ,Divorced,,No,Part Time,,yes
+768,No,,,Life Sciences,M, laboratory technician ,Divorced,,No,Part Time,,yes
+769,Yes,,,,M, research scientist ,,Yes,Yes,Part Time,,yes
+770,No,travel rarely,,,M, research scientist ,Married,,No,Part Time,,yes
+771,No,, Research & Development ,Medical,M, research director ,Single,,,Part Time, research director  -  research & development ,yes
+772,No,,,Life Sciences,F, laboratory technician ,Married,,,Full Time,,yes
+773,Yes,travel rarely,,,M, manufacturing director ,Single,,,Part Time,,yes
+774,No,,,,F, healthcare representative ,,,,Full Time,,yes
+775,No,travel rarely, Sales ,,M, sales executive ,,Yes,No,, sales executive  -  sales ,no
+776,No,,,Technical Degree,M, research scientist ,Married,Yes,No,Part Time,,no
+777,No,travel rarely,,,M, sales executive ,Married,,Yes,Part Time,,yes
+778,No,travel rarely,,Medical,M, research scientist ,,,,Part Time,,yes
+779,No,,,Technical Degree,M, research scientist ,,,No,Part Time,,no
+780,No,travel rarely,,,M, sales executive ,,,,Full Time,,yes
+781,No,non travel,,Medical,M, research scientist ,Single,,No,,,yes
+782,No,,,Life Sciences,M, healthcare representative ,Married,Yes,No,Part Time,,no
+783,No,, Research & Development ,,F, research scientist ,Married,,No,Part Time, research scientist  -  research & development ,no
+784,No,travel rarely,,Life Sciences,M, healthcare representative ,Single,,No,,,yes
+785,No,travel frequently,,,M, manufacturing director ,Married,Yes,No,,,no
+786,No,,,,M, research scientist ,,,,Full Time,,yes
+787,No,,,Life Sciences,M, research scientist ,,,No,Part Time,,yes
+788,No,travel rarely,,,F, sales executive ,,,Yes,Part Time,,yes
+789,No,,,Medical,M, research scientist ,Single,,Yes,Part Time,,yes
+790,Yes,,,,M, sales executive ,,,No,Part Time,,yes
+791,No,, Sales ,Marketing,F, sales executive ,Married,,No,Part Time, sales executive  -  sales ,no
+792,No,,,,F, sales executive ,,,No,Part Time,,yes
+793,No,,,,F, research scientist ,Married,Yes,,,,yes
+794,No,travel rarely,,,F, research scientist ,Married,Yes,No,Part Time,,yes
+795,No,travel rarely,,Other,M, laboratory technician ,,,,Part Time,,no
+796,No,,,,M, laboratory technician ,,Yes,No,,,yes
+797,No,travel rarely,,,M, laboratory technician ,Married,,No,Part Time,,no
+798,No,, Research & Development ,,M, research scientist ,Divorced,,,Part Time, research scientist  -  research & development ,yes
+799,No,travel rarely,,,M, laboratory technician ,Divorced,,,,,yes
+800,Yes,travel rarely, Research & Development ,Life Sciences,M, laboratory technician ,Single,,Yes,Part Time, laboratory technician  -  research & development ,yes
+801,No,travel rarely,,,M, research scientist ,Divorced,Yes,Yes,Part Time,,yes
+802,No,, Research & Development ,Life Sciences,M, research scientist ,Single,Yes,Yes,Full Time, research scientist  -  research & development ,yes
+803,No,,,,F, manufacturing director ,,,No,Part Time,,yes
+804,Yes,,,,M, research scientist ,Single,,No,Full Time,,yes
+805,Yes,travel frequently, Research & Development ,,F, research scientist ,,,,Part Time, research scientist  -  research & development ,no
+806,No,travel rarely,,Marketing,F, manager ,Single,Yes,,Full Time,,no
+807,No,,,Other,M, healthcare representative ,Married,Yes,,Full Time,,no
+808,Yes,travel rarely,,,M, sales representative ,Married,,,Part Time,,yes
+809,No,,,Marketing,F, sales representative ,Married,Yes,No,Part Time,,yes
+810,Yes,,,,M, laboratory technician ,Single,,Yes,,,yes
+811,No,,,,F, sales executive ,,,Yes,Part Time,,no
+812,No,travel rarely,,,F, laboratory technician ,,,Yes,Part Time,,no
+813,No,,,Medical,M, research scientist ,Married,,No,,,yes
+814,No,travel rarely,,Medical,M, research director ,,,,Full Time,,yes
+815,No,travel rarely,,Medical,M, human resources ,Divorced,,Yes,Part Time,,yes
+816,No,travel rarely,,Medical,M, manufacturing director ,Married,,No,Part Time,,yes
+817,No,travel rarely,,,M, laboratory technician ,,,,Part Time,,yes
+818,No,travel rarely, Sales ,Other,F, sales executive ,Married,,No,Part Time, sales executive  -  sales ,yes
+819,No,,,,M, laboratory technician ,Married,,,Part Time,,yes
+820,Yes,travel rarely,,Human Resources,M, human resources ,Divorced,,,,,yes
+821,No,non travel,,Human Resources,F, manager ,,,No,Full Time,,no
+822,No,,,,M, research scientist ,Married,Yes,No,Part Time,,yes
+823,No,,,Medical,F, research scientist ,Single,,,,,yes
+824,No,travel frequently,,,F, sales executive ,Single,Yes,No,Part Time,,no
+825,Yes,travel rarely,,,F, sales executive ,,Yes,Yes,Part Time,,yes
+826,No,, Research & Development ,Medical,M, manufacturing director ,Divorced,,No,Part Time, manufacturing director  -  research & development ,no
+827,Yes,travel frequently,,,M, manufacturing director ,,Yes,,Full Time,,no
+828,No,, Sales ,Life Sciences,M, sales executive ,,,,Part Time, sales executive  -  sales ,no
+829,No,travel rarely,,Technical Degree,F, research scientist ,,Yes,Yes,,,no
+830,No,travel rarely, Research & Development ,Technical Degree,F, research scientist ,Divorced,,No,Part Time, research scientist  -  research & development ,yes
+831,No,,,Medical,M, research scientist ,,,No,,,yes
+832,No,non travel, Research & Development ,Medical,M, research scientist ,,,,Part Time, research scientist  -  research & development ,yes
+833,No,, Research & Development ,Medical,M, research scientist ,Married,,No,Part Time, research scientist  -  research & development ,yes
+834,No,,,,M, research scientist ,,Yes,,Full Time,,yes
+835,No,travel rarely,,Life Sciences,F, research scientist ,Divorced,,,Part Time,,yes
+836,No,travel rarely,,,F, laboratory technician ,Single,,,Part Time,,yes
+837,No,travel rarely,,Medical,F, research scientist ,,Yes,,Full Time,,yes
+838,No,travel rarely,,Medical,F, research scientist ,,Yes,No,,,yes
+839,No,, Research & Development ,,M, laboratory technician ,,Yes,,Part Time, laboratory technician  -  research & development ,no
+840,No,,,,F, manufacturing director ,Divorced,Yes,No,,,no
+841,No,travel frequently,,Medical,F, laboratory technician ,Single,,,Part Time,,yes
+842,No,travel frequently,,,M, manufacturing director ,Married,,,Part Time,,no
+843,No,,,,M, laboratory technician ,Married,,,Part Time,,yes
+844,No,,,Life Sciences,M, research scientist ,,,,Part Time,,no
+845,No,,,Life Sciences,M, healthcare representative ,,Yes,No,Part Time,,yes
+846,No,,,,M, healthcare representative ,,,No,,,yes
+847,Yes,,,Technical Degree,F, research scientist ,,,Yes,,,yes
+848,Yes,,,,M, research scientist ,Single,,,Part Time,,no
+849,No,,,,F, sales executive ,Married,,,Full Time,,no
+850,No,travel rarely, Research & Development ,,F, research scientist ,Married,Yes,,Part Time, research scientist  -  research & development ,yes
+851,No,travel rarely,,,F, laboratory technician ,Single,,,Full Time,,yes
+852,No,travel rarely, Human Resources ,Medical,M, human resources ,Married,Yes,,Part Time, human resources  -  human resources ,no
+853,Yes,,,,M, laboratory technician ,Single,,,,,yes
+854,No,,,Medical,F, laboratory technician ,Divorced,,No,Part Time,,no
+855,No,non travel,,Marketing,M, sales executive ,,,No,Part Time,,yes
+856,No,,,Medical,M, research director ,Divorced,,No,Part Time,,yes
+857,No,travel rarely,,Life Sciences,F, research scientist ,Married,,,Full Time,,yes
+858,No,,,Life Sciences,M, manufacturing director ,,,,,,yes
+859,No,, Research & Development ,,F, research scientist ,Single,,Yes,Part Time, research scientist  -  research & development ,yes
+860,No,,,Marketing,M, sales executive ,Divorced,,No,Full Time,,no
+861,No,travel rarely,,,F, manufacturing director ,Married,Yes,No,,,no
+862,No,,,,M, laboratory technician ,,,No,Part Time,,no
+863,No,travel rarely,,,M, research scientist ,Married,,No,,,yes
+864,No,travel rarely,,,M, research scientist ,Single,Yes,No,Full Time,,no
+865,No,non travel,,Medical,F, research director ,Divorced,Yes,Yes,Part Time,,no
+866,No,travel rarely,,Life Sciences,M, healthcare representative ,,,,Part Time,,no
+867,Yes,travel rarely,,Medical,M, laboratory technician ,Divorced,,Yes,Part Time,,no
+868,No,,,Life Sciences,F, research director ,Single,Yes,Yes,Full Time,,yes
+869,No,travel frequently, Sales ,,F, sales representative ,Divorced,,,Part Time, sales representative  -  sales ,yes
+870,No,travel frequently,,Medical,M, research scientist ,Married,Yes,,Part Time,,no
+871,No,travel rarely, Research & Development ,,M, research scientist ,,,,Part Time, research scientist  -  research & development ,yes
+872,No,travel rarely,,Human Resources,M, human resources ,,Yes,No,Full Time,,no
+873,No,, Research & Development ,,M, research scientist ,,Yes,,Part Time, research scientist  -  research & development ,yes
+874,Yes,,,Medical,M, research scientist ,,,No,Part Time,,no
+875,Yes,,,Medical,M, research scientist ,Married,Yes,Yes,,,yes
+876,No,travel rarely,,,M, research director ,Married,Yes,,Full Time,,no
+877,No,,,Other,M, laboratory technician ,,,No,Full Time,,yes
+878,No,,,Medical,M, manufacturing director ,,Yes,No,,,yes
+879,No,,,,M, research scientist ,,Yes,,Full Time,,no
+880,No,travel rarely, Human Resources ,,M, human resources ,Divorced,Yes,Yes,, human resources  -  human resources ,no
+881,No,, Sales ,,F, sales executive ,,,,, sales executive  -  sales ,no
+882,Yes,,,,F, sales representative ,Single,,,Part Time,,yes
+883,No,travel rarely,,Medical,M, healthcare representative ,,,No,,,yes
+884,No,,,,M, sales representative ,Single,,,,,yes
+885,No,travel rarely,,Life Sciences,M, research scientist ,,Yes,,Part Time,,yes
+886,No,, Research & Development ,,M, research scientist ,,,No,Part Time, research scientist  -  research & development ,no
+887,No,travel rarely,,,M, laboratory technician ,,,No,Part Time,,yes
+888,No,travel rarely,,Other,M, healthcare representative ,Single,Yes,No,Full Time,,yes
+889,No,travel rarely,,,F, research scientist ,Married,,No,Part Time,,yes
+890,Yes,non travel,,Marketing,M, sales executive ,,,Yes,Part Time,,yes
+891,No,,,Marketing,F, sales executive ,Divorced,,Yes,Part Time,,yes
+892,No,,,,F, laboratory technician ,,Yes,No,Part Time,,yes
+893,No,,,Medical,M, research director ,Married,Yes,,Full Time,,no
+894,No,,,,F, sales executive ,Married,Yes,No,Full Time,,yes
+895,No,,,,M, laboratory technician ,,Yes,,,,yes
+896,No,travel rarely,,Other,F, healthcare representative ,,,Yes,Part Time,,yes
+897,No,travel rarely,,,M, laboratory technician ,Married,Yes,No,Part Time,,no
+898,Yes,travel rarely,,Medical,M, laboratory technician ,Married,Yes,No,Part Time,,yes
+899,No,,,Life Sciences,M, research scientist ,Married,,No,Part Time,,yes
+900,No,travel rarely,,Life Sciences,F, manager ,Married,Yes,No,Full Time,,no
+901,Yes,travel frequently,,,F, sales representative ,,,No,Part Time,,yes
+902,No,travel rarely,,Life Sciences,F, research scientist ,Divorced,,No,Part Time,,yes
+903,No,,,,M, research director ,,,No,Full Time,,yes
+904,Yes,,,Technical Degree,F, research scientist ,Married,Yes,No,Part Time,,no
+905,No,,,Life Sciences,M, research director ,Married,Yes,No,Full Time,,no
+906,No,,,Marketing,F, sales executive ,,Yes,,,,no
+907,No,travel rarely, Sales ,Marketing,M, sales representative ,Single,Yes,,Part Time, sales representative  -  sales ,yes
+908,Yes,travel frequently, Human Resources ,,F, human resources ,Divorced,,Yes,Part Time, human resources  -  human resources ,no
+909,No,,,Other,M, laboratory technician ,Married,,No,Part Time,,yes
+910,Yes,, Research & Development ,Technical Degree,M, laboratory technician ,Single,Yes,No,Full Time, laboratory technician  -  research & development ,yes
+911,No,travel rarely,,Technical Degree,M, manufacturing director ,Divorced,Yes,No,Part Time,,yes
+912,No,travel frequently, Research & Development ,Medical,F, healthcare representative ,Married,,No,, healthcare representative  -  research & development ,yes
+913,Yes,, Sales ,Other,M, sales executive ,,,,Part Time, sales executive  -  sales ,yes
+914,No,,,Medical,M, sales representative ,,,No,,,no
+915,No,travel rarely,,,M, laboratory technician ,Single,Yes,No,Part Time,,no
+916,No,,,Life Sciences,F, healthcare representative ,Married,Yes,No,Part Time,,yes
+917,No,travel rarely,,,F, manager ,Married,,No,Full Time,,yes
+918,No,travel rarely,,,F, human resources ,,,No,Part Time,,yes
+919,No,, Sales ,,F, sales representative ,,,Yes,Part Time, sales representative  -  sales ,yes
+920,No,,,Technical Degree,M, sales representative ,,,,Full Time,,yes
+921,No,travel rarely,,,M, manager ,,Yes,,,,yes
+922,No,travel rarely,,Medical,M, research scientist ,Married,Yes,,Part Time,,yes
+923,No,travel rarely,,,F, laboratory technician ,,Yes,Yes,,,no
+924,No,,,Medical,M, manufacturing director ,,Yes,Yes,Full Time,,yes
+925,No,,,Medical,M, research scientist ,Single,Yes,,Part Time,,yes
+926,No,travel rarely,,,M, research scientist ,,,,Part Time,,no
+927,No,,,Life Sciences,M, sales executive ,,,No,Part Time,,no
+928,No,,,,M, sales executive ,,Yes,,Full Time,,yes
+929,Yes,travel rarely,,Life Sciences,F, sales executive ,Single,,No,Part Time,,yes
+930,No,travel rarely,,,M, sales executive ,Single,Yes,No,Full Time,,no
+931,No,,,Marketing,M, sales representative ,Married,,No,Part Time,,yes
+932,No,non travel,,,M, laboratory technician ,Single,,,Full Time,,no
+933,No,travel frequently,,,F, sales executive ,Divorced,Yes,Yes,Full Time,,yes
+934,Yes,,,,M, research scientist ,Divorced,,,Part Time,,yes
+935,No,travel frequently,,Life Sciences,M, sales executive ,Married,Yes,,Part Time,,yes
+936,No,,,,F, research scientist ,Single,,,Part Time,,no
+937,No,, Sales ,,M, sales representative ,,Yes,No,, sales representative  -  sales ,no
+938,No,,,,M, laboratory technician ,Single,Yes,,Part Time,,no
+939,No,travel rarely, Research & Development ,Medical,M, research scientist ,Single,Yes,,Part Time, research scientist  -  research & development ,no
+940,Yes,,,Medical,M, manager ,,,Yes,,,no
+941,No,travel frequently,,Life Sciences,F, laboratory technician ,,,No,Part Time,,yes
+942,No,travel rarely,,,F, research scientist ,Single,,No,,,no
+943,No,,,Marketing,M, sales executive ,Married,Yes,,Part Time,,yes
+944,No,travel rarely,,,F, sales representative ,,,No,,,yes
+945,No,travel rarely,,,M, laboratory technician ,Married,Yes,No,Part Time,,yes
+946,No,,,,F, sales executive ,,Yes,No,,,yes
+947,No,travel rarely, Research & Development ,Life Sciences,F, laboratory technician ,,Yes,,Part Time, laboratory technician  -  research & development ,yes
+948,Yes,travel rarely,,Marketing,F, sales executive ,Single,Yes,,Part Time,,no
+949,No,travel rarely, Research & Development ,,F, research scientist ,Single,Yes,No,Part Time, research scientist  -  research & development ,no
+950,Yes,,,,M, research scientist ,Single,Yes,No,Full Time,,yes
+951,No,travel rarely,,Human Resources,M, human resources ,Married,Yes,,Part Time,,yes
+952,No,travel frequently, Research & Development ,,F, research scientist ,Single,,No,Part Time, research scientist  -  research & development ,yes
+953,No,,,,M, human resources ,,,,,,no
+954,No,travel rarely,,,M, healthcare representative ,Single,Yes,,Full Time,,yes
+955,No,,,Life Sciences,M, sales executive ,Divorced,,,Part Time,,yes
+956,No,,,,F, sales executive ,Married,Yes,Yes,Full Time,,no
+957,No,,,Life Sciences,M, manufacturing director ,,,,Part Time,,no
+958,No,travel rarely,,Life Sciences,M, laboratory technician ,,,Yes,Part Time,,no
+959,Yes,travel frequently,,Life Sciences,F, research scientist ,Divorced,Yes,,Part Time,,yes
+960,No,,,,M, sales executive ,,Yes,No,Part Time,,no
+961,No,travel rarely,,Technical Degree,F, research scientist ,,,No,,,no
+962,No,non travel,,Life Sciences,M, laboratory technician ,,,,Part Time,,no
+963,No,travel rarely, Sales ,Marketing,M, sales representative ,,,,Full Time, sales representative  -  sales ,yes
+964,Yes,travel rarely,,Medical,F, sales representative ,,Yes,Yes,Part Time,,no
+965,No,travel frequently,,Life Sciences,F, healthcare representative ,Married,Yes,,,,yes
+966,No,travel rarely,,Medical,M, sales executive ,Single,,,Part Time,,no
+967,Yes,travel rarely,,,F, sales representative ,Single,Yes,,Part Time,,yes
+968,No,,,Life Sciences,F, sales representative ,Single,,Yes,,,yes
+969,Yes,travel rarely,,Life Sciences,F, manufacturing director ,Married,Yes,Yes,Part Time,,yes
+970,No,,,Medical,F, research scientist ,Divorced,,No,Part Time,,yes
+971,Yes,, Research & Development ,Medical,M, laboratory technician ,Married,,,Part Time, laboratory technician  -  research & development ,yes
+972,No,travel rarely, Research & Development ,,M, research scientist ,Single,Yes,,Part Time, research scientist  -  research & development ,no
+973,No,travel rarely, Research & Development ,Other,M, research scientist ,Single,Yes,,Part Time, research scientist  -  research & development ,yes
+974,No,travel rarely,,,F, sales executive ,,,,,,yes
+975,Yes,,,Medical,M, research scientist ,Single,,Yes,Part Time,,no
+976,No,travel rarely,,Life Sciences,F, research scientist ,Single,Yes,,Full Time,,no
+977,No,,,,F, laboratory technician ,,Yes,No,Part Time,,no
+978,Yes,travel rarely,,,F, research scientist ,Married,Yes,,Part Time,,yes
+979,No,,,Medical,F, manufacturing director ,Divorced,Yes,No,Part Time,,no
+980,Yes,travel rarely, Research & Development ,Other,M, laboratory technician ,Divorced,Yes,Yes,Part Time, laboratory technician  -  research & development ,no
+981,Yes,,,,F, laboratory technician ,,,,Part Time,,yes
+982,No,travel rarely, Research & Development ,,M, healthcare representative ,,Yes,No,, healthcare representative  -  research & development ,yes
+983,No,travel rarely,,Medical,F, manufacturing director ,,Yes,,,,no
+984,No,, Research & Development ,,F, manufacturing director ,,Yes,,Part Time, manufacturing director  -  research & development ,yes
+985,No,travel rarely, Research & Development ,Other,M, laboratory technician ,,,No,Full Time, laboratory technician  -  research & development ,no
+986,Yes,non travel,,Medical,M, sales executive ,Single,Yes,No,Part Time,,yes
+987,No,non travel, Sales ,Life Sciences,F, sales representative ,,Yes,,Part Time, sales representative  -  sales ,no
+988,Yes,,,Life Sciences,M, research scientist ,Married,Yes,,Part Time,,yes
+989,No,travel frequently,,,M, research scientist ,,Yes,No,,,no
+990,No,,,Medical,M, research director ,,,No,Full Time,,yes
+991,Yes,,,Marketing,F, sales representative ,Single,Yes,Yes,Part Time,,yes
+992,No,,,Other,M, manufacturing director ,,,,,,no
+993,No,non travel,,,M, laboratory technician ,Married,,,Part Time,,no
+994,No,,,,M, manufacturing director ,Married,,No,Part Time,,yes
+995,No,travel rarely,,Life Sciences,M, healthcare representative ,,,No,,,yes
+996,No,,,Life Sciences,M, laboratory technician ,,,No,,,yes
+997,No,,,Life Sciences,M, healthcare representative ,,Yes,No,,,yes
+998,Yes,,,Medical,M, research scientist ,Single,,Yes,Part Time,,no
+999,No,,,Life Sciences,F, sales executive ,Married,Yes,No,Part Time,,no
+1000,No,,,,F, research scientist ,Single,Yes,Yes,Part Time,,yes
+1001,No,travel frequently,,,M, sales representative ,Married,,No,,,yes
+1002,No,,,Marketing,M, sales executive ,Divorced,,,,,yes
+1003,No,,,,M, manufacturing director ,Single,,No,,,yes
+1004,Yes,,,,F, sales executive ,Single,,,Full Time,,no
+1005,Yes,, Research & Development ,Medical,M, laboratory technician ,,,No,Part Time, laboratory technician  -  research & development ,yes
+1006,No,travel rarely,,,F, healthcare representative ,,Yes,No,Full Time,,yes
+1007,No,travel rarely,,,M, research scientist ,Married,Yes,No,Part Time,,yes
+1008,No,travel frequently,,Other,M, laboratory technician ,Married,,,Part Time,,yes
+1009,No,,,,F, manager ,Divorced,Yes,No,Full Time,,yes
+1010,No,, Research & Development ,Medical,F, research scientist ,,,Yes,Part Time, research scientist  -  research & development ,yes
+1011,No,travel rarely,,,M, laboratory technician ,Single,,,Part Time,,yes
+1012,No,travel frequently,,,F, manager ,,,No,Full Time,,yes
+1013,No,,,Life Sciences,M, research director ,,Yes,,Full Time,,yes
+1014,No,,,Other,F, laboratory technician ,Married,Yes,No,Part Time,,yes
+1015,No,,,,F, sales executive ,Married,,,Part Time,,no
+1016,No,,,Life Sciences,F, research scientist ,Divorced,Yes,No,Full Time,,yes
+1017,Yes,travel frequently,,,F, laboratory technician ,,,,,,yes
+1018,No,travel rarely,,Marketing,F, sales executive ,,,,Part Time,,yes
+1019,No,,,Medical,M, laboratory technician ,Single,,Yes,Part Time,,no
+1020,No,travel rarely,,Life Sciences,M, research scientist ,Married,,Yes,Part Time,,no
+1021,No,travel frequently,,Life Sciences,M, laboratory technician ,Married,,,Full Time,,no
+1022,No,travel rarely,,Technical Degree,M, research scientist ,Single,Yes,,Part Time,,no
+1023,No,, Research & Development ,Medical,F, research scientist ,Single,Yes,,Part Time, research scientist  -  research & development ,no
+1024,No,,,Life Sciences,M, research scientist ,,Yes,,Part Time,,yes
+1025,Yes,,,Medical,M, research scientist ,Single,Yes,,Full Time,,no
+1026,No,travel rarely,,Technical Degree,F, laboratory technician ,Married,Yes,No,,,yes
+1027,No,,,Life Sciences,F, research director ,,,,Full Time,,yes
+1028,No,,,Medical,M, sales executive ,Single,,No,Part Time,,yes
+1029,Yes,,,,F, sales representative ,,,Yes,Part Time,,no
+1030,Yes,,,Life Sciences,M, laboratory technician ,,Yes,No,,,yes
+1031,No,non travel, Research & Development ,,M, research scientist ,Divorced,,No,, research scientist  -  research & development ,yes
+1032,No,travel rarely, Research & Development ,Medical,M, laboratory technician ,Married,,,Part Time, laboratory technician  -  research & development ,no
+1033,No,travel rarely,,Life Sciences,M, laboratory technician ,,Yes,No,Part Time,,yes
+1034,No,travel rarely,,Technical Degree,F, manufacturing director ,,,No,Full Time,,yes
+1035,No,travel frequently,,Life Sciences,M, sales executive ,Single,Yes,No,Part Time,,no
+1036,Yes,,,Marketing,F, sales executive ,Married,Yes,,Part Time,,yes
+1037,No,,,,M, research scientist ,Divorced,Yes,No,Part Time,,yes
+1038,Yes,,,,M, manufacturing director ,Married,,,Part Time,,yes
+1039,No,,,,M, sales executive ,,,,,,yes
+1040,No,,,,F, research scientist ,,,,Full Time,,no
+1041,No,,,Marketing,M, sales executive ,Married,,Yes,Part Time,,yes
+1042,No,travel rarely,,Life Sciences,M, sales executive ,Married,Yes,No,,,no
+1043,No,,,Marketing,F, sales executive ,Married,,Yes,Full Time,,yes
+1044,Yes,travel rarely,,Life Sciences,F, research scientist ,Single,Yes,Yes,Part Time,,yes
+1045,No,,,Medical,F, laboratory technician ,Single,,No,Full Time,,yes
+1046,No,travel frequently,,Life Sciences,M, manufacturing director ,,Yes,No,Part Time,,yes
+1047,No,,,,M, laboratory technician ,,Yes,No,Full Time,,yes
+1048,No,,,Marketing,F, sales executive ,Divorced,,No,Part Time,,yes
+1049,No,, Research & Development ,Life Sciences,F, research director ,,,No,Full Time, research director  -  research & development ,yes
+1050,No,,,Marketing,F, sales executive ,,,No,,,no
+1051,Yes,travel rarely,,,M, sales representative ,,,No,Full Time,,yes
+1052,No,,,Life Sciences,F, research scientist ,,,,Part Time,,yes
+1053,No,,,Medical,M, research scientist ,,,,Part Time,,yes
+1054,No,travel rarely,,,F, human resources ,,Yes,No,Part Time,,yes
+1055,Yes,travel frequently, Research & Development ,Life Sciences,M, laboratory technician ,,Yes,,Part Time, laboratory technician  -  research & development ,yes
+1056,No,, Sales ,Marketing,M, sales executive ,Divorced,Yes,No,, sales executive  -  sales ,no
+1057,Yes,,,,F, human resources ,Married,,No,,,no
+1058,No,,,Life Sciences,M, laboratory technician ,Single,Yes,,,,no
+1059,No,travel rarely, Research & Development ,,M, healthcare representative ,Married,Yes,No,Full Time, healthcare representative  -  research & development ,yes
+1060,No,,,Life Sciences,M, research scientist ,,Yes,,Full Time,,no
+1061,Yes,,,,M, sales representative ,Married,,,Full Time,,no
+1062,No,travel frequently, Research & Development ,,M, manufacturing director ,Single,Yes,,, manufacturing director  -  research & development ,yes
+1063,No,travel rarely,,Life Sciences,M, healthcare representative ,Married,,,Part Time,,yes
+1064,No,travel frequently,,Life Sciences,M, sales executive ,Single,,,Part Time,,yes
+1065,No,travel rarely,,Medical,F, laboratory technician ,,,,Part Time,,yes
+1066,No,travel frequently,,Life Sciences,F, laboratory technician ,,,No,Full Time,,no
+1067,No,,,,M, manager ,,,,Full Time,,yes
+1068,Yes,travel frequently,,Life Sciences,F, research scientist ,,Yes,No,Part Time,,yes
+1069,No,,,Life Sciences,M, healthcare representative ,Divorced,Yes,,,,no
+1070,No,travel rarely,,Life Sciences,M, sales representative ,,Yes,Yes,Part Time,,no
+1071,No,,,Life Sciences,M, sales executive ,,Yes,No,Full Time,,no
+1072,No,, Sales ,,M, sales executive ,,Yes,,, sales executive  -  sales ,yes
+1073,Yes,travel rarely,,Medical,M, manufacturing director ,Married,,,,,no
+1074,No,travel rarely, Research & Development ,,F, research scientist ,Married,,,Part Time, research scientist  -  research & development ,yes
+1075,No,, Research & Development ,,M, research scientist ,,Yes,No,Part Time, research scientist  -  research & development ,yes
+1076,No,travel rarely,,Life Sciences,F, sales executive ,Single,Yes,No,Part Time,,no
+1077,No,travel rarely,,,F, healthcare representative ,Single,,Yes,Part Time,,yes
+1078,No,,,,M, research scientist ,Married,,No,,,yes
+1079,No,,,,M, laboratory technician ,,,Yes,Part Time,,no
+1080,No,travel frequently,,,M, healthcare representative ,,,No,Part Time,,no
+1081,No,non travel,,Other,F, research scientist ,Married,Yes,,,,yes
+1082,No,,,,F, research scientist ,Married,Yes,No,Full Time,,yes
+1083,No,travel frequently,,,M, sales executive ,Single,,,,,no
+1084,No,travel rarely,,Life Sciences,F, manufacturing director ,Married,,Yes,Part Time,,yes
+1085,No,,,Medical,M, research scientist ,Single,Yes,No,Full Time,,no
+1086,No,,,,F, manager ,Married,Yes,No,Full Time,,no
+1087,No,,,Medical,F, manufacturing director ,,Yes,No,Part Time,,yes
+1088,No,,,,F, manufacturing director ,,,,Part Time,,yes
+1089,No,travel frequently,,,M, manager ,,Yes,No,Full Time,,yes
+1090,Yes,,,Medical,M, sales executive ,,Yes,Yes,Part Time,,no
+1091,No,travel rarely, Research & Development ,Medical,F, research scientist ,,,,Part Time, research scientist  -  research & development ,no
+1092,No,,,Medical,M, research scientist ,Single,Yes,No,Part Time,,yes
+1093,Yes,travel rarely,,,M, laboratory technician ,,,Yes,Part Time,,yes
+1094,No,,,,M, sales executive ,Single,Yes,No,Part Time,,yes
+1095,No,,,Life Sciences,F, healthcare representative ,Married,,No,Part Time,,yes
+1096,No,travel rarely,,Other,F, research director ,Married,,,Full Time,,yes
+1097,No,travel rarely,,Medical,F, sales representative ,Single,,,Part Time,,yes
+1098,No,non travel, Research & Development ,,F, manufacturing director ,,,,Part Time, manufacturing director  -  research & development ,yes
+1099,No,travel rarely,,,M, sales executive ,,Yes,,Full Time,,yes
+1100,No,,,Medical,F, laboratory technician ,Divorced,Yes,,,,yes
+1101,No,travel rarely,,Life Sciences,F, manager ,,,,Full Time,,yes
+1102,No,travel rarely,,,M, sales representative ,,Yes,No,,,yes
+1103,No,travel rarely,,,M, healthcare representative ,Married,Yes,No,Part Time,,no
+1104,No,travel rarely, Human Resources ,,F, human resources ,,Yes,Yes,Part Time, human resources  -  human resources ,no
+1105,No,,,Technical Degree,M, research scientist ,Divorced,,No,Part Time,,yes
+1106,Yes,,,Life Sciences,M, sales representative ,Divorced,,Yes,Part Time,,no
+1107,No,,,,M, laboratory technician ,,,No,Part Time,,yes
+1108,No,travel frequently,,,M, research scientist ,Married,,,,,yes
+1109,No,,,Life Sciences,M, laboratory technician ,Married,,,Full Time,,no
+1110,No,non travel, Human Resources ,Human Resources,M, human resources ,Married,,No,, human resources  -  human resources ,no
+1111,No,travel rarely,,Medical,M, laboratory technician ,,,No,Full Time,,yes
+1112,Yes,,,Marketing,M, sales executive ,,,Yes,Part Time,,yes
+1113,No,,,,F, laboratory technician ,Single,,No,Part Time,,no
+1114,No,,,Medical,M, human resources ,,,No,Part Time,,no
+1115,Yes,travel frequently,,,F, human resources ,Divorced,Yes,No,,,no
+1116,No,,,,M, sales executive ,,,No,,,yes
+1117,No,,,,F, research scientist ,,Yes,,Full Time,,no
+1118,Yes,travel rarely,,,F, sales representative ,Single,,,Part Time,,yes
+1119,No,,,,M, healthcare representative ,,,Yes,Full Time,,no
+1120,No,,,,F, manufacturing director ,Married,Yes,Yes,Full Time,,yes
+1121,No,travel rarely,,,F, sales executive ,,,No,,,yes
+1122,No,travel rarely,,,F, manager ,Married,,No,,,yes
+1123,No,travel rarely, Sales ,Marketing,M, sales executive ,,,No,Part Time, sales executive  -  sales ,no
+1124,No,,,Life Sciences,M, sales executive ,,,,Part Time,,no
+1125,No,non travel, Research & Development ,,M, research scientist ,,,No,, research scientist  -  research & development ,yes
+1126,No,travel rarely,,,M, healthcare representative ,Single,Yes,,Part Time,,no
+1127,No,,,,F, sales executive ,,Yes,No,Part Time,,no
+1128,No,travel rarely,,Medical,F, research scientist ,,Yes,No,,,no
+1129,No,, Sales ,,F, sales representative ,,Yes,Yes,Full Time, sales representative  -  sales ,yes
+1130,No,travel frequently, Research & Development ,Life Sciences,M, research director ,Married,,,Full Time, research director  -  research & development ,yes
+1131,Yes,travel rarely,,,M, human resources ,Divorced,,,Part Time,,no
+1132,No,travel rarely,,Life Sciences,F, laboratory technician ,Single,Yes,,Part Time,,no
+1133,No,,,Life Sciences,M, human resources ,,Yes,,Part Time,,yes
+1134,Yes,travel rarely, Sales ,Marketing,M, sales executive ,,,Yes,Part Time, sales executive  -  sales ,yes
+1135,No,travel rarely,,,M, research scientist ,,,,,,yes
+1136,No,travel rarely,,,M, research scientist ,,,,,,no
+1137,No,,,Life Sciences,M, laboratory technician ,Single,Yes,,Part Time,,yes
+1138,No,,,Other,F, manufacturing director ,,,,Part Time,,no
+1139,Yes,non travel,,Technical Degree,M, research scientist ,,,,Part Time,,yes
+1140,Yes,travel rarely,,,M, laboratory technician ,Single,,No,Part Time,,yes
+1141,No,,,Marketing,M, sales executive ,,Yes,,Full Time,,yes
+1142,No,,,,F, sales executive ,Divorced,Yes,Yes,Part Time,,no
+1143,No,,,,F, sales executive ,Married,,Yes,Full Time,,yes
+1144,No,travel rarely,,,F, laboratory technician ,Divorced,,No,Full Time,,no
+1145,No,travel frequently,,Medical,M, healthcare representative ,Single,Yes,No,Full Time,,yes
+1146,No,,,,F, sales executive ,,Yes,,Part Time,,no
+1147,No,travel rarely,,,M, research scientist ,Divorced,,No,Part Time,,no
+1148,No,,,,M, research scientist ,Divorced,Yes,,,,yes
+1149,Yes,,,Life Sciences,M, sales executive ,,Yes,Yes,,,yes
+1150,No,travel frequently, Human Resources ,Other,M, human resources ,,Yes,Yes,Part Time, human resources  -  human resources ,no
+1151,No,,,,F, manufacturing director ,Single,Yes,Yes,Part Time,,no
+1152,No,,,,M, laboratory technician ,Single,,No,Part Time,,yes
+1153,No,,,Other,M, laboratory technician ,,Yes,,Part Time,,yes
+1154,No,,,Life Sciences,M, sales representative ,,,No,,,yes
+1155,No,travel rarely,,Medical,M, laboratory technician ,Married,Yes,Yes,Part Time,,yes
+1156,No,, Research & Development ,,M, research scientist ,,,No,Full Time, research scientist  -  research & development ,yes
+1157,No,travel rarely,,,F, laboratory technician ,Single,,,Part Time,,no
+1158,No,,,,M, sales representative ,,Yes,,Part Time,,yes
+1159,No,travel rarely, Sales ,Medical,M, sales representative ,Single,,,Part Time, sales representative  -  sales ,yes
+1160,No,,,Life Sciences,F, manufacturing director ,,Yes,No,Part Time,,yes
+1161,Yes,travel rarely,,,M, research scientist ,,Yes,,Full Time,,yes
+1162,No,travel rarely,,Technical Degree,M, research scientist ,,,No,Part Time,,yes
+1163,No,travel rarely,,,M, research scientist ,,Yes,No,Part Time,,yes
+1164,No,travel frequently,,Life Sciences,M, healthcare representative ,,,,Part Time,,no
+1165,Yes,travel rarely, Sales ,Marketing,M, sales executive ,,Yes,,, sales executive  -  sales ,yes
+1166,No,,,Other,F, sales representative ,Single,Yes,No,Part Time,,yes
+1167,No,travel frequently,,Medical,M, laboratory technician ,,Yes,No,Part Time,,no
+1168,No,travel rarely,,Life Sciences,M, manufacturing director ,,Yes,Yes,,,no
+1169,No,,,Medical,M, laboratory technician ,,,No,Part Time,,no
+1170,No,,,Life Sciences,F, research scientist ,Married,,Yes,Full Time,,yes
+1171,No,, Research & Development ,Medical,M, research scientist ,Single,,No,Part Time, research scientist  -  research & development ,yes
+1172,No,travel rarely, Research & Development ,Technical Degree,M, laboratory technician ,,Yes,,Part Time, laboratory technician  -  research & development ,yes
+1173,No,,,,M, research scientist ,Divorced,Yes,,,,yes
+1174,No,travel rarely,,Life Sciences,M, research scientist ,,,No,Part Time,,yes
+1175,No,travel frequently,,,F, laboratory technician ,Single,Yes,,Part Time,,yes
+1176,No,,,Medical,F, research scientist ,,,,Full Time,,yes
+1177,No,,,,M, laboratory technician ,Married,Yes,,Part Time,,yes
+1178,No,travel rarely,,Medical,M, manufacturing director ,Divorced,,,Part Time,,yes
+1179,No,,,Technical Degree,F, healthcare representative ,,Yes,Yes,,,yes
+1180,No,,,,M, healthcare representative ,Single,Yes,,Full Time,,yes
+1181,No,,,Medical,F, research scientist ,Married,,No,,,no
+1182,No,,,,F, research director ,,Yes,No,Full Time,,no
+1183,Yes,, Sales ,Medical,M, sales executive ,Divorced,Yes,No,, sales executive  -  sales ,no
+1184,Yes,,,,F, sales executive ,,,,Part Time,,yes
+1185,No,,,,M, research director ,Married,,No,,,yes
+1186,No,travel rarely,,,F, healthcare representative ,,Yes,No,Part Time,,yes
+1187,No,,,Life Sciences,M, research director ,,Yes,No,Full Time,,no
+1188,No,travel rarely,,Medical,M, human resources ,Divorced,,,,,yes
+1189,No,travel frequently, Research & Development ,,M, research scientist ,Single,,,Part Time, research scientist  -  research & development ,yes
+1190,No,travel rarely,,,F, research scientist ,,,,,,yes
+1191,No,,,,M, research scientist ,,,Yes,Full Time,,yes
+1192,Yes,,,Life Sciences,M, sales executive ,Married,Yes,,Part Time,,yes
+1193,No,travel frequently,,Technical Degree,F, sales representative ,,Yes,No,Part Time,,no
+1194,No,, Research & Development ,,M, research scientist ,Married,Yes,,Part Time, research scientist  -  research & development ,no
+1195,No,,,,M, sales executive ,Divorced,Yes,No,,,yes
+1196,No,travel rarely,,Life Sciences,F, sales representative ,Married,Yes,Yes,Part Time,,no
+1197,No,travel rarely,,Medical,M, research director ,,,,Full Time,,no
+1198,Yes,,,,M, laboratory technician ,,Yes,No,Part Time,,no
+1199,No,travel frequently, Research & Development ,Life Sciences,M, research scientist ,Divorced,Yes,Yes,, research scientist  -  research & development ,no
+1200,Yes,,,,F, laboratory technician ,Married,,,,,yes
+1201,No,,,Medical,F, research scientist ,,Yes,Yes,Part Time,,yes
+1202,No,travel rarely,,,M, research scientist ,Single,Yes,No,,,no
+1203,No,travel rarely,,Marketing,M, sales representative ,Single,Yes,,Part Time,,yes
+1204,No,,,,F, sales executive ,Divorced,,No,Part Time,,no
+1205,Yes,,,,F, research scientist ,,,,Part Time,,yes
+1206,No,,,,F, sales executive ,Single,Yes,No,Part Time,,no
+1207,No,travel rarely, Research & Development ,Medical,F, manager ,,,Yes,Full Time, manager  -  research & development ,no
+1208,No,travel rarely,,,M, manufacturing director ,Married,,Yes,Part Time,,yes
+1209,No,travel rarely,,,M, research scientist ,,Yes,No,,,no
+1210,No,,,Life Sciences,M, sales executive ,,,,,,no
+1211,No,, Research & Development ,Technical Degree,M, laboratory technician ,,,,Part Time, laboratory technician  -  research & development ,no
+1212,No,,,Life Sciences,F, research scientist ,Married,,No,,,yes
+1213,Yes,travel rarely,,Medical,M, laboratory technician ,Married,Yes,,Part Time,,no
+1214,No,, Sales ,,F, sales executive ,Single,,,Part Time, sales executive  -  sales ,yes
+1215,No,travel frequently, Research & Development ,Medical,F, laboratory technician ,Married,,,Part Time, laboratory technician  -  research & development ,no
+1216,No,travel rarely,,,M, research director ,,Yes,,Full Time,,yes
+1217,Yes,travel frequently,,Life Sciences,M, laboratory technician ,,Yes,,Part Time,,no
+1218,No,,,Life Sciences,M, sales executive ,,Yes,,Part Time,,no
+1219,Yes,travel rarely, Human Resources ,,F, human resources ,Married,Yes,Yes,Part Time, human resources  -  human resources ,yes
+1220,No,travel rarely,,Medical,F, research scientist ,Married,Yes,No,,,no
+1221,No,travel frequently,,,M, human resources ,,,No,Part Time,,yes
+1222,Yes,travel frequently, Research & Development ,,F, research scientist ,,Yes,Yes,Part Time, research scientist  -  research & development ,no
+1223,No,,,,F, healthcare representative ,,,No,,,yes
+1224,Yes,, Research & Development ,,M, laboratory technician ,,,No,Part Time, laboratory technician  -  research & development ,yes
+1225,No,,,Medical,M, laboratory technician ,Divorced,,,,,no
+1226,Yes,travel rarely,,,M, laboratory technician ,Single,,Yes,,,yes
+1227,No,travel rarely,,Medical,F, laboratory technician ,,Yes,,,,yes
+1228,No,travel rarely,,Life Sciences,M, laboratory technician ,Divorced,Yes,,,,yes
+1229,No,,,,M, laboratory technician ,,,Yes,,,no
+1230,No,travel rarely,,,M, research scientist ,Single,Yes,No,Part Time,,yes
+1231,No,travel rarely,,Medical,M, laboratory technician ,,Yes,,Part Time,,no
+1232,Yes,travel rarely,,Technical Degree,M, sales representative ,,,No,Part Time,,yes
+1233,Yes,travel rarely,,,M, research scientist ,,,Yes,Part Time,,no
+1234,No,, Research & Development ,Other,M, laboratory technician ,Divorced,Yes,,Part Time, laboratory technician  -  research & development ,yes
+1235,No,,,Life Sciences,F, laboratory technician ,Divorced,Yes,,Part Time,,no
+1236,Yes,,,Life Sciences,M, laboratory technician ,Single,,,,,no
+1237,No,, Research & Development ,Life Sciences,M, research scientist ,Married,Yes,No,Full Time, research scientist  -  research & development ,no
+1238,No,,,,M, laboratory technician ,,Yes,No,,,yes
+1239,Yes,,,,M, laboratory technician ,,,,Part Time,,no
+1240,No,non travel,,Medical,M, healthcare representative ,Married,,Yes,Part Time,,yes
+1241,No,travel rarely,,,F, manager ,Divorced,,Yes,Full Time,,yes
+1242,No,,,Life Sciences,M, research scientist ,,Yes,No,Part Time,,yes
+1243,Yes,,,Medical,M, research scientist ,,,,Full Time,,yes
+1244,No,travel rarely, Research & Development ,Life Sciences,F, laboratory technician ,,,No,, laboratory technician  -  research & development ,yes
+1245,No,travel rarely, Research & Development ,Other,M, research director ,,Yes,Yes,Part Time, research director  -  research & development ,no
+1246,No,,,,M, sales executive ,Married,,,,,yes
+1247,No,,,Technical Degree,M, sales representative ,Divorced,Yes,No,Part Time,,no
+1248,No,travel rarely,,Life Sciences,M, research scientist ,Single,Yes,No,Part Time,,yes
+1249,Yes,, Research & Development ,Life Sciences,F, laboratory technician ,Single,Yes,Yes,, laboratory technician  -  research & development ,no
+1250,No,,,Life Sciences,M, healthcare representative ,Divorced,Yes,No,Part Time,,no
+1251,No,, Research & Development ,,F, laboratory technician ,Single,Yes,No,Part Time, laboratory technician  -  research & development ,no
+1252,No,,,Life Sciences,F, research scientist ,,Yes,,Part Time,,yes
+1253,No,,,Life Sciences,F, laboratory technician ,Divorced,,,Full Time,,no
+1254,Yes,travel rarely, Sales ,Marketing,M, sales representative ,Single,,Yes,Part Time, sales representative  -  sales ,yes
+1255,No,,,Life Sciences,M, laboratory technician ,,Yes,,Part Time,,yes
+1256,No,,,,F, laboratory technician ,Single,,No,Part Time,,no
+1257,No,,,,M, manufacturing director ,Married,Yes,No,,,yes
+1258,No,,,,F, research scientist ,Married,Yes,Yes,Part Time,,no
+1259,Yes,travel frequently,,,F, sales representative ,,Yes,No,Part Time,,yes
+1260,Yes,travel rarely,,Life Sciences,M, laboratory technician ,Single,,,Part Time,,yes
+1261,Yes,travel rarely,,,M, manufacturing director ,,Yes,Yes,Part Time,,yes
+1262,No,travel rarely,,,M, manufacturing director ,,,,Full Time,,no
+1263,Yes,,,Medical,M, healthcare representative ,Married,,Yes,Full Time,,no
+1264,No,, Sales ,Life Sciences,F, manager ,Single,,Yes,Full Time, manager  -  sales ,no
+1265,No,travel rarely,,Life Sciences,M, research scientist ,Married,,,Part Time,,yes
+1266,No,travel rarely,,Medical,F, manager ,Divorced,,No,Full Time,,no
+1267,No,travel rarely, Research & Development ,Life Sciences,M, research scientist ,Divorced,,,Part Time, research scientist  -  research & development ,yes
+1268,No,,,,M, manager ,,,,Full Time,,no
+1269,Yes,,,Medical,M, manufacturing director ,,,No,Full Time,,yes
+1270,No,,,,M, research scientist ,Married,,No,Part Time,,yes
+1271,Yes,travel rarely,,Life Sciences,M, laboratory technician ,Single,,,Part Time,,no
+1272,No,travel rarely,,Medical,M, sales executive ,Married,Yes,No,Full Time,,yes
+1273,No,travel rarely, Research & Development ,Medical,M, healthcare representative ,,Yes,No,Part Time, healthcare representative  -  research & development ,yes
+1274,No,travel rarely,,Medical,F, sales executive ,,Yes,Yes,Full Time,,no
+1275,Yes,travel frequently,,Life Sciences,M, laboratory technician ,,,Yes,Full Time,,yes
+1276,No,,,Technical Degree,M, research scientist ,Single,Yes,,Part Time,,yes
+1277,Yes,, Research & Development ,,M, laboratory technician ,Single,Yes,No,, laboratory technician  -  research & development ,yes
+1278,No,,,Life Sciences,M, laboratory technician ,Married,,No,Part Time,,yes
+1279,No,,,,F, sales representative ,,Yes,No,Part Time,,no
+1280,Yes,travel rarely,,,F, sales executive ,Married,Yes,Yes,,,yes
+1281,No,travel rarely, Research & Development ,,F, healthcare representative ,,Yes,No,Part Time, healthcare representative  -  research & development ,yes
+1282,No,travel frequently,,Medical,M, sales representative ,,,No,Part Time,,no
+1283,No,travel rarely,,,F, research director ,Single,Yes,No,Full Time,,no
+1284,No,,,,F, laboratory technician ,Married,Yes,No,Part Time,,yes
+1285,No,travel rarely,,Medical,F, manager ,Married,Yes,,Part Time,,yes
+1286,No,travel rarely, Research & Development ,,M, healthcare representative ,,,,Full Time, healthcare representative  -  research & development ,no
+1287,No,non travel,,Medical,F, sales executive ,,Yes,,,,yes
+1288,Yes,travel rarely,,Marketing,F, sales representative ,Single,,,Full Time,,no
+1289,No,, Research & Development ,Medical,F, manufacturing director ,Married,,,Part Time, manufacturing director  -  research & development ,yes
+1290,Yes,travel rarely, Sales ,Life Sciences,F, sales representative ,Single,Yes,,, sales representative  -  sales ,no
+1291,No,,,Technical Degree,M, sales representative ,,,,,,yes
+1292,Yes,travel frequently,,,M, research scientist ,Single,Yes,Yes,Part Time,,no
+1293,No,travel rarely,,,M, manufacturing director ,Single,Yes,,Part Time,,yes
+1294,No,travel rarely,,,F, laboratory technician ,Married,,No,,,yes
+1295,No,travel rarely,,,M, laboratory technician ,,Yes,,Part Time,,no
+1296,No,travel frequently,,,M, laboratory technician ,Married,Yes,Yes,Part Time,,no
+1297,Yes,,,Technical Degree,M, human resources ,Single,Yes,No,Part Time,,yes
+1298,No,travel rarely,,,M, manager ,Divorced,Yes,No,Full Time,,yes
+1299,No,travel rarely,,Medical,F, manufacturing director ,,,,Part Time,,yes
+1300,No,travel rarely,,Life Sciences,F, laboratory technician ,Single,Yes,,Part Time,,no
+1301,Yes,travel frequently,,,M, healthcare representative ,,Yes,No,Part Time,,yes
+1302,Yes,travel frequently,,Marketing,M, sales representative ,,,Yes,Part Time,,no
+1303,No,,,Other,M, sales executive ,,,No,Part Time,,yes
+1304,No,,,,M, sales executive ,,,,Part Time,,yes
+1305,Yes,travel rarely, Research & Development ,,M, laboratory technician ,Single,,Yes,, laboratory technician  -  research & development ,yes
+1306,No,,,,F, healthcare representative ,,,No,,,yes
+1307,No,,,Other,M, laboratory technician ,Married,Yes,No,Part Time,,yes
+1308,Yes,travel frequently,,,M, sales representative ,Married,Yes,No,Part Time,,yes
+1309,No,travel rarely,,Marketing,M, sales executive ,Married,,,Full Time,,no
+1310,No,travel rarely, Research & Development ,Life Sciences,F, research scientist ,,,No,Part Time, research scientist  -  research & development ,yes
+1311,No,,,Other,M, research director ,Divorced,Yes,,Full Time,,no
+1312,No,,,Life Sciences,F, research scientist ,,,No,Part Time,,yes
+1313,No,, Sales ,Marketing,M, sales executive ,Divorced,Yes,,Part Time, sales executive  -  sales ,no
+1314,No,,,,F, research scientist ,,,No,Part Time,,no
+1315,No,, Sales ,Medical,F, sales executive ,,Yes,No,Part Time, sales executive  -  sales ,no
+1316,Yes,,,Medical,M, research scientist ,Single,,,Part Time,,yes
+1317,No,non travel,,,M, laboratory technician ,,Yes,No,,,no
+1318,No,,,Life Sciences,M, research scientist ,Single,Yes,No,Part Time,,yes
+1319,No,,,,F, manufacturing director ,Single,,Yes,Part Time,,yes
+1320,No,,,,M, sales representative ,Single,Yes,No,Part Time,,no
+1321,No,,,,F, healthcare representative ,Divorced,Yes,No,Part Time,,yes
+1322,No,travel rarely,,Medical,M, research scientist ,Married,,Yes,,,yes
+1323,No,travel rarely,,Life Sciences,F, manufacturing director ,,,No,Part Time,,yes
+1324,Yes,,,Life Sciences,M, laboratory technician ,,,Yes,,,no
+1325,No,,,Life Sciences,M, laboratory technician ,Divorced,Yes,No,Part Time,,no
+1326,Yes,travel rarely,,Life Sciences,F, laboratory technician ,Married,,,Part Time,,yes
+1327,No,travel frequently,,Medical,M, laboratory technician ,,Yes,No,Part Time,,yes
+1328,No,travel rarely, Research & Development ,,F, manufacturing director ,Single,Yes,,Part Time, manufacturing director  -  research & development ,yes
+1329,No,,,,F, research scientist ,,,No,Part Time,,yes
+1330,No,,,Medical,M, research scientist ,Married,,,Part Time,,yes
+1331,No,,,Marketing,M, sales executive ,,Yes,,Part Time,,yes
+1332,No,,,Life Sciences,M, laboratory technician ,Divorced,,No,Part Time,,yes
+1333,No,travel rarely,,Marketing,M, sales executive ,Married,,,Full Time,,yes
+1334,No,,,,M, sales executive ,Single,,Yes,Part Time,,no
+1335,Yes,travel rarely,,,M, laboratory technician ,,Yes,,Part Time,,yes
+1336,Yes,travel frequently,,,M, laboratory technician ,Divorced,Yes,,Part Time,,yes
+1337,No,travel rarely,,,F, manufacturing director ,Divorced,Yes,No,Part Time,,no
+1338,Yes,travel rarely, Research & Development ,Other,F, research scientist ,Single,,No,Part Time, research scientist  -  research & development ,no
+1339,No,,,Life Sciences,M, laboratory technician ,,Yes,No,Part Time,,yes
+1340,No,,,,F, healthcare representative ,Divorced,Yes,,Full Time,,no
+1341,No,,,Medical,M, research scientist ,Married,,,Part Time,,no
+1342,No,non travel,,Life Sciences,F, laboratory technician ,Married,,No,Part Time,,yes
+1343,Yes,,,Marketing,M, sales representative ,Married,Yes,Yes,Part Time,,no
+1344,No,, Sales ,Marketing,M, sales executive ,Divorced,,No,Part Time, sales executive  -  sales ,yes
+1345,Yes,,,Other,M, sales representative ,Single,Yes,Yes,Part Time,,no
+1346,Yes,travel rarely, Research & Development ,Technical Degree,M, laboratory technician ,Single,Yes,,Part Time, laboratory technician  -  research & development ,no
+1347,No,travel rarely,,,F, healthcare representative ,,,,Part Time,,yes
+1348,Yes,travel rarely,,,M, research scientist ,Single,Yes,No,Part Time,,no
+1349,Yes,non travel,,,F, sales executive ,Single,,,Full Time,,yes
+1350,Yes,travel rarely,,,F, research scientist ,Single,,Yes,Part Time,,yes
+1351,No,travel rarely,,Life Sciences,F, sales executive ,Single,Yes,Yes,,,no
+1352,No,,,,M, research scientist ,,,No,Part Time,,yes
+1353,Yes,,,Medical,F, research scientist ,,,Yes,Part Time,,no
+1354,No,,,,M, manager ,,,No,Full Time,,yes
+1355,No,travel rarely, Research & Development ,,M, laboratory technician ,Married,,No,, laboratory technician  -  research & development ,yes
+1356,Yes,travel rarely,,Medical,F, healthcare representative ,,,No,Part Time,,yes
+1357,No,,,Life Sciences,M, sales executive ,,,Yes,,,no
+1358,Yes,,,,M, laboratory technician ,Divorced,,,Part Time,,yes
+1359,No,travel rarely, Sales ,Medical,M, sales representative ,Married,Yes,No,, sales representative  -  sales ,yes
+1360,No,,,,M, sales executive ,,Yes,No,Part Time,,yes
+1361,Yes,travel rarely, Research & Development ,,F, laboratory technician ,Single,,No,Part Time, laboratory technician  -  research & development ,yes
+1362,Yes,travel rarely,,,M, research scientist ,Married,,,Part Time,,no
+1363,No,, Sales ,,F, sales executive ,Divorced,,Yes,Part Time, sales executive  -  sales ,no
+1364,Yes,, Research & Development ,Medical,M, laboratory technician ,Divorced,,No,, laboratory technician  -  research & development ,no
+1365,Yes,,,,M, sales executive ,Single,Yes,Yes,Part Time,,yes
+1366,No,,,,M, research scientist ,,Yes,No,Part Time,,yes
+1367,No,travel rarely,,Marketing,M, sales executive ,Single,Yes,No,Part Time,,yes
+1368,No,,,,M, laboratory technician ,,,,Part Time,,no
+1369,Yes,,,,M, laboratory technician ,Single,,No,Part Time,,yes
+1370,No,,,,M, laboratory technician ,,,Yes,Full Time,,no
+1371,No,travel rarely, Research & Development ,Medical,M, laboratory technician ,,Yes,No,Part Time, laboratory technician  -  research & development ,yes
+1372,No,, Sales ,,F, sales representative ,,,,Full Time, sales representative  -  sales ,yes
+1373,Yes,,,Life Sciences,M, research scientist ,Married,,Yes,Full Time,,yes
+1374,No,non travel,,,M, research scientist ,Single,Yes,No,Part Time,,yes
+1375,Yes,non travel,,Life Sciences,M, research scientist ,,,No,Part Time,,yes
+1376,No,travel frequently,,,M, sales executive ,,,No,Part Time,,no
+1377,Yes,,,Life Sciences,F, laboratory technician ,,,,Part Time,,yes
+1378,No,travel frequently,,Medical,F, research director ,Married,,Yes,,,no
+1379,No,, Research & Development ,Medical,M, manager ,Married,,,Full Time, manager  -  research & development ,yes
+1380,No,travel rarely,,Technical Degree,M, laboratory technician ,Single,Yes,,,,yes
+1381,No,travel rarely, Research & Development ,,M, healthcare representative ,,,,Part Time, healthcare representative  -  research & development ,yes
+1382,No,, Research & Development ,Life Sciences,M, research director ,Single,,No,, research director  -  research & development ,yes
+1383,No,,,Technical Degree,F, research scientist ,,,No,Part Time,,yes
+1384,No,,,Life Sciences,F, research scientist ,Single,Yes,,Part Time,,yes
+1385,No,,,,M, research scientist ,,Yes,No,Part Time,,no
+1386,Yes,travel frequently,,,M, sales representative ,Single,Yes,Yes,,,yes
+1387,No,,,Medical,F, research scientist ,Married,Yes,Yes,Part Time,,no
+1388,No,travel frequently,,Medical,F, laboratory technician ,Single,Yes,,Full Time,,no
+1389,No,travel frequently,,Medical,F, manager ,,,,Full Time,,no
+1390,No,,,Medical,F, sales representative ,Married,,,Part Time,,yes
+1391,No,non travel,,,F, laboratory technician ,Single,Yes,,Part Time,,no
+1392,Yes,travel frequently,,,F, sales representative ,Single,,No,Part Time,,yes
+1393,Yes,travel frequently,,Life Sciences,F, sales representative ,Single,,,Part Time,,no
+1394,Yes,travel rarely,,Life Sciences,F, research scientist ,,Yes,,Part Time,,no
+1395,No,travel rarely,,Life Sciences,M, laboratory technician ,Married,,,Part Time,,no
+1396,Yes,,,,F, laboratory technician ,Single,,Yes,,,yes
+1397,No,travel frequently,,Marketing,F, sales executive ,Married,,,Part Time,,no
+1398,No,, Research & Development ,,M, research scientist ,,Yes,,Part Time, research scientist  -  research & development ,no
+1399,No,travel rarely,,Life Sciences,M, sales representative ,,,No,Part Time,,yes
+1400,Yes,travel frequently,,,M, laboratory technician ,,,,Part Time,,no
+1401,No,,,,F, sales representative ,Married,Yes,,Part Time,,yes
+1402,Yes,,,Medical,M, laboratory technician ,Single,,No,Part Time,,yes
+1403,No,travel rarely,,Life Sciences,M, research scientist ,,Yes,,Part Time,,no
+1404,No,,,,M, healthcare representative ,,Yes,,,,yes
+1405,No,travel rarely,,,F, manufacturing director ,Single,Yes,,Part Time,,no
+1406,No,,,Medical,M, laboratory technician ,Married,Yes,,Full Time,,yes
+1407,No,travel rarely,,,M, research scientist ,Married,,No,Part Time,,no
+1408,No,travel rarely,,,M, laboratory technician ,,,No,Part Time,,no
+1409,Yes,travel rarely,,,F, laboratory technician ,,,,,,yes
+1410,No,,,Medical,M, research scientist ,Single,Yes,,Full Time,,no
+1411,No,travel rarely,,,F, research scientist ,,Yes,,Part Time,,yes
+1412,No,travel rarely,,Life Sciences,F, sales executive ,Single,,No,Full Time,,yes
+1413,No,,,Marketing,M, manager ,,Yes,Yes,Full Time,,no
+1414,No,travel rarely,,,M, manager ,,,No,Full Time,,no
+1415,No,,,Life Sciences,M, laboratory technician ,,,No,,,no
+1416,No,travel rarely,,Life Sciences,M, manager ,,Yes,,Full Time,,no
+1417,Yes,travel frequently, Sales ,Medical,F, sales representative ,Single,,Yes,Part Time, sales representative  -  sales ,yes
+1418,No,,,,M, sales executive ,Divorced,,Yes,Part Time,,yes
+1419,No,,,Life Sciences,F, sales executive ,,,No,Part Time,,yes
+1420,No,travel rarely,,,M, sales executive ,Single,,,Part Time,,yes
+1421,No,travel rarely,,,F, laboratory technician ,,,,Full Time,,yes
+1422,Yes,travel rarely,,Life Sciences,M, laboratory technician ,Single,,No,Part Time,,yes
+1423,No,,,,M, healthcare representative ,Divorced,,No,Full Time,,no
+1424,Yes,,,,M, human resources ,Married,,No,,,yes
+1425,No,travel rarely,,Life Sciences,F, manufacturing director ,,,Yes,,,yes
+1426,No,travel rarely,,,M, research scientist ,Married,Yes,No,,,yes
+1427,No,non travel,,Marketing,M, sales executive ,,Yes,No,Part Time,,yes
+1428,Yes,travel rarely, Sales ,,M, sales executive ,Single,,,Full Time, sales executive  -  sales ,no
+1429,No,travel rarely,,Life Sciences,F, human resources ,,,,,,yes
+1430,No,,,,M, research scientist ,Married,,Yes,Part Time,,no
+1431,Yes,,,,F, sales executive ,,,Yes,Part Time,,yes
+1432,Yes,travel rarely,,,M, sales executive ,Married,,,,,yes
+1433,No,travel rarely,,Technical Degree,F, research scientist ,Divorced,,,Part Time,,yes
+1434,No,,,,M, healthcare representative ,Married,Yes,No,Part Time,,no
+1435,No,travel rarely,,Medical,M, healthcare representative ,Married,,,Part Time,,yes
+1436,Yes,,,Technical Degree,M, research scientist ,,,Yes,Part Time,,no
+1437,No,travel rarely,,,M, research director ,Married,,No,Full Time,,no
+1438,Yes,,,Marketing,M, sales representative ,Single,,,,,yes
+1439,Yes,travel rarely,,Medical,F, laboratory technician ,,,Yes,Part Time,,yes
+1440,No,travel rarely,,Other,M, human resources ,Divorced,Yes,No,Part Time,,yes
+1441,No,travel rarely,,,M, healthcare representative ,Married,,No,Part Time,,no
+1442,No,,,,F, research scientist ,Single,,,,,yes
+1443,Yes,travel rarely,,Human Resources,M, human resources ,Married,,No,Full Time,,yes
+1444,No,travel rarely,,,F, research scientist ,,Yes,Yes,,,yes
+1445,No,travel frequently,,Marketing,M, sales executive ,,,,Part Time,,yes
+1446,No,,,Life Sciences,M, healthcare representative ,Divorced,Yes,No,Part Time,,no
+1447,No,travel rarely,,,M, laboratory technician ,,,No,Part Time,,yes
+1448,No,travel rarely,,,M, human resources ,Married,,No,Part Time,,yes
+1449,Yes,,,,M, research scientist ,,Yes,Yes,Part Time,,no
+1450,No,travel rarely, Sales ,Medical,F, sales representative ,,Yes,No,, sales representative  -  sales ,yes
+1451,Yes,,,,M, sales representative ,,Yes,,,,no
+1452,Yes,travel rarely, Research & Development ,Life Sciences,M, research scientist ,Single,,,, research scientist  -  research & development ,yes
+1453,No,,,Life Sciences,F, research scientist ,,Yes,Yes,Full Time,,no
+1454,No,travel rarely,,,M, healthcare representative ,,,,Part Time,,yes
+1455,Yes,travel frequently, Sales ,Technical Degree,M, sales representative ,Single,,No,Part Time, sales representative  -  sales ,yes
+1456,Yes,travel rarely,,Marketing,F, sales executive ,,Yes,Yes,Part Time,,yes
+1457,No,travel rarely,,,F, sales executive ,Married,,,Part Time,,yes
+1458,No,travel rarely,,,M, manufacturing director ,Married,,No,Part Time,,yes
+1459,No,,,,F, manager ,,,Yes,Full Time,,yes
+1460,No,travel rarely, Sales ,Marketing,M, sales executive ,Divorced,,,Part Time, sales executive  -  sales ,no
+1461,Yes,,,,F, human resources ,Married,Yes,No,Full Time,,no
+1462,No,travel rarely,,,M, sales representative ,Single,,,,,yes
+1463,No,,,Life Sciences,M, manufacturing director ,,,No,Part Time,,yes
+1464,No,,,Medical,F, laboratory technician ,,Yes,,Part Time,,yes
+1465,No,travel rarely,,,F, human resources ,,Yes,No,Part Time,,no
+1466,No,, Research & Development ,,M, laboratory technician ,Married,,No,Part Time, laboratory technician  -  research & development ,yes
+1467,No,non travel,,,M, manager ,,,,Full Time,,no
+1468,Yes,,,,M, sales representative ,Married,,No,,,no
+1469,No,travel rarely,,Life Sciences,F, human resources ,Single,,Yes,Part Time,,no
+1470,No,travel rarely,,Technical Degree,M, sales representative ,,,Yes,,,yes
+1471,No,non travel,,Medical,M, research scientist ,Single,,No,Part Time,,no
+1472,No,,,Life Sciences,M, healthcare representative ,Married,Yes,No,Part Time,,no
+1473,Yes,travel rarely,,Medical,F, healthcare representative ,Married,,,Part Time,,yes
+1474,No,,,Life Sciences,M, sales executive ,Divorced,Yes,,Part Time,,yes
+1475,No,travel frequently,,,F, sales executive ,Married,Yes,,Part Time,,yes
+1476,No,travel rarely,,Medical,M, manager ,Single,Yes,,,,yes
+1477,No,,,,M, manager ,,,,Full Time,,yes
+1478,No,travel rarely, Research & Development ,,M, healthcare representative ,,,No,, healthcare representative  -  research & development ,yes
+1479,No,,,Life Sciences,M, research director ,,,,Full Time,,yes
+1480,No,,,,M, research director ,,,No,,,yes
+1481,No,,,,F, manufacturing director ,Married,,No,Part Time,,yes
+1482,No,travel rarely, Research & Development ,Life Sciences,M, manager ,Married,Yes,No,Full Time, manager  -  research & development ,yes
+1483,No,non travel, Sales ,Life Sciences,F, sales representative ,,Yes,,Part Time, sales representative  -  sales ,no
+1484,Yes,,,Life Sciences,M, research scientist ,Married,Yes,,,,yes
+1485,No,travel frequently,,,M, research scientist ,,Yes,No,Full Time,,no
+1486,No,,,Medical,M, research director ,,,No,,,yes
+1487,No,,,,F, research scientist ,Single,Yes,Yes,Part Time,,yes
+1488,No,travel frequently,,,M, sales representative ,Married,,No,Part Time,,no
+1489,No,,,Marketing,M, sales executive ,Divorced,,,Part Time,,yes
+1490,No,,,,M, manufacturing director ,Single,,No,Part Time,,yes
+1491,Yes,,,,F, sales executive ,Single,,,Full Time,,yes
+1492,Yes,, Research & Development ,Medical,M, laboratory technician ,,,No,Part Time, laboratory technician  -  research & development ,no
+1493,No,travel rarely,,,F, healthcare representative ,,Yes,No,Full Time,,no
+1494,No,travel rarely,,,M, research scientist ,Married,Yes,No,,,no
+1495,No,travel frequently,,Other,M, laboratory technician ,Married,,,Part Time,,yes
+1496,No,,,,F, manager ,Divorced,Yes,No,Full Time,,no
+1497,No,, Research & Development ,Medical,F, research scientist ,,,Yes,Part Time, research scientist  -  research & development ,yes
+1498,No,travel rarely,,Life Sciences,M, human resources ,,Yes,No,Full Time,,yes
+1499,No,travel rarely,,Marketing,F, sales executive ,,,,Full Time,,yes
+1500,Yes,,,,M, sales executive ,,,,Full Time,,yes
+1501,No,non travel, Research & Development ,Medical,M, manufacturing director ,Divorced,,No,Part Time, manufacturing director  -  research & development ,no
+1502,No,,,Medical,F, manufacturing director ,Single,Yes,No,Part Time,,no
+1503,Yes,travel rarely,,Medical,F, healthcare representative ,Married,,No,Part Time,,no
+1504,No,non travel,,,F, sales executive ,,Yes,,,,yes
+1505,No,travel frequently,,Life Sciences,M, sales executive ,Married,,,,,no
+1506,Yes,,,Life Sciences,F, sales executive ,,Yes,,Part Time,,no
+1507,No,travel rarely, Research & Development ,,M, manager ,,Yes,,Full Time, manager  -  research & development ,yes
+1508,No,travel rarely, Sales ,,F, sales executive ,Single,Yes,No,Part Time, sales executive  -  sales ,yes
+1509,No,,,Medical,M, research director ,Married,Yes,No,,,no
+1510,No,travel frequently,,Other,M, laboratory technician ,Married,,No,Part Time,,yes
+1511,No,travel frequently,,Life Sciences,M, sales executive ,Married,,,Part Time,,yes
+1512,No,travel rarely, Research & Development ,,M, research scientist ,Married,,,Part Time, research scientist  -  research & development ,yes
+1513,No,travel rarely,,Human Resources,M, human resources ,,Yes,No,Full Time,,yes
+1514,No,, Research & Development ,,M, research scientist ,,Yes,,Part Time, research scientist  -  research & development ,yes
+1515,Yes,,,Medical,M, research scientist ,,,No,Part Time,,no
+1516,Yes,,,Medical,M, research scientist ,Married,Yes,Yes,Part Time,,yes
+1517,No,travel rarely,,,M, research director ,Married,Yes,,Full Time,,yes
+1518,No,,,Other,M, laboratory technician ,,,No,Full Time,,no
+1519,No,,,Medical,M, manufacturing director ,,Yes,No,Full Time,,no
+1520,No,,,,M, research scientist ,,Yes,,Full Time,,no
+1521,No,travel rarely, Human Resources ,,M, human resources ,Divorced,Yes,Yes,Part Time, human resources  -  human resources ,yes
+1522,No,, Sales ,,F, sales executive ,,,,Part Time, sales executive  -  sales ,yes
+1523,Yes,,,,F, sales representative ,Single,,,Part Time,,no
+1524,No,travel rarely,,Medical,M, healthcare representative ,,,No,Full Time,,no
+1525,No,,,,M, sales representative ,Single,,,Part Time,,yes
+1526,No,travel rarely,,Life Sciences,M, research scientist ,,Yes,,Part Time,,no
+1527,No,, Research & Development ,,M, research scientist ,,,No,Part Time, research scientist  -  research & development ,yes
+1528,No,travel rarely,,,M, laboratory technician ,,,No,Part Time,,yes
+1529,No,travel rarely,,Other,M, healthcare representative ,Single,Yes,No,Full Time,,no
+1530,No,travel rarely,,,F, research scientist ,Married,,No,,,yes
+1531,Yes,non travel,,Marketing,M, sales executive ,,,Yes,,,yes
+1532,No,,,Marketing,F, sales executive ,Divorced,,Yes,Part Time,,yes
+1533,No,,,,F, laboratory technician ,,Yes,No,Part Time,,yes
+1534,No,,,Medical,M, research director ,Married,Yes,,,,yes
+1535,No,,,,F, sales executive ,Married,Yes,No,Full Time,,yes
+1536,No,,,,M, laboratory technician ,,Yes,,Part Time,,yes
+1537,No,travel rarely,,Other,F, healthcare representative ,,,Yes,,,yes
+1538,No,travel rarely,,,M, laboratory technician ,Married,Yes,No,,,yes
+1539,Yes,travel rarely,,Medical,M, laboratory technician ,Married,Yes,No,Part Time,,yes
+1540,No,,,Life Sciences,M, research scientist ,Married,,No,Part Time,,yes
+1541,No,travel rarely,,Medical,M, healthcare representative ,Married,Yes,Yes,Full Time,,yes
+1542,Yes,non travel,,Life Sciences,M, manager ,Married,,,Part Time,,no
+1543,No,,,Life Sciences,F, manager ,Divorced,Yes,,,,yes
+1544,No,travel frequently,,,M, sales executive ,Single,Yes,,Part Time,,yes
+1545,No,travel rarely, Research & Development ,Technical Degree,M, laboratory technician ,,Yes,,, laboratory technician  -  research & development ,yes
+1546,Yes,travel rarely,,,M, sales executive ,Single,,,Full Time,,yes
+1547,No,travel rarely,,Technical Degree,M, sales executive ,,,,Part Time,,no
+1548,No,travel frequently,,Life Sciences,F, laboratory technician ,,Yes,No,Part Time,,no
+1549,No,travel rarely,,Marketing,M, sales executive ,,Yes,,,,yes
+1550,No,,,Medical,F, research scientist ,Single,Yes,,Part Time,,no
+1551,No,,,,M, sales executive ,,,No,,,yes
+1552,No,travel frequently, Research & Development ,Life Sciences,F, laboratory technician ,Divorced,Yes,No,, laboratory technician  -  research & development ,no
+1553,Yes,travel rarely,,,M, laboratory technician ,,Yes,,,,yes
+1554,No,, Sales ,,F, sales executive ,,Yes,No,Part Time, sales executive  -  sales ,yes
+1555,No,travel rarely,,,F, sales executive ,Divorced,Yes,Yes,,,yes
+1556,No,,,Medical,M, research scientist ,Divorced,,,Full Time,,yes
+1557,No,travel rarely,,,M, sales executive ,,Yes,,Part Time,,no
+1558,No,travel rarely,,Life Sciences,F, laboratory technician ,Married,Yes,Yes,Part Time,,yes
+1559,Yes,,,,M, sales executive ,,,No,Part Time,,yes
+1560,No,travel rarely,,,F, sales executive ,,,No,Part Time,,no
+1561,No,,,,F, laboratory technician ,,,No,Full Time,,no
+1562,No,,,Life Sciences,F, sales executive ,Married,Yes,No,Full Time,,yes
+1563,No,travel rarely, Sales ,Marketing,M, sales executive ,Married,,,Part Time, sales executive  -  sales ,yes
+1564,No,,,Medical,F, manufacturing director ,,Yes,No,,,no
+1565,No,non travel,,,F, laboratory technician ,Single,Yes,,Part Time,,yes
+1566,No,travel rarely,,Life Sciences,M, healthcare representative ,,,Yes,Part Time,,yes
+1567,No,travel rarely,,,F, sales executive ,Married,,No,Part Time,,yes
+1568,No,travel rarely,,Other,M, sales executive ,,,No,Part Time,,no
+1569,Yes,travel frequently,,Life Sciences,F, human resources ,,Yes,Yes,Part Time,,yes
+1570,No,,,Other,F, healthcare representative ,Single,Yes,Yes,Part Time,,yes
+1571,No,,,,M, sales executive ,Single,,,Part Time,,no
+1572,No,travel rarely,,Medical,M, sales executive ,Divorced,Yes,No,Part Time,,yes
+1573,No,travel frequently,,,M, laboratory technician ,Divorced,Yes,,Part Time,,yes
+1574,No,, Sales ,,F, sales executive ,Single,Yes,,Part Time, sales executive  -  sales ,no
+1575,No,travel rarely,,Other,M, manufacturing director ,Married,,No,Part Time,,yes
+1576,No,,,,M, human resources ,,Yes,,Part Time,,no
+1577,No,travel rarely, Sales ,Marketing,F, sales executive ,,,No,Part Time, sales executive  -  sales ,yes
+1578,No,, Research & Development ,Life Sciences,M, research scientist ,Divorced,Yes,,, research scientist  -  research & development ,yes
+1579,No,,,Medical,F, healthcare representative ,,,,,,yes
+1580,No,,,Technical Degree,F, healthcare representative ,Single,,No,Part Time,,no
+1581,No,,,Marketing,M, sales executive ,,,,,,yes
+1582,No,travel rarely,,Life Sciences,F, healthcare representative ,,Yes,,Part Time,,no
+1583,No,travel rarely,,Life Sciences,F, manufacturing director ,Married,,,Part Time,,no
+1584,No,travel rarely,,Life Sciences,F, research director ,Single,,,Full Time,,no
+1585,No,,,Marketing,M, sales executive ,Single,,,Part Time,,no
+1586,No,travel frequently,,,M, manufacturing director ,,Yes,No,Part Time,,yes
+1587,No,,,,M, manager ,,Yes,No,Full Time,,no
+1588,Yes,, Research & Development ,,F, research scientist ,,,Yes,Part Time, research scientist  -  research & development ,yes
+1589,No,, Research & Development ,,F, research director ,Married,Yes,,Full Time, research director  -  research & development ,no
+1590,No,,,Marketing,M, sales executive ,Divorced,Yes,No,Part Time,,no
+1591,No,travel rarely,,,M, healthcare representative ,Married,,No,Full Time,,yes
+1592,No,travel rarely,,,M, sales representative ,Single,,No,Full Time,,yes
+1593,No,non travel,,,M, sales executive ,Single,Yes,,Part Time,,yes
+1594,No,,,Medical,F, healthcare representative ,Married,,No,Part Time,,yes
+1595,No,,,Life Sciences,F, manufacturing director ,Single,,,Full Time,,no
+1596,No,,,Medical,F, healthcare representative ,,Yes,No,Part Time,,yes
+1597,No,travel frequently,,,M, manager ,,,No,Full Time,,yes
+1598,No,travel rarely,,Other,F, manufacturing director ,,,,Part Time,,yes
+1599,No,travel rarely,,,M, research scientist ,Married,,,Part Time,,no
+1600,Yes,,,Medical,M, sales executive ,Single,Yes,,,,yes
+1601,No,, Sales ,,F, sales executive ,,Yes,,Part Time, sales executive  -  sales ,no
+1602,Yes,,,Medical,F, research scientist ,Married,,,Part Time,,yes
+1603,No,,,,M, research scientist ,,,Yes,Part Time,,no
+1604,Yes,, Research & Development ,Life Sciences,F, laboratory technician ,Divorced,,Yes,Part Time, laboratory technician  -  research & development ,yes
+1605,No,travel rarely,,,M, sales representative ,,,,Part Time,,yes
+1606,No,travel frequently, Sales ,Medical,M, sales executive ,,Yes,,Part Time, sales executive  -  sales ,yes
+1607,No,,,Medical,F, healthcare representative ,,,,Part Time,,yes
+1608,No,,,Medical,F, manufacturing director ,Married,,,Full Time,,yes
+1609,Yes,travel rarely,,Life Sciences,M, sales executive ,Married,Yes,,Full Time,,no
+1610,No,non travel,,,M, laboratory technician ,,,,Part Time,,yes
+1611,No,travel rarely,,,M, sales executive ,Single,,No,Part Time,,yes
+1612,No,non travel,,Technical Degree,M, sales executive ,Divorced,,No,Part Time,,yes
+1613,No,,,Medical,M, manufacturing director ,,Yes,,Full Time,,no
+1614,No,,,Life Sciences,M, sales executive ,Married,Yes,,,,yes
+1615,No,travel rarely, Human Resources ,Medical,M, human resources ,Married,Yes,,Part Time, human resources  -  human resources ,no
+1616,No,travel rarely,,,F, sales executive ,,Yes,No,Part Time,,yes
+1617,Yes,travel rarely,,,F, sales executive ,Single,Yes,Yes,Part Time,,no
+1618,No,,,Life Sciences,F, sales representative ,Single,,Yes,,,yes
+1619,No,travel rarely,,,F, sales executive ,Married,Yes,Yes,,,yes
+1620,Yes,travel rarely, Research & Development ,Other,F, research scientist ,Single,,No,Part Time, research scientist  -  research & development ,no
+1621,No,,,Marketing,M, sales representative ,Married,,No,Part Time,,yes
+1622,No,travel rarely,,Medical,M, manufacturing director ,Divorced,,,Part Time,,yes
+1623,No,travel rarely, Sales ,,F, sales executive ,,,Yes,Part Time, sales executive  -  sales ,no
+1624,No,travel rarely,,,F, manufacturing director ,Single,Yes,No,Part Time,,no
+1625,Yes,travel rarely,,,M, research scientist ,Single,Yes,No,Part Time,,no
+1626,No,,,,F, research director ,,,Yes,Full Time,,yes
+1627,No,travel rarely,,,F, laboratory technician ,Single,,,Part Time,,no
+1628,Yes,travel frequently,,,F, sales representative ,Single,,No,Part Time,,yes
+1629,No,,,,M, research director ,,,,Part Time,,yes
+1630,Yes,non travel,,Life Sciences,M, manager ,Married,,,,,yes
+1631,No,travel rarely,,,M, research scientist ,Married,,No,,,yes
+1632,No,,,Other,M, laboratory technician ,,,No,Full Time,,yes
+1633,No,,,Medical,F, healthcare representative ,Married,,No,Part Time,,yes
+1634,No,,,,F, sales executive ,Single,Yes,No,Part Time,,yes
+1635,No,,,,F, sales representative ,Married,Yes,,Part Time,,yes
+1636,No,, Research & Development ,Technical Degree,M, laboratory technician ,,,,Part Time, laboratory technician  -  research & development ,no
+1637,No,travel rarely,,Life Sciences,M, healthcare representative ,,,Yes,Part Time,,yes
+1638,No,travel rarely,,,F, sales executive ,Married,,No,Part Time,,yes
+1639,Yes,travel frequently, Research & Development ,Life Sciences,M, laboratory technician ,,Yes,,Part Time, laboratory technician  -  research & development ,yes
+1640,No,travel rarely, Sales ,Life Sciences,M, sales executive ,,,Yes,Part Time, sales executive  -  sales ,yes
+1641,No,,,,M, laboratory technician ,,Yes,No,Full Time,,yes
+1642,Yes,travel rarely,,,M, sales executive ,Single,,,,,yes
+1643,No,travel rarely,,Medical,M, healthcare representative ,,,No,Full Time,,no
+1644,No,,,Medical,M, laboratory technician ,Married,Yes,Yes,,,yes
+1645,Yes,travel rarely,,Medical,F, healthcare representative ,Married,,,Part Time,,yes
+1646,No,, Research & Development ,Other,M, laboratory technician ,Divorced,Yes,,Part Time, laboratory technician  -  research & development ,yes
+1647,Yes,non travel,,Marketing,M, sales executive ,,,Yes,,,yes
+1648,Yes,travel frequently,,,M, manufacturing director ,,Yes,,Full Time,,no
+1649,No,travel rarely,,Life Sciences,F, manufacturing director ,Divorced,Yes,No,,,no
+1650,Yes,,,,F, sales representative ,,,Yes,Part Time,,no
+1651,No,,,,M, manufacturing director ,Single,Yes,No,Full Time,,yes
+1652,No,,,,M, laboratory technician ,Single,Yes,No,Full Time,,yes
+1653,No,,,,M, manufacturing director ,,,No,,,yes
+1654,No,travel rarely, Research & Development ,,M, healthcare representative ,Married,Yes,No,Full Time, healthcare representative  -  research & development ,yes
+1655,No,,,Life Sciences,M, research scientist ,,Yes,No,Part Time,,yes
+1656,No,,,,F, manager ,Married,,No,Full Time,,yes
+1657,No,travel rarely,,Other,M, sales executive ,,,No,Part Time,,no
+1658,No,travel rarely, Research & Development ,Life Sciences,F, laboratory technician ,,,No,, laboratory technician  -  research & development ,yes
+1659,No,travel rarely,,Life Sciences,M, human resources ,,Yes,No,Full Time,,yes
+1660,Yes,travel rarely,,Life Sciences,M, sales representative ,Single,Yes,No,Part Time,,no
+1661,Yes,,,,M, laboratory technician ,Single,,No,Part Time,,yes
+1662,No,,,Life Sciences,M, laboratory technician ,Divorced,Yes,No,Part Time,,no
+1663,No,,,,M, research scientist ,,,No,Part Time,,yes
+1664,No,travel rarely,,Medical,M, manager ,Single,Yes,,,,yes
+1665,No,travel rarely,,Life Sciences,F, manufacturing director ,,,No,Part Time,,yes
+1666,No,,,Life Sciences,M, manufacturing director ,,,,Part Time,,no
+1667,No,travel rarely, Research & Development ,Life Sciences,M, research scientist ,Divorced,,,Part Time, research scientist  -  research & development ,yes
+1668,No,,,,M, manufacturing director ,,Yes,No,Part Time,,yes
+1669,No,travel rarely,,Life Sciences,F, research scientist ,Single,Yes,,Full Time,,no
+1670,No,,,Medical,M, research scientist ,Married,,,Part Time,,no
+1671,No,,,Medical,F, healthcare representative ,,,,Part Time,,yes
+1672,No,travel rarely,,,M, sales executive ,Single,,No,Part Time,,no
+1673,No,,,Medical,F, research scientist ,Single,,,,,yes
+1674,No,,,,F, manager ,Married,Yes,No,Full Time,,no
+1675,No,travel rarely,,,M, research scientist ,,,No,Part Time,,no
+1676,No,travel rarely,,Life Sciences,F, manufacturing director ,Divorced,,Yes,Part Time,,yes
+1677,No,,,Life Sciences,F, research scientist ,Single,Yes,Yes,Part Time,,no
